@@ -11,3 +11,6 @@ wheels/
 
 # Keys
 data_extractiom/api_access.py
+
+# data
+data/
