@@ -1,0 +1,2554 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "103072852",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/48/2b/0c/1177125464.webp",
+      "externalReference": "trv-481-gv",
+      "numPhotos": 4,
+      "price": 35000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 35000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "paseo Reding s/n s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7209656,
+      "longitude": -4.409758,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/103072852/",
+      "distance": "1038",
+      "description": "TRAVERSO pone a la venta una plaza de garaje bastante amplia, con capacidad para dos coches medianos o para un coche grande y moto. A la plaza se accede por medio de un ascensor. ¡Visítela sin compromiso!",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "carAndMotorcycle"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Garaje en paseo Reding s/n s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105941871",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/2f/d4/1317460403.webp",
+      "externalReference": "SR-0181",
+      "numPhotos": 13,
+      "price": 33000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 33000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "pacifico",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Pacífico",
+      "latitude": 36.6961176,
+      "longitude": -4.4413272,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105941871/",
+      "distance": "3315",
+      "description": "INMOBILIARÍA VIPKEL TE PRESANTA UNA OPORTUNIDAD FANTÁSTICA. Si trabajas en el Pacifico o cerca de esta magnifica zona, te presentamos una plaza de garaje, muy cómoda por su amplitud para un coche grande. Sabemos que en lo tiempos que ahora vivimos es casi que necesario por no decir super importante tener una plaza de garaje para nuestros coches y nuestra seguridad, esta plaza de garaje cuenta con la seguridad de 24 h. física y tecnológica. VIPKEL CONSULTING SERVICES - ÚNICA agencia Gallega y Española premiada por: • Premio a la Excelencia. CEX. • Premio Construcción y Vivienda. La Razón. • Premio Innovación Servicios Inmobiliarios. El Suplemento. • Récord de Ventas nueva empresa en Calidad y Crecimiento a nivel europeo. The European Award 2022. • Premio 2024 a mejor modelo de franquicia innovadora Resultados y trabajo continuo es lo que nos diferencia. Trabajamos un modelo centrado en la satisfacción de vendedores y compradores durante todo el proceso de inversión. Este anuncio no es vinculante, puede contener errores. Se muestra a título informativo y no contractual..",
+      "hasVideo": true,
+      "newDevelopment": false,
+      "hasLift": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Pacífico, Málaga",
+        "title": "Garaje en pacifico"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105095092",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d7/2b/43/1245900998.webp",
+      "externalReference": "SR-0160",
+      "numPhotos": 7,
+      "price": 35000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 35000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 36000.0,
+            "priceDropValue": 1000,
+            "priceDropPercentage": 3
+          }
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida de la Aurora s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7161519,
+      "longitude": -4.4347028,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/105095092/",
+      "distance": "1316",
+      "description": "INMOBILIARIA VIPKEL LES PRESENTA. Una oportunidad fabulosa una plaza de garaje en pleno centro, frente Centro comercial Larios a 3 minutos del Corte Ingles y a 5 minutos del CENTRO CAMINANDO. Para invertir también es un gran oportunidad ya que ahora mismo esta alquilado puede seguir o no pero lo seguro es que es una buena inversión. *  VIPKEL CONSULTING SERVICES - ÚNICA agencia Gallega y Española premiada por: - Premio a la Excelencia. CEX. - Premio Contrución y Vivienda. La Razón. - Premio Innovación Servicios Inmobiliarios. El Suplemento. - Récord de Ventas nueva empresa en Calidad y Crecimiento a nivel europeo. The European Award 2022. \"Resultados y trabajo continuo es lo que nos diferencia\" // \"Trabajamos un modelo centrado en la satisfacción de vendedores y compradores durante todo el proceso de inversión\" Descargar folleto. Descargar folleto.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1167.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "compactCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Garaje en avenida de la Aurora s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108104470",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bb/63/c6/1333949385.webp",
+      "externalReference": "ANTR5034913",
+      "numPhotos": 13,
+      "price": 38000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 38000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio La Trinidad",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Trinidad",
+      "latitude": 36.7250955,
+      "longitude": -4.4268233,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108104470/",
+      "distance": "641",
+      "description": "Amplio Garaje en zona de Málaga Centro. Se encuentra sobre el Centro Histórico de Málaga, situado en la avenida Fátima en paralelo a la orientación del Río Guadalmedina. con un tamaño de plaza de 22 m². Además, se encuentra a tan solo 4 minutos del Centro Histórico y a menos de 7 minutos de la Catedral. Aparcamiento de fácil acceso: Subterráneo, cubierto, acceso desde la calle y comunitario.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1727.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Trinidad, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96619719",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b5/a9/74/951778711.webp",
+      "externalReference": "Sótano -1",
+      "numPhotos": 4,
+      "floor": "st",
+      "price": 42000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 42000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "plaza del Teatro, 1",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7235987,
+      "longitude": -4.4210195,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/96619719/",
+      "distance": "257",
+      "description": "PLAZA DEL TEATRO – AMPLIAS PLAZAS DE GARAJE  En pleno centro histórico de Málaga, cerca de la calle Larios, Museo Thyssen, Museo de la Aduana y del Museo Picasso. Además, se encuentra a tan solo 6 minutos de la Catedral y a 10 de la Alcazaba.    Dispone de conserjería. También tenemos trasteros disponibles vinculados con plazas de aparcamiento, pregunta por precio de pack.",
+      "hasVideo": false,
+      "newDevelopment": true,
+      "hasLift": true,
+      "newDevelopmentFinished": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Garaje en plaza del Teatro, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96619687",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/04/b5/21/951778525.webp",
+      "externalReference": "Sótano -3",
+      "numPhotos": 4,
+      "floor": "st",
+      "price": 35000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 35000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "plaza del Teatro, 1",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7235987,
+      "longitude": -4.4210195,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/96619687/",
+      "distance": "257",
+      "description": "PLAZA DEL TEATRO – AMPLIAS PLAZAS DE GARAJE  En pleno centro histórico de Málaga, cerca de la calle Larios, Museo Thyssen, Museo de la Aduana y del Museo Picasso. Además, se encuentra a tan solo 6 minutos de la Catedral y a 10 de la Alcazaba.    Dispone de conserjería. También tenemos trasteros disponibles vinculados con plazas de aparcamiento, pregunta por precio de pack.",
+      "hasVideo": false,
+      "newDevelopment": true,
+      "hasLift": true,
+      "newDevelopmentFinished": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Garaje en plaza del Teatro, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96619706",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/75/74/26/951778619.webp",
+      "externalReference": "Sótano -2",
+      "numPhotos": 4,
+      "floor": "st",
+      "price": 38000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 38000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "plaza del Teatro, 1",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7235987,
+      "longitude": -4.4210195,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/96619706/",
+      "distance": "257",
+      "description": "PLAZA DEL TEATRO – AMPLIAS PLAZAS DE GARAJE  En pleno centro histórico de Málaga, cerca de la calle Larios, Museo Thyssen, Museo de la Aduana y del Museo Picasso. Además, se encuentra a tan solo 6 minutos de la Catedral y a 10 de la Alcazaba.    Dispone de conserjería. También tenemos trasteros disponibles vinculados con plazas de aparcamiento, pregunta por precio de pack.",
+      "hasVideo": false,
+      "newDevelopment": true,
+      "hasLift": true,
+      "newDevelopmentFinished": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Garaje en plaza del Teatro, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106584051",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/70/9c/19/1287530835.webp",
+      "externalReference": "SO5-MAL-0036321943",
+      "numPhotos": 12,
+      "price": 39800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 39800.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Senador Francisco Román",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7148291,
+      "longitude": -4.4310049,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106584051/",
+      "distance": "1118",
+      "description": "OPORTUNIDAD EN MÁLAGA CENTRO  PLAZAS DE PARKING A LA VENTA, IDEALES COMO INVERSION POR SU EXCELENTISIMA   UBICACIÓN DISPONEMOS DE VARIAS PLAZAS A LA VENTA DENTRO DEL MISMO EDIFICIO Geslawbrokers le presenta en esta ocasión esta PLAZA DE GARAJE que dispone de una superficie de construcción de 33,70m2 sobre un edificio de 7 plantas rasantes, al mismo se ingresa por puerta automática, la plaza es privada y cubierta.  Málaga, Costa del Sol, es la comarca donde está situada la capital de la provincia de Málaga, que es Málaga, la cual es la sexta mayor ciudad de España en nombre de habitantes. Además de esta municipio, la comarca también está conformada por los municipios de Almogía y Casabermeja. Fue fundad al siglo VII a. C por el Imperio Romano y hasta hoy en día ha sido una ciudad importante que ha prosperado mucho. Es una zona con una calidad de vida muy buena ya que las temperaturas anuales son de 18ºC y también por una gastronomía excepcional. También destacar los monumentos arquitectónicos que tiene que sol de alto valor, como la Catedral de Málaga y el Palacio Episcopal. Disponemos de una amplia cartera de viviendas procedentes de banco, no dude en consultarnos! Solicita una visita y estaré encantado de poder orientarle de forma gratuita en todo el proceso de compra. además si necesita financiar la compra de esta propiedad disponemos de un experimentado departamento de asesoramiento hipotecario para lograr ofrecerle de forma fácil y gratuita la mejor financiación del mercado. Si quiere vivir en un lugar de ensueño y no perder esta OPORTUNIDAD, no dude en llamarnos sin compromiso! estaremos encantados de atenderle. En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de Octubre | se informa al cliente que los gastos notariales | registrales | itp | y otros gastos inherentes a la compra | no están incluidos en el precio. El consumidor tiene derecho a que se le entregue una copia del correspondiente documento informativo abreviado de la vivienda. \". ¿Quiere comprar o vender una vivienda en Mijas, Torremolinos, Marbella, Fuengirola o Málaga? . también puede visitarnos en: facebook. com/geslawbrokers instragram. com/geslawbrokers.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1171.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Garaje en calle Senador Francisco Román"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98862886",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ba/40/ee/1324887929.webp",
+      "externalReference": "CAN-MAL-ALI2",
+      "numPhotos": 13,
+      "price": 20000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 20000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida Alicia de Larrocha",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Finca el Pato - Torre del Río",
+      "latitude": 36.6839064,
+      "longitude": -4.4571856,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98862886/",
+      "distance": "5240",
+      "description": "¡PLAZAS DE GARAJE A LA VENTA EN MÁLAGA! Hábitat Mediterránea le ofrece esta plaza de garaje en Brisas del Litoral, en una ubicación inmejorable, a escasos metros del Hospital Quirón, del Martín Carpena y al lado de las conocidas y lujosas Torres que están en construcción en avenida Alicia de Larrocha.   Pertenece a una promoción de diez plazas de garaje que están disponibles en dicha ubicación y que van desde los 20m² a los 23m². Es su oportunidad de conseguir su plaza de garaje cubierta, para coche o moto, y con puerta de acceso automática, y dejar de dar vueltas malgastando tiempo y gasolina buscando aparcamiento. Esta plaza concretamente tiene una superficie de 22m² y fácil maniobrabilidad. No pierda más minutos de su descanso ni gasolina buscando dónde aparcar su vehículo, ahora es el momento de aprovechar esta estupenda oportunidad. La mejor inversión de futuro al mejor precio.  CONTÁCTENOS, ESTAREMOS ENCANTADOS DE ATENDERLE. Nuestros honorarios de agencia ya están incluidos en el precio de venta por lo que no tendrá que abonar ningún tipo de gastos por gestión o asesoramiento inmobiliario y que en cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de Octubre, se informa que los gastos de notario, registro, ITP y otro gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Finca el Pato - Torre del Río, Málaga",
+        "title": "Garaje en avenida Alicia de Larrocha"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98862874",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/69/de/1324841671.webp",
+      "externalReference": "CAN-MAL-ALI1",
+      "numPhotos": 13,
+      "price": 20000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 20000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida Alicia de Larrocha",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Finca el Pato - Torre del Río",
+      "latitude": 36.6837481,
+      "longitude": -4.4595527,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98862874/",
+      "distance": "5385",
+      "description": "¡PLAZAS DE GARAJE A LA VENTA EN MÁLAGA! Hábitat Mediterránea le ofrece esta plaza de garaje en Brisas del Litoral, en una ubicación inmejorable, a escasos metros del Hospital Quirón, del Martín Carpena y al lado de las conocidas y lujosas Torres que están en construcción en avenida Alicia de Larrocha.   Pertenece a una promoción de diez plazas de garaje que están disponibles en dicha ubicación y que van desde los 20m² a los 23m². Es su oportunidad de conseguir su plaza de garaje cubierta, para coche o moto, y con puerta de acceso automática, y dejar de dar vueltas malgastando tiempo y gasolina buscando aparcamiento. Esta plaza concretamente tiene una superficie de 22`53m² y fácil maniobrabilidad. No pierda más minutos de su descanso ni gasolina buscando dónde aparcar su vehículo, ahora es el momento de aprovechar esta estupenda oportunidad. La mejor inversión de futuro al mejor precio.  CONTÁCTENOS, ESTAREMOS ENCANTADOS DE ATENDERLE. Nuestros honorarios de agencia ya están incluidos en el precio de venta por lo que no tendrá que abonar ningún tipo de gastos por gestión o asesoramiento inmobiliario y que en cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de Octubre, se informa que los gastos de notario, registro, ITP y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Finca el Pato - Torre del Río, Málaga",
+        "title": "Garaje en avenida Alicia de Larrocha"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106236692",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/84/c2/1d/1324864031.webp",
+      "externalReference": "JU-MAL-SVDRDA",
+      "numPhotos": 9,
+      "price": 14490.0,
+      "priceInfo": {
+        "price": {
+          "amount": 14490.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "paseo Salvador Rueda",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7228624,
+      "longitude": -4.4010817,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106236692/",
+      "distance": "1819",
+      "description": "* * * * * * * AVISO IMPORTANTE * * * * * * Inmueble en copropiedad sin posesión: oportunidad de inversión La Propiedad es titular del 50% del inmueble, existiendo una situación de copropiedad sobre el inmueble. Transmisión de una participación indivisa. Actualmente, no es posible realizar visitas al interior del inmueble.  Las fotografías pueden no reflejar el estado actual de la propiedad. * * * * * * * * * * * * * * * * * * * * * * * * * * *  Hábitat Mediterránea le ofrece esta plaza de garaje a la venta en Málaga capital, en el paseo de Salvador Rueda, distrito de El Limonar, en la planta sótano de un edificio residencial, que cuenta con una superficie de 26m², con fácil acceso y maniobrabilidad.  Está muy bien comunicado por carretera y con fácil acceso a la N-340 y A-7, además de tener en la zona varias paradas de bus (parada Salvador Rueda-Pinillo, línea: 32; y líneas 3, 11, 32, 33, 34 del paseo de Reading, Avda. Príes-Cementerio Inglés o la parada de plaza Malagueta, con las líneas 14 y 40, entre otras), esta a 15 minutos de la estación de tren, y a 20 minutos en coche del aeropuerto. ¿desea saber más? AVISO: la información que contiene este anuncio, puede estar sujeta a errores u omisiones. Las propiedades pueden estar sujetas a cambio de precio, venta o retirada del mercado. Para más información no dude en contactar con nosotros o visitando nuestra página web CONTÁCTENOS, ESTAREMOS ENCANTADOS DE ATENDERLE. Nuestros honorarios de agencia ya están incluidos en el precio de venta por lo que no tendrá que abonar ningún tipo de gastos por gestión o asesoramiento inmobiliario y que en cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de Octubre, se informa que los gastos de notario, registro, ITP y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 557.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Garaje en paseo Salvador Rueda"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105170985",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/75/ea/5c/1333467035.webp",
+      "externalReference": "IV6",
+      "numPhotos": 10,
+      "floor": "-1",
+      "price": 17000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 17000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Ciudad de Andújar",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Santa Cristina - San Rafael",
+      "latitude": 36.7098003,
+      "longitude": -4.4457732,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105170985/",
+      "distance": "2520",
+      "description": "SE VENDE PARKING EN SUBTERRANEO EN CALLE CIUDAD DE ANDUJAR -Ideal inversión Posibilidad de dividirlo en dos plazas de moto  -PRECIO 17.000€ -Para coche pequeño o mediano -13M2  -Altillo con trastero para almacenaje No deje de pasar esta oportunidad porque piense que no lo puede comprar, para eso URBEA GESTIÓN INMOBILIARIA le asesorará de forma gratuita para poder sacar las mejores condiciones del mercado en préstamos hipotecarios. En el Decreto 2182005, de 11 de octubre, por el que se aprueba el Reglamento de información al consumidor en la compraventa y arrendamiento de viviendas en Andalucía, se informa el cliente que los gastos notariales, registrales, I. T. P. honorarios de intermediación y-o financieros y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 1308.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santa Cristina - San Rafael, Málaga",
+        "title": "Garaje en calle Ciudad de Andújar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107970761",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/58/96/86/1329839183.webp",
+      "externalReference": "GAR0018",
+      "numPhotos": 4,
+      "floor": "-1",
+      "price": 39500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 39500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Luis Barahona de Soto",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Los Guindos - Parque Mediterráneo - Santa Paula",
+      "latitude": 36.6945132,
+      "longitude": -4.4449165,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107970761/",
+      "distance": "3642",
+      "description": "Norando Homes presenta EN EXCLUSIVA para sus clientes esta excelente oportunidad, plaza de Garaje. NO DUDE EN VISITARLO SIN COMPROMISO. ¡Llámenos para más información! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA, MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW]. [IW]. [IW].",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Guindos - Parque Mediterráneo - Santa Paula, Málaga",
+        "title": "Garaje en calle Luis Barahona de Soto"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107862854",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4c/12/42/1326556841.webp",
+      "externalReference": "GAR0016",
+      "numPhotos": 7,
+      "price": 39000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 39000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Huelin",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Huelin",
+      "latitude": 36.7065673,
+      "longitude": -4.4323585,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107862854/",
+      "distance": "1907",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad para invertir PLAZA DE PARKING + TRASTERO ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE COTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA, MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Puede contactarnos por WhatsApp a través del Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1560.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Huelin, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107931059",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/90/bd/dd/1328674662.webp",
+      "externalReference": "GAR0017",
+      "numPhotos": 7,
+      "price": 29000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 29000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Malagueta - Monte Sancha",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7207852,
+      "longitude": -4.410066,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107931059/",
+      "distance": "1011",
+      "description": "Norando Homes presenta PLAZA DE PARKING CON EXCELENTE UBICACIÓN!  ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE COTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Puede contactarnos por WhatsApp a través del Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101730521",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/22/46/1332189706.webp",
+      "externalReference": "GAR0004",
+      "numPhotos": 4,
+      "price": 42000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 42000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Cruz del Humilladero - Los Tilos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Cruz del Humilladero - Los Tilos",
+      "latitude": 36.7106292,
+      "longitude": -4.4353991,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101730521/",
+      "distance": "1721",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad para invertir, tenga en cuenta que ahora mismo hay mas personas interesadas en este inmueble. PLAZA DE PARKING + TRASTERO. Imprescindible venta conjunta. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Puede contactarnos por WhatsApp a través del  Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1750.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cruz del Humilladero - Los Tilos, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94040797",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/af/35/ce/1086919084.webp",
+      "externalReference": "jb33333",
+      "numPhotos": 4,
+      "price": 43000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 43000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida del Pintor Joaquín Sorolla",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7232093,
+      "longitude": -4.3948482,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94040797/",
+      "distance": "2375",
+      "description": "PLAZA DE GARAJE EN VENTA.   SOROLLA 15-17 disponemos de una plaza de garaje en venta ÚNICA y EXCLUSIVA en Málaga a un paso del paseo marítimo en el Limonar. No deje de pasar esta oportunidad porque piense que no lo puede comprar, para eso URBEA GESTIÓN INMOBILIARIA le asesorará de forma gratuita para poder sacar las mejores condiciones del mercado en préstamos hipotecarios. Decreto Junta de Andalucía 218/2005 del 11 de Octubre, se informa a los clientes que los gastos notariales, registrales, los de gestoría, los impuestos ( ITP ADJ o IVA ), los honorarios de intermediación y otros gastos inherentes a la compra, no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3071.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "carAndMotorcycle"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Garaje en avenida del Pintor Joaquín Sorolla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107296985",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/39/75/0d/1308764424.webp",
+      "externalReference": "PER-G-08",
+      "numPhotos": 9,
+      "price": 32000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 32000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 34000.0,
+            "priceDropValue": 2000,
+            "priceDropPercentage": 6
+          }
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida de la Aurora, 26",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7164805,
+      "longitude": -4.4317268,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107296985/",
+      "distance": "1065",
+      "description": "Se venden plazas de garajes de varios tamaños de 13 m2 a 17 m2.  En pleno centro de Málaga, AVENIDA DE LA AURORA 26.  En frente del Centro Comercial LARIOS, al lado de JARDINES de PICASSO,  Alrededor de 200 metros del Corte Ingles, Centro Comercial MALAGA PLAZA, Primark o cualquier tipo de servicios a pie de este aparcamiento seguro y privado! Por unos precios, dependiende de medida de la plaza exacta, de 32 000 por una hasta 40.000. Hay entrada con puerta automatica y la rampa recta con una inclinacion muy suave. Si estas buscando un sitio seguro y protegido para guardar tu automóvil, e ir libremente y con tranquilidad hacer tus cosas en centro de Malaga, esta oferta es para ti!",
+      "hasVideo": true,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2133.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Garaje en avenida de la Aurora, 26"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104879583",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/74/86/49/1325436780.webp",
+      "externalReference": "A768",
+      "numPhotos": 6,
+      "floor": "bj",
+      "price": 119000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 119000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Cruz del Molinillo, 24",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Goleta - San Felipe Neri",
+      "latitude": 36.7269653,
+      "longitude": -4.4227741,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/104879583/",
+      "distance": "641",
+      "description": "SE VENDEN GARAJE CON 3 PLAZAS DE COCHE Y 2 TRASTEROS. A unos minutos del centro histórico. Entrada con puerta independiente, automática y a pie de calle. 2 plazas de garaje con trastero y una plaza de garaje sin trastero. En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de Octubre, se informa al cliente que los gastos notariales, registrales, ITP, intermediación inmobiliaria y otros gastos inherentes a la compra, no están incluidos en el precio.",
+      "hasVideo": true,
+      "newDevelopment": false,
+      "priceByArea": 1123.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Goleta - San Felipe Neri, Málaga",
+        "title": "Garaje en calle Cruz del Molinillo, 24"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107900580",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a8/74/22/1327782878.webp",
+      "externalReference": "ARQ0018400",
+      "numPhotos": 10,
+      "price": 35000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 35000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Carrión",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Ejido",
+      "latitude": 36.728253,
+      "longitude": -4.4189395,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107900580/",
+      "distance": "803",
+      "description": "En el centro de Málaga, adquirir una plaza de garaje privada es una excelente opción para quienes buscan comodidad y seguridad en el estacionamiento.  ARQ ofrecer esta plaza de garaje en venta.   Ubicada en el centro, detrás del Teatro Cervantes, cerca de la calle Larios y otros puntos de interés cultural.  Esta plaza ofrece acceso peatonal.  Plaza amplia, de fácil maniobra y con entrada directa, ideal para coche grande o SUV.  Ubicada en pleno corazón de Málaga, en una zona estratégica con acceso rápido a las principales vías del centro histórico. Garaje con puerta automática y vigilancia 24 h.  ARQ Desarrollos Inmobiliarios, en Málaga desde 1993. En cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de Octubre, se informa que los gastos de notaría, registro, ITP y otros gastos inherentes a la compraventa no están incluidos en el precio. La información facilitada es orientativa, no tiene carácter vinculante y carece de valor contractual. Dicha información puede haber sufrido modificaciones que aún no han sido incorporadas. Le sugerimos se ponga en contacto con nuestra empresa para obtener los últimos datos y/o confirmar los aquí expuestos. ¡No pierdas esta oportunidad única! Contáctanos para más información o para concertar una visita.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1296.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "carAndMotorcycle"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Ejido, Málaga",
+        "title": "Garaje en calle Carrión"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107726402",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6e/8a/e5/1320989839.webp",
+      "externalReference": "04412",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 560000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 560000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Salitre",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7127763,
+      "longitude": -4.4304598,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107726402/",
+      "distance": "1245",
+      "description": "LOTE 18 PLAZAS DE GARAJE ENFRENTE DE ESTACIÓN DE TREN MARIA ZAMBRANO, CENTRO MÁLAGA CAPITAL  *** FANTASTICA OPORTUNIDAD DE INVERSIÓN ***  Increible oportunidad de inversión en una de las zonas más cotizadas de Málaga Capital. Situado a tan solo unos minutos de la ESTACION DE TREN MARIA ZAMBRANO y la ESTACIÓN DE AUTOBUSES, ofrecemos un lote de 18 plazas subterráneas de garaje en pleno CENTRO DE MÁLAGA. Desde dicha ubicación se puede acceder a pie al PASEO MARÍTIMO, el famoso MUELLE UNO, y el CASCO HISTÓRICO de Málaga Capital.  16 plazas son de tamaño convencional, y 2 de tamaño grande (para vehículos más voluminosos, tales como furgonetas o vehículos 4x4).  La tarifa de Comunidad es de 16,40€ por plaza. La tarifa de IBI anual es de 16,40€ por plaza normal, y 27,80€ por plaza doble. Tan solo se comercializa el lote completo.  *** IDEAL PARA ALQUILER O REVENTA DE LAS PLAZAS *** ¿A que espera para llamarnos? ¡No deje escapar esta única oportunidad! *** OFRECEMOS ASESORAMIENTO LEGAL Y FINANCIERO ***  ESPAÑOL, ENGLISH, FRANÇAIS, DEUTSCH, NEDERLANDS, RUSSIAN, UKRANIAN En cumplimiento del decreto de la Junta de Andalucía 218-2005 del 11 de octubre, se informa a los clientes que los gastos notariales, registrales, de ITP y financieros no están incluidos en el precio. VIDEO:.",
+      "hasVideo": true,
+      "newDevelopment": false,
+      "priceByArea": 21538.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Garaje en calle Salitre"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107997901",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/73/b3/cb/1330662906.webp",
+      "externalReference": "RP2982025136936",
+      "numPhotos": 10,
+      "price": 44000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 44000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Martínez Falero",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "El Palo",
+      "latitude": 36.7225654,
+      "longitude": -4.3566122,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107997901/",
+      "distance": "5775",
+      "description": "REDPISO vende plaza doble de garaje en Calle Martínez Falero, MALAGA Se ubica en la planta -1, de fácil acceso. Está cerrado con puertas metálicas por lo que se puede utilizar como trastero también.  ESPACIO PARA 2 COCHES. Cuenta con luz propia. Situada en una zona rodeada de comercios, colegios y todos los servicios que necesitas, tendrás todo lo que buscas a la vuelta de la esquina. Puede encontrarnos en Calle Alonso Carrillo de Albornoz 7, (frente al Mercado Municipal) Málaga. Teléfono de contacto  DEPARTAMENTO FINANCIERO propio Redpiso-DCredit: nuestro departamento financiero podrá aconsejarle de manera GRATUITA de todas las opciones de financiación, gracias a los convenios con las entidades financieras, en función de su situación laboral y económica, teniendo muchas más opciones económicas. FINANCIACIÓN HASTA EL 100%. Según el Real Decreto de 218/2005 de 11 de octubre, los precios ofertados no comprenden los tributos (Impuestos de Transmisiones Patrimoniales), ni los gastos notariales y registrales relativos a la compra-venta, ni la comisión de intermediación que satisface el comprador.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 1517.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "twoCars"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Palo, Málaga",
+        "title": "Garaje en calle Martínez Falero"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106698444",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7a/ec/31/1291320103.webp",
+      "externalReference": "ANT-4894183",
+      "numPhotos": 5,
+      "price": 25000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 25000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida de Carlos Haya",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Camino de Antequera",
+      "latitude": 36.7221538,
+      "longitude": -4.453493,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106698444/",
+      "distance": "2861",
+      "description": "Oportunidad de comprar una plaza de aparcamiento 12 m2 útiles, 25 m2 construidos con facil acceso de entrada y salida, facilidad para maniobrar. Este aparcamiento esta a dos minutos del Hospital Carlos de Haya y del Hospita HM.  Si estás cansado de buscar una plaza de aparcamiento todos los días, pues no busques más y llámanos enseguida. Los datos expuestos son meramente informativos y no tienen valor contractual. La oferta se sujeta a errores, cambios de precio, omisión, disponibilidad y/o retirada del mercado sin aviso previo. En el precio indicado no están incluidos los gastos inherentes a la compra de inmuebles según las leyes vigentes (ITP ó IVA, gastos notariales, gastos registrales, gestoría…)...",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Camino de Antequera, Málaga",
+        "title": "Garaje en avenida de Carlos Haya"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103770508",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1f/d1/a3/1332198361.webp",
+      "externalReference": "GAR0012",
+      "numPhotos": 3,
+      "floor": "bj",
+      "price": 12900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 12900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio El Consul - El Romeral",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Consul - El Romeral",
+      "latitude": 36.7190042,
+      "longitude": -4.4868214,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103770508/",
+      "distance": "5836",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad para invertir en la zona de TEATINOS Magníficas plazas de garaje, ubicada en una de las zonas más complicadas para aparcar en Málaga. DISPONEMOS DE 4 PLAZAS DE GARAJE EN EL MISMO BLOQUE. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 516.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Consul - El Romeral, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108038123",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bf/d5/41/1331955547.webp",
+      "externalReference": "DM290425PDLT",
+      "numPhotos": 5,
+      "price": 26000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 26000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida del Doctor Manuel Domínguez",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.7184369,
+      "longitude": -4.4669483,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108038123/",
+      "distance": "4072",
+      "description": "REF. DM290425PDLT A la VENTA Plaza de GARAJE en Puerto de la Torre. Consta de 13,20 m2 útiles. Cuenta con portón automático y ascensor. GASTOS: Comunidad: 7,75€/mes IBI: 29,24€/año. ¡Es la oportunidad que estabas esperando! Contáctanos para más información. Honorarios de la agencia inmobiliaria incluidos en el precio. En el decreto 218/2005, de 11 de octubre, por el que se aprueba el reglamento de información al consumidor en la compraventa y arrendamiento de viviendas en Andalucía, se informa al cliente que los gastos notariales, registrales, I. T. P. y otros gastos inherentes a la compraventa no están incluidos en el precio. La dirección del inmueble es aproximada. Debido a la ley de protección de datos no podemos facilitar la dirección exacta.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Garaje en avenida del Doctor Manuel Domínguez"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102520070",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/95/d3/6f/1288996031.webp",
+      "externalReference": "7272-00444",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 23250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 23250.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Kandinsky",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.7159383,
+      "longitude": -4.4654539,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102520070/",
+      "distance": "3971",
+      "description": "Presentamos magnífica plaza de parking en venta, en la zona de la Ciudad de la Justicia, ubicada en la calle Kandinsky.  Posibilidad de adquirir una segunda unidad. Recinto cerrado y vigilado, limpio con mantenimiento, fácil acceso tanto a pie por el portal, como con vehículo, sin rampas ni bajadas y subidas a plantas que compliquen su uso. Ambas tienen medidas especiales que hacen que el aparcamiento sea cómodo y rápido, 23m de plaza con una profundidad que permite tener motos e incluso poner armarios. En cumplimiento del artículo 10 del R. D. de la Junta de Andalucía 218/2005 de 11 de octubre por el que se aprueba el reglamento de información al consumidor en la compraventa y arrendamiento de viviendas en Andalucía, informamos al cliente que tiene a su disposición la Ficha Informativa en Segundas o Ulteriores Transmisiones De Viviendas. El precio de la vivienda no incluye los gastos de compraventa (notaría, registro e I. T. P. ). No existen honorarios de intermediación inmobiliaria adicionales al precio de venta. Precio de venta 23.250€ y 22.250€  Comunidad 10,50€.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 1011.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Garaje en calle Kandinsky"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104204962",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/f5/f7/1270255102.webp",
+      "externalReference": "JMZ0426",
+      "numPhotos": 5,
+      "floor": "-2",
+      "price": 26000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 26000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Rachmaninov",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7138774,
+      "longitude": -4.4305458,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104204962/",
+      "distance": "1160",
+      "description": "¿Estas buscando una plaza de garaje en el Centro de Málaga? Probablemente esta será la plaza que estás buscando, zona inmejorable en Perchel Sur a un paso de la Estación de AVE María Zambrano, Centros Comerciales, Corte Inglés y a un paso del Centro Histórico. Dicho Garaje se encuentra en la planta -3 del Residencial La Araucaria. Muy buen acceso para los vehículos y plazas anchas. acceso peatonal mediante ascensor. No lo dudes más y ven a visitarlo. REF. JMZ0426.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 839.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Garaje en calle Rachmaninov"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106849106",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8e/b6/23/1295789934.webp",
+      "externalReference": "SO-MAL-CS-16743-0001",
+      "numPhotos": 11,
+      "price": 9000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 9000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Lope de Rueda",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Puerto de la Torre",
+      "country": "es",
+      "neighborhood": "Los Almendros - El Limonero - El Tomillar",
+      "latitude": 36.7355289,
+      "longitude": -4.4792218,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106849106/",
+      "distance": "5390",
+      "description": "GRAN PLAZA DE GARAJE EN MÁLAGA A LA VENTA Solvia Mijas Stores le presenta esta PLAZA DE GARAJE, ubicado en el distrito Puerto de la Torre, en Málaga capital. Plaza de aparcamiento en planta -1 de edificio residencial con una superficie de 38,57 m2. Fácil acceso y amplia zona de rodadura que facilita la maniobrabilidad. La plaza cuenta con cepo. La misma se ubica al noroeste del centro de la ciudad de Málaga, una zona predominantemente residencial dotada con centros educativos y de salud, comercios y supermercados, entidades bancarias, etc. Además, la calle Lope de Rueda, vía que te comunica con el centro de Málaga en pocos minutos, discurre cerca de la vivienda. Málaga ¿ Costa del Sol es la comarca donde está situada la capital de la provincia de Málaga, que es Málaga, la cual es la sexta mayor ciudad de España en nombre de habitantes. Además de esta municipio, la comarca también está conformada por los municipios de Almogía y Casabermeja. Fue fundad al siglo VII a. C por el Imperio Romano y hasta hoy en día ha sido una ciudad importante que ha prosperado mucho. Es una zona con una calidad de vida muy buena ya que las temperaturas anuales son de 18ºC y también por una gastronomía excepcional. También destacar los monumentos arquitectónicos que tiene que sol de alto valor, como la Catedral de Málaga y el Palacio Episcopal. NO DEJE PASAR ESTA OPORTUNIDAD! NO SE LO PIENSE! Si quiere vivir en un lugar de ensueño en La Costa del Sol y no perder esta OPORTUNIDAD, no dude en llamarnos sin compromiso! estaremos encantados de atenderle. Solicite visita y estaré encantado de poder orientarlo de forma gratuita en todo el proceso de compra y si necesita financiar la compra de esta propiedad, disponemos de un experimentado departamento de asesoramiento hipotecario para lograr ofrecerle de forma fácil y gratuita la mejor financiación del mercado. En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de Octubre | se informa al cliente que los gastos notariales | registrales | itp | y otros gastos inherentes a la compra | no están incluidos en el precio. El consumidor tiene derecho a que se le entregue una copia del correspondiente documento informativo abreviado de la vivienda. \".",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 231.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Almendros - El Limonero - El Tomillar, Málaga",
+        "title": "Garaje en calle Lope de Rueda"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "92462372",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c4/91/ae/840239528.webp",
+      "numPhotos": 5,
+      "price": 34000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 34000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Pacifico",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Pacífico",
+      "latitude": 36.6969573,
+      "longitude": -4.439205,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/92462372/",
+      "distance": "3137",
+      "description": "Plaza de garaje amplia para todoterreno y moto en venta en Edificio de reciente construcción.  FRENTE AL PASEO MARÍTIMO ANTONIO BANDERAS,  UBICACIÓN PRIVILEGIADA. Zona nueva, muy demandada por la calidad de vida que brinda su ENTORNO ÚNICO e INIGUALABLE, dada su ubicación estratégica con excelentes comunicaciones a autovía, con la ventaja de estar a pocos minutos del aeropuerto Pablo Ruiz Picasso de Málaga, A 5 minutos de la Estación de trenes María Zambrano, un paseo de tan solo diez minutos andando al centro de la ciudad y 15 al casco antiguo. Cerca de establecimientos educativos, rodeada de parques y zonas verdes, carril bici, centros deportivos, restaurantes, supermercados, cafeterías y todo tipo de comercios. EXCELENTE OPORTUNIDAD - PRECIO NEGOCIABLE.  En cumplimiento del decreto de la junta de andalucía 2082005 del 11 de octubre, se informa el cliente que los gastos notariales, registrales, i. T. P, honorarios de intermediación inmobiliaria y/o financieros y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2615.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "carAndMotorcycle"
+      },
+      "suggestedTexts": {
+        "subtitle": "Pacífico, Málaga",
+        "title": "Garaje en Pacifico"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106073805",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/64/91/de/1271715262.webp",
+      "numPhotos": 17,
+      "price": 44000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 44000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Carretería, 105",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Goleta - San Felipe Neri",
+      "latitude": 36.7245073,
+      "longitude": -4.4208369,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106073805/",
+      "distance": "360",
+      "description": "¡Oportunidad única en el corazón del centro histórico!  Se vende plaza de garaje de 18 m² entre calle Carreterías y calle Álamos.  Ubicada en la primera planta para un acceso rápido y cómodo, esta plaza cubierta es ideal para coches grandes.  El edificio cuenta con ascensor, personal de seguridad y un sistema de alarma 24 horas, garantizando la máxima protección para tu vehículo. Además, dispone de puerta automática y circuito cerrado de seguridad. ¡No dejes pasar esta oportunidad de asegurar tu coche en una ubicación privilegiada con todas las comodidades!",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2444.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Goleta - San Felipe Neri, Málaga",
+        "title": "Garaje en calle Carretería, 105"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107231248",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/90/id.pro.es.image.master/00/b3/89/1306870350.webp",
+      "numPhotos": 15,
+      "price": 36000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 36000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Héroe de Sostoa",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "El Torcal",
+      "latitude": 36.7039949,
+      "longitude": -4.4422448,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107231248/",
+      "distance": "2674",
+      "description": "¡Oportunidad! Plaza de aparcamiento con trastero y acceso por ascensor En INMOBILIARIA LUCIA, ponemos a la venta esta práctica plaza de aparcamiento con trastero, ideal para quienes buscan comodidad y seguridad en un mismo espacio. Características del inmueble •Superficie útil total: 20 m² •Plaza de aparcamiento: 11,80 m², con fácil acceso y maniobrabilidad. •Trastero: 8,25 m², ideal para almacenamiento de enseres, bicicletas o herramientas. •Acceso cómodo y directo por ascensor, lo que facilita el traslado desde la vivienda o la calle sin necesidad de usar escaleras. Ubicado en una zona de fácil acceso, este aparcamiento es una excelente inversión tanto para uso propio como para rentabilizarlo en alquiler. ¡No pierdas esta oportunidad y consúltanos para más información! Somos una agencia especializada en la venta de inmuebles en Málaga con mas de 23 años de experiencia. Además te ayudamos a conseguir financiación, no dudes en consultarnos. En cumplimiento del decreto de la junta de Andalucía 2182005 del 11 de octubre, se informa al cliente que los gastos notariales, registrales, itp, intermediación inmobiliaria NO están incluidos en el precio. Estaremos encantados de atenderte personalmente en C. / Héroe de Sostoa, 192 (esquina con Av. de la Paloma). Horario de atención al cliente: Lunes a Jueves de 10:00 a 14:00 y de 17:30 a 20:00 horas. Viernes de 10.00 a 14:00 y Sábados (con cita previa). Si esta vivienda no es lo que estas buscando, contáctanos y nos encargaremos de hacerte una búsqueda totalmente personalizada adaptándonos a tus necesidades sin compromiso. Lucía Gestión Inmobiliaria S. L.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "carAndMotorcycle"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Torcal, Málaga",
+        "title": "Garaje en calle Héroe de Sostoa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106270425",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/ea/79/1277788629.webp",
+      "externalReference": "2480",
+      "numPhotos": 5,
+      "price": 27500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 27500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Perchel norte",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel norte",
+      "latitude": 36.7161455,
+      "longitude": -4.4302046,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106270425/",
+      "distance": "971",
+      "description": "¿Buscas una solución de aparcamiento en el corazón de la ciudad? Te presentamos esta excelente plaza de garaje, ideal para residentes o como inversión en una de las ubicaciones más convenientes. Características de la plaza de garaje: - Ubicación: Situada en el centro, justo al lado de El Corte Inglés, lo que te permitirá acceder fácilmente a tiendas, restaurantes y servicios. - Acceso: Entrada y salida cómodas, con acceso directo desde la calle principal. - Dimensiones: Espacio amplio, adecuado para la mayoría de los vehículos, incluyendo coches familiares y SUV. - Seguridad: El garaje cuenta con vigilancia y sistema de cámaras, garantizando la seguridad de tu vehículo en todo momento. - Facilidad de maniobra: Diseño que permite una fácil maniobra, evitando el estrés de aparcar en la ciudad. No dejes pasar esta oportunidad de adquirir una plaza de garaje en una ubicación privilegiada. ¡Contáctanos para más información o para agendar una visita! En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de octubre, se informa al cliente que los gastos notariales, registrales, ITP, intermediación inmobiliaria y otros gastos inherentes a la compra, no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel norte, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107307113",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/56/a2/25/1309066387.webp",
+      "externalReference": "RP2572025134788",
+      "numPhotos": 4,
+      "price": 16500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 16500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Pastora Imperio",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Huerta Nueva - Jardín de Málaga",
+      "latitude": 36.7539146,
+      "longitude": -4.419838,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107307113/",
+      "distance": "3629",
+      "description": "REDPISO VENDE EN EXCLUSIVA 2 PLAZAS DE GARAJE EN RECINTO CERRADO Estas plazas de garaje cuentan con una superficie de 23 m² cada una, ofreciendo amplitud y comodidad. CARACTERÍSTICAS:  PRECIO: 16.500€ por cada plaza.  FÁCIL ACCESO: Zona con buena maniobra de entrada y salida.  VENTA INDIVIDUAL O CONJUNTA: Se pueden adquirir por separado o juntas.  OPORTUNIDAD DE INVERSIÓN: Ideal para residentes de la zona que deseen utilizar una plaza y alquilar la otra.  ACCESO PEATONAL: Tres puertas de acceso para mayor comodidad. ¡No pierdas esta oportunidad! Contáctanos para más información o para concertar una visita. ¡Contacta ahora con tu asesora MARINA al ☎ (seis-tres-cinco-uno-nueve-tres-tres-nueve-dos) para obtener más información!  En cumplimiento del Decreto de la Junta de Andalucía 218/2005, de 11 de octubre, se informa al cliente que los precios ofertados no comprenden los tributos (Impuestos de Transmisiones Patrimoniales), ni los gastos notariales y registrales relativos a la compra-venta, ni la comisión de intermediación.   Redpiso, la confianza de trabajar con el líder.  Puede encontrarnos en Calle Emilio Thuiller, 22 (frente a la BP)  .",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 717.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Huerta Nueva - Jardín de Málaga, Málaga",
+        "title": "Garaje en calle Pastora Imperio"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107579537",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/a6/d7/1316749908.webp",
+      "externalReference": "PNZC-526",
+      "numPhotos": 5,
+      "floor": "1",
+      "price": 14000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 14000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "avenida de Lope de Vega",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.7269489,
+      "longitude": -4.4622577,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107579537/",
+      "distance": "3695",
+      "description": "PM Real Estate vende amplia Plaza de garaje en Avenida Lope de Vega, Teatinos – Málaga.  - Amplia plaza de aparcamiento, ideal para coches grandes y SUV. - Acceso seguro con puerta automática. - Ubicación estratégica, cerca de servicios, universidades y con fácil conexión a la autovía. - Fácil maniobra y cómodo acceso, perfecta para vehículos de gran tamaño. Líderes en venta y alquiler en Málaga y la Costa del Sol.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 389.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Garaje en avenida de Lope de Vega"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107991910",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/c9/8d/1330483169.webp",
+      "externalReference": "GH-0148",
+      "numPhotos": 15,
+      "floor": "3",
+      "price": 32000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 32000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio La Goleta - San Felipe Neri",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Goleta - San Felipe Neri",
+      "latitude": 36.7243978,
+      "longitude": -4.4197928,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107991910/",
+      "distance": "373",
+      "description": "¡Oportunidad única de inversión o comodidad diaria! Plaza de aparcamiento en Calle Carretería, Málaga ¿Cansado de perder tiempo buscando aparcamiento en el centro de Málaga? Esta plaza de parking de 18m2 útiles, situada dentro de un edificio en la céntrica Calle Carretería, es la solución perfecta para evitar el caos diario de la zona. En un área donde aparcar en la calle es prácticamente imposible, esta plaza privada se convierte en un auténtico tesoro. Ideal para coche pequeño debido a las dimensiones de la plaza, ofrece acceso cómodo y seguro en una ubicación inmejorable. A tan solo: - 3 minutos a pie del centro histórico de Málaga - 10 minutos andando del Puerto de Málaga y Muelle Uno - 5 minutos de la Calle Larios y principales zonas comerciales - Excelente conexión con transporte público y salidas hacia la autovía El edificio está equipado con ascensor, vigilancia permanente y un sistema de monitoreo activo las 24 horas, lo que asegura una protección óptima para tu automóvil. También incluye acceso automatizado y cámaras de seguridad con grabación continua. Perfecta tanto para residentes como para quienes buscan una inversión segura en una zona con alta demanda de aparcamiento. ¡No dejes escapar esta oportunidad! Hacemos que suceda...",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 1000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Goleta - San Felipe Neri, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105700735",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ae/2e/84/1260394142.webp",
+      "numPhotos": 12,
+      "price": 21000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 21000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Capuchinos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Ejido",
+      "latitude": 36.7284988,
+      "longitude": -4.4231352,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105700735/",
+      "distance": "815",
+      "description": "SE VENDE GARAJE CON TRASTERO en zona centro. calle capuchinos.  muy pocos vecinos. fácil aparcamiento y maniobrabilidad.  el edificio cuenta con elevador para planta sotano donde encontramos 6 aparcamientos amplios y fácil de manejar.  si necesitas tu segundo aparcamiento aquí esta. no sigas buscando o si quieres una rentabilidad fácil y sin riesgos este es tu producto perfecto. En cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de octubre, se informa a los clientes que los gastos notariales, registrales, los de gestoría, los impuestos (ITP, AJD o IVA) y otros gastos inherentes a la compra, no están incluidos en el precio. LLAME AL TELÉFONO DE Abogar Inmobiliaria o contacte a través de nuestro correo electrónico.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1313.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "compactCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Ejido, Málaga",
+        "title": "Garaje en calle Capuchinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103093305",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/ba/b0/1178071702.webp",
+      "externalReference": "RP2572023120444",
+      "numPhotos": 4,
+      "price": 17000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 17000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Juan Breva",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Huerta Nueva - Jardín de Málaga",
+      "latitude": 36.7522008,
+      "longitude": -4.4228655,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103093305/",
+      "distance": "3438",
+      "description": "¡ESCUCHAMOS SU PROPUESTA!  REDPISO vende PLAZA DE GARAJE EN EL CORAZÓN DE LOS VIVEROS – Ciudad Jardín Málaga.  Con una SUPERFICIE construida de 29,90 m² en un bloque de pocos propietarios.  Ubicado en la planta -1, con un ACCESO SENCILLO y una PUERTA AUTOMÁTICA automática que facilitará tu día a día.  ¡Imagina no tener que dar más vueltas buscando aparcamiento, no dudes en consultarnos! Contacta ahora con tu asesora MARINA al ☎ (seis-tres-cinco-uno-nueve-tres-tres-nueve-dos) para obtener más información.   Redpiso, la confianza de trabajar con el líder.  En cumplimiento del Decreto de la Junta de Andalucía 218/2005 de 11 de octubre, se informa al cliente que los precios ofertados no comprenden los tributos (Impuestos de Transmisiones Patrimoniales), ni los gastos notariales y registrales relativos a la compra-venta, ni la comisión de intermediación.  Puede encontrarnos en Calle Emilio Thuiller, 22 (frente a la BP) Málaga.",
+      "hasVideo": true,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1214.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Huerta Nueva - Jardín de Málaga, Málaga",
+        "title": "Garaje en calle Juan Breva"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105326576",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/99/fb/15/1248732710.webp",
+      "externalReference": "RP2552024128095",
+      "numPhotos": 7,
+      "price": 28900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 28900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Luis Carreras",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "El Torcal",
+      "latitude": 36.7000931,
+      "longitude": -4.4443337,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105326576/",
+      "distance": "3120",
+      "description": "REDPISO vende en exclusiva este Espacio Ideal para Tu Vehículo y Almacenamiento en Avenida de Velázquez.  Descubre la comodidad de tener tu propio espacio de aparcamiento junto con un práctico trastero, todo ello en una ubicación privilegiada dentro de la ciudad. Esta plaza de aparcamiento, no solo te ofrece 11 metros cuadrados perfectos para tu coche y motocicleta, sino también un trastero adicional de 6 metros cuadrados situado en planta -2. Su acceso es fácil y seguro, ideal para quienes buscan practicidad y protección para sus vehículos.  Situado en Avenida Velázquez, una zona conocida por su buena conexión y tranquilidad dentro del barrio Las Delicias, este espacio no solo te garantiza seguridad sino también cercanía a importantes vías de comunicación e infraestructura urbana.  Adquirir esta plaza significa invertir en conveniencia y seguridad. La propiedad está estratégicamente diseñada para maximizar cada metro cuadrado disponible, proporcionando así una solución eficiente tanto para estacionamiento como almacenaje extra necesario.  ¿Interesado en simplificar tu vida diaria con esta funcional combinación de parking más trastero? No esperes más; propiedades como esta son altamente buscadas por su gran utilidad y ubicación estratégica. Contáctame hoy mismo con Sandra López al correo o llámame directamente al para agendar una visita o recibir más información sobre cómo hacer tuya esta magnífica oportunidad.  Contamos con departamento financiero DCREDIT que le ayudará con su hipoteca. Financiación 100% según su perfil económico. Llámenos sin compromiso y le informaremos. ¡No dudes en visitarlo!  En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de octubre se informa al cliente que los precios ofertados no comprenden los tributos (impuesto de transmisiones patrimoniales), ni los gastos notariales y registrales relativos a la compra-venta, ni la comisión de intermediación.   Redpiso, la confianza de trabajar con el líder.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1204.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "carAndMotorcycle"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Torcal, Málaga",
+        "title": "Garaje en calle Luis Carreras"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106265278",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/be/14/ef/1277653978.webp",
+      "externalReference": "RP2552024131276",
+      "numPhotos": 10,
+      "price": 14000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 14000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "plaza Juan Gomez Juanito",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Nuevo San Andrés - Dos Hermanas",
+      "latitude": 36.6948794,
+      "longitude": -4.4619179,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106265278/",
+      "distance": "4655",
+      "description": "Descubre la oportunidad perfecta para asegurar el lugar ideal para tu vehículo en la vibrante zona del barrio Puerta Málaga. Presentamos una exclusiva plaza garaje a la venta, ubicada estratégicamente en la calle Juan Gómez Juanito, muy próxima al Polígono Santa Bárbara.  Esta plaza cuenta con 12 metros cuadrados que garantizan un acceso cómodo y maniobras sin complicaciones gracias a su diseño eficiente. La entrada está equipada con puertas automáticas y ascensor para facilitar el acceso peatonal, haciendo que cada llegada sea sencilla y segura.  Ubicada en un entorno dinámico, esta propiedad ofrece proximidad a servicios esenciales y excelentes conexiones con transporte público. Vivir o invertir aquí significa estar cerca del corazón empresarial sin perder comodidad en tus desplazamientos diarios. Redpiso ofrece esta plaza bajo condiciones exclusivas. No pierdas tiempo; propiedades como esta suelen volar rápidamente del mercado debido a su alta demanda. Ponte en contacto conmigo hoy mismo para obtener más información o programar una visita personalizada. Estoy aquí para ayudarte a tomar la mejor decisión inmobiliaria.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 667.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Nuevo San Andrés - Dos Hermanas, Málaga",
+        "title": "Garaje en plaza Juan Gomez Juanito"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "90027077",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e1/7c/f1/781835119.webp",
+      "externalReference": "AR3660794",
+      "numPhotos": 5,
+      "price": 24000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 24000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio El Tejar - Hacienda Bizcochero",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.7142193,
+      "longitude": -4.4659632,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/90027077/",
+      "distance": "4049",
+      "description": "Cerca de la Ciudad de la Justicia y el INEM encontraras esta amplia plaza de aparcamiento. Se puede acceder desde fuera como desde dentro del portal. Al lado del Mercadona. Cualquier consulta no dude en contactar con nosotros. Los datos expuestos son meramente informativos y no tienen valor contractual. La oferta se sujeta a errores, cambios de precio, omisión, disponibilidad y/o retirada del mercado sin aviso previo. En el precio indicado no están incluidos los gastos inherentes a la compra de inmuebles según las leyes vigentes (ITP, gastos notariales, gastos registrales, gestoría…).",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1714.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106906474",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/84/90/1299112684.webp",
+      "externalReference": "PNZC-511",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 17000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 17000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Juan de Robles",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.721088,
+      "longitude": -4.4621622,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106906474/",
+      "distance": "3632",
+      "description": "PM Real Estate vende estupenda plaza de Garaje en la zona de Teatinos.  Se vende amplia y cómoda plaza de garaje en Teatinos, ideal para un coche. Ubicada en un edificio de fácil acceso con puerta automática y sistema de seguridad. Características principales: - Ubicación privilegiada: En una zona residencial y cerca de comercios, universidades y transporte público. - Dimensiones óptimas: Espacio suficiente para un coche. - Comodidad: Acceso sencillo, buena maniobrabilidad y fácil estacionamiento. - Perfecta tanto para uso personal como para inversión en una de las áreas con más demanda de Málaga. Encuentra tu próximo hogar con nosotros, donde cada puerta abre una nueva oportunidad. ¡Tu nuevo hogar te espera! Líderes en venta y alquiler en Málaga y la Costa del Sol.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 810.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Garaje en calle Juan de Robles"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105658730",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/72/80/1276602982.webp",
+      "externalReference": "RP2572024129212",
+      "numPhotos": 6,
+      "price": 22000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 22000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Jerez Perchet",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Cortijo Bazán - Los Casinis - Los Cipreses",
+      "latitude": 36.745737,
+      "longitude": -4.4163862,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105658730/",
+      "distance": "2753",
+      "description": "REDPISO vende dos plazas de garaje contiguos, situados en la Calle Jerez Perchet, perfectas para aquellos que buscan un espacio seguro y cómodo para sus vehículos. Cada garaje cuenta con una superficie de 10 m², ofreciendo suficiente espacio para aparcar con facilidad. El precio de cada una de ellas es de 22.500€. Se pueden comprar por separado. Características destacadas:  Acceso: Entrada con mando a distancia, asegurando comodidad y seguridad.  Cobertura: Garajes cubiertos, protegiendo su vehículo de las inclemencias del tiempo.  Disponibilidad: Dos garajes contiguos, ideal para propietarios con más de un vehículo o para aquellos que necesitan espacio adicional.  No pierda la oportunidad de asegurar un lugar seguro y accesible para su vehículo en una ubicación privilegiada.  ¡Contacta ahora con tu asesor CARLOS al ☎ (seis-cinco-siete-ocho-dos-uno-siete-cinco-cero) para obtener más información!  En cumplimiento del Decreto de la Junta de Andalucía 218/2005, de 11 de octubre, se informa al cliente que los precios ofertados no comprenden los tributos (Impuestos de Transmisiones Patrimoniales), ni los gastos notariales y registrales relativos a la compra-venta, ni la comisión de intermediación.   Redpiso, la confianza de trabajar con el líder.  Puede encontrarnos en Calle Emilio Thuiller, 22 (frente a la BP)  .",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 2200.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cortijo Bazán - Los Casinis - Los Cipreses, Málaga",
+        "title": "Garaje en calle Jerez Perchet"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104916214",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fc/40/8c/1236039701.webp",
+      "externalReference": "17G4125",
+      "numPhotos": 13,
+      "floor": "bj",
+      "price": 39300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 39300.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Perchel sur - El Bulto",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7151175,
+      "longitude": -4.4310597,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104916214/",
+      "distance": "1101",
+      "description": "Se venden garajes desde 39.300 € hasta 48.700 € ¡Oportunidad única en el corazón del Perchel Sur! Garajes, con una superficie construida desde 33,31 hasta 40,85 metros cuadrados, ofrece la solución perfecta para tus necesidades de estacionamiento. Situado en una zona privilegiada, garantiza comodidad y seguridad para tu vehículo. No pierdas la oportunidad de asegurar tu espacio en esta ubicación estratégica. ¡Contáctanos hoy mismo para más detalles! El Perchel Sur y el Barrio El Bulto están ubicados en Málaga, España. Son zonas céntricas con acceso a una variedad de servicios y atracciones. Cerca del Perchel Sur, encontrarás la estación de tren María Zambrano, el puerto de Málaga, el Parque del Oeste y el Centro Histórico con sus tiendas, restaurantes y lugares de interés cultural. Por su parte, el Barrio El Bulto también ofrece una amplia gama de comercios, bares y restaurantes, así como una conexión conveniente con el centro de la ciudad y otras áreas de Málaga. En cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de octubre, se informa al cliente que están incluidos los honorarios de la agencia, no lo están, los notariales, registrales, los de gestoría, los impuestos que correspondan.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 1034.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105379173",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9f/11/61/1250277864.webp",
+      "externalReference": "B02714",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 14500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 14500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio El Consul - El Romeral",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Consul - El Romeral",
+      "latitude": 36.7188392,
+      "longitude": -4.4874902,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105379173/",
+      "distance": "5896",
+      "description": "Inmobiliarias Blanhogar saca a la venta un lote de 4 garajes en la zona de Romeral Teatinos. Son 4 plazas, a 14.500 euros cada uno de ellas.  Están en una planta -2 con acceso directo.  Se encuentran situada en un recinto cerrado con zona de piscina, jardines y pista de pádel.  No dude en llamarnos y visite la vivienda con Inmobiliarias BLANHOGAR, una de las Agencias Malagueñas con una trayectoria excelente desde 2.000, un trato familiar y con todos los servicios que usted necesita para acceder a la compra de su hogar. Nos encontramos en Martínez Maldonado 60, (junto a la Gasolinera de las Chapas) en horario de mañana y tarde ( de 9:30h a 14h y de 17h a 20:30h). Además los sábados, nuestros Agentes les atenderán en horario de mañanas. Según el cumplimiento del decreto de la Junta de Andalucía 208/2005 del 11 de octubre, se informa el cliente que los gastos notariales, gastos registrales, I. T. P, honorarios de intermediación, financieros y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 967.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Consul - El Romeral, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106091698",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/de/6e/6f/1272252492.webp",
+      "externalReference": "JMZ0461",
+      "numPhotos": 11,
+      "floor": "-1",
+      "price": 32000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 32000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Perchel norte",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel norte",
+      "latitude": 36.721752,
+      "longitude": -4.4269505,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106091698/",
+      "distance": "497",
+      "description": "Le presentamos una maravillosa plaza de garaje en una zona muy bien conectada con todos los servicio, a 350 metros del Centro Histórico, Supermercados como Lidl y Mercadona a un paso, a 400 metros del Corte Ingles. Dicha plaza se encuentra en una planta -1 de un edifico de aparcamientos, las dimensiones de la plaza serian 4,80m de largo por 2,55m de ancho. Dimensiones para un vehículo de hoy día. No lo pienses más y ven a visitarlo. REF. JMZ0461.",
+      "hasVideo": true,
+      "newDevelopment": false,
+      "priceByArea": 1103.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel norte, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105537545",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/50/f3/f8/1255438821.webp",
+      "externalReference": "B02762",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 28500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 28500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio La Merced",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Merced",
+      "latitude": 36.7259577,
+      "longitude": -4.4192339,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105537545/",
+      "distance": "552",
+      "description": "BLANHOGAR VENDE 5 PLAZAS DE GARAJE EN EL CENTRO  CADA PLAZA 28.500€ SON 5 PLAZAS EN TOTAL  LA ENTRADA ES A TRAVES DE UN ASCENSOR CON MONTACARGA Y SE ACTIVA CON UN MANDO A DISTANCIA  ES UN EDIFICIO PRIVADO Y TRANQUILO PLAZA AMPLIA PLAZAS PARA COCHES GRNADES Visite esta plaza de parking con Inmobiliarias BLANHOGAR, una de las Agencias Malagueñas con una trayectoria de 22 años y buen trato familiar, con todos los servicios que usted necesita para acceder a la compra de su plaza de parking. Nos encontramos en Avenida de Velázquez 60, (junto a la Volkswagen). Horario de mañana y tarde ( de 9:30h a 14h - 17h a 20:30h). Además los sábados, nuestros Agentes les atenderán en horario de mañana (10:00h - 13:30h). Teléfono de oficina  Según el cumplimiento del decreto de la Junta de Andalucía 208/2005 del 11 de octubre, se INFORMA al cliente que los gastos notariales, gastos registrales, I. T. P, honorarios de intermediación, financieros y otros gastos inherentes a la compra-venta NO ESTAN INCLUIDOS EN EL PRECIO.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 1900.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Merced, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107295240",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/39/ff/9f/1308730421.webp",
+      "externalReference": "AR4955467",
+      "numPhotos": 5,
+      "price": 23000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 23000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Cortijo Alto",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "Cortijo Alto",
+      "latitude": 36.7083581,
+      "longitude": -4.4624364,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107295240/",
+      "distance": "3930",
+      "description": "Excelente oportunidad de adquirir esta amplia plaza de aparcamiento en Cortijo Alto. Se encuentra cerca del Centro Comercial Bahia Málaga y a 5 minutos del Palacio de Justicia.  Visitelo sin compromiso. Los datos expuestos son meramente informativos y no tienen valor contractual. La oferta se sujeta a errores, cambios de precio, omisión, disponibilidad y/o retirada del mercado sin aviso previo. En el precio indicado no están incluidos los gastos inherentes a la compra de inmuebles según las leyes vigentes (ITP ó IVA, gastos notariales, gastos registrales, gestoría…).",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": false,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cortijo Alto, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99692011",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1f/a6/d6/1051494105.webp",
+      "externalReference": "B00094",
+      "numPhotos": 3,
+      "floor": "-1",
+      "price": 36000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 36000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "calle Juan Fernández Suria",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Los Castillejos - La Trinidad",
+      "latitude": 36.7244694,
+      "longitude": -4.4392956,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99692011/",
+      "distance": "1633",
+      "description": "PLAZA DE GARAJE JUNTO A MARTINEZ MALDONADO, Vendo plaza de garaje muy amplio, junto a la Plaza Basconia-Gamarra -Las Chapas, ideal para vecinos, trabajadores de todos los sectores del centro, pregunte si compromiso.   No dude en llamarnos y visite la propiedad con Inmobiliarias BLANHOGAR, una de las Agencias Malagueñas con una trayectoria excelente desde 2.000, un trato familiar y con todos los servicios que usted necesita para acceder a la compra de su hogar. Nos encontramos en Martínez Maldonado 60, (junto a la Gasolinera de las Chapas) en horario de mañana y tarde (de 9:30h a 14h y de 17h a 20:30h). Además los sábados, nuestros Agentes les atenderán en horario de mañanas.  Según el cumplimiento del decreto de la Junta de Andalucía 208/2005 del 11 de octubre, se informa el cliente que los gastos notariales, gastos registrales, I. T. P, honorarios de intermediación no incluidos, financieros y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 1333.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castillejos - La Trinidad, Málaga",
+        "title": "Garaje en calle Juan Fernández Suria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107169741",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/63/4a/eb/1305062032.webp",
+      "externalReference": "JBC0013",
+      "numPhotos": 20,
+      "floor": "-1",
+      "price": 560000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 560000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "Barrio Perchel sur - El Bulto",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7135951,
+      "longitude": -4.4282847,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107169741/",
+      "distance": "1053",
+      "description": "¿Estas buscando una plaza de garaje en el Centro de Málaga? Grupo Torres Inmobiliaria te ofrece este lote de 18 plazas de garajes en calle Salitre, zona inmejorable en Perchel Sur a un paso de la Estación de AVE María Zambrano, Centros Comerciales, Corte Inglés y a un paso del Centro Histórico. Dichos Garajes se encuentran en la planta -1 de un edificio común y con pisos turísticos. Acceso media ascensor para los vehículos, plazas anchas y cómodas. No lo dudes más y ven a visitarlo. REF. JBC0013.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "priceByArea": 20741.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Garaje"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104835449",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/c1/aa/1233029497.webp",
+      "externalReference": "Mal_Oceanía_P72",
+      "numPhotos": 6,
+      "price": 26500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 26500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "garage",
+      "operation": "sale",
+      "address": "carril de la Chupa, 13",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Pacífico",
+      "latitude": 36.6945451,
+      "longitude": -4.440916,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/104835449/",
+      "distance": "3446",
+      "description": "Plaza de aparcamiento a la venta en sótano de edificio Residencial Oceanía, en Calle Carril de la Chupa, junto a Calle Pacífico. A solo un paso del Paseo Marítimo y de la playa. Aparcamiento de fácil acceso a garaje con puerta automática. No dudes en llamarnos para pedir cita y verlo en persona.",
+      "hasVideo": false,
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 946.0,
+      "change": {},
+      "detailedType": {
+        "typology": "garage",
+        "subTypology": "sedanCar"
+      },
+      "suggestedTexts": {
+        "subtitle": "Pacífico, Málaga",
+        "title": "Garaje en carril de la Chupa, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    }
+  ],
+  "total": 318,
+  "totalPages": 7,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar",
+    "Garajes",
+    "Centro Histórico",
+    "Todos los precios"
+  ],
+  "alertName": "Garajes en Centro Histórico",
+  "totalAppliedFilters": 0,
+  "lowerRangePosition": 0,
+  "upperRangePosition": 50,
+  "paginable": true
+}

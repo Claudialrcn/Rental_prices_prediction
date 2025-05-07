@@ -1,0 +1,20 @@
+{
+  "elementList": [],
+  "total": 45,
+  "totalPages": 1,
+  "actualPage": 7,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar",
+    "Oficinas",
+    "Centro Histórico",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Oficinas en Centro Histórico",
+  "totalAppliedFilters": 0,
+  "lowerRangePosition": 300,
+  "upperRangePosition": 300,
+  "paginable": false
+}

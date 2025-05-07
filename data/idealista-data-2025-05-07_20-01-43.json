@@ -1,0 +1,2755 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "101344541",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/46/fb/2b/1118940976.webp",
+      "externalReference": "C-4475",
+      "numPhotos": 38,
+      "floor": "4",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 106.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 2,
+      "address": "puerta Nueva",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7203775,
+      "longitude": -4.4253543,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101344541/",
+      "distance": "367",
+      "description": "\"Magnífico ático-loft abuhardillado en pleno corazón de Málaga por 1.500€. Consta de 106 m2. Luminoso y moderno salón-comedor con televisión y sofá-cama. Cocina completamente equipada con microondas, vitrocerámica, nevera, lavadora y campana. Un dormitorio con cama de matrimonio y armario. Un baño íntegro con ducha y un aseo. La vivienda cuenta con terraza donde podrás disfrutar de privacidad, tranquilidad y buen clima. Aerotermia (Los sistemas aerotermia son bombas de calor de última generación diseñadas para aportar refrigeración en verano y calefacción en invierno) Coqueto ático ideal para una persona o una pareja. Decorado de diseño, COMPLETAMENTE A ESTRENAR CON CALIDADES DE LUJO. Se solicitan garantías de pago demostrables. No se aceptan mascotas. Cuota comunidad de propietarios incluido en el precio. Y sin moverte de casa! Aprovecha nuestras visitas virtuales y podrás ver la vivienda en directo. No te lo pienses mas y llámanos!  No te quedes sin él! Te gustará! Nuestras oficinas se encuentran en:  Calle Haydn, 3-5 (Ofic. Bda de La Paz) //  Más inmuebles en rentacasa. es En cumplimiento del decreto de la junta de Andalucía 218/2005 del 11 de octubre se informa al cliente que los gastos notariales, registrales, Impuestos y otros gastos de compraventa no están incluidos en el precio. Como consumidor tiene derecho a que se le informe y entregue la documentación informativa que corresponda, según el caso, en base a lo dispuesto en el Decreto 218/05 de 11 de Octubre que regula el Reglamento de Información al Consumidor en la compra-venta y arrendamiento de vivienda en Andalucía. ”.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Ático en puerta Nueva"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107977611",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/79/d5/bc/1330025567.webp",
+      "externalReference": "21839",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 1000.0,
+            "priceDropValue": 100,
+            "priceDropPercentage": 10
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Cristo de la Epidemia",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Cristo de la Epidemia",
+      "latitude": 36.7290579,
+      "longitude": -4.4133013,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107977611/",
+      "distance": "1124",
+      "description": "MAXIMO DOS PERSONAS CONTRATO 11 MESES RENOVABLES  ¡Descubre tu nuevo hogar en La Victoria! Este encantador piso en alquiler, ideal para una o dos personas, ofrece un espacio acogedor y funcional. Con 50 m² construidos, cuenta con una habitación luminosa y un baño completo. Situado en la planta baja de un edificio con ascensor, este inmueble destaca por su comodidad y accesibilidad.  tendrás la opción de disfrutar de una plaza de aparcamiento, lo que facilitará tus desplazamientos. El contrato es de 11 meses renovables, perfecto para quienes buscan estabilidad en una ubicación excelente. No dejes pasar la oportunidad de vivir en una zona vibrante como La Victoria. ¡Ven a visitarlo y hazlo tuyo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 120.0
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cristo de la Epidemia, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94977872",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/48/00/2f/903016683.webp",
+      "numPhotos": 22,
+      "floor": "5",
+      "price": 1800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Cortina del Muelle",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7196456,
+      "longitude": -4.4197318,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94977872/",
+      "distance": "236",
+      "description": "IDEAL ERASMUS DESDE 1 septiembre 25 hasta maximo 30 JUNIO 26 O POR SEMESTRES. PISO DE 3 HABITACIONES CON CAMA DOBLE Y BAÑO INDIVIDUAL CADA UNA, Cuenta con aire acondicionado y mesa y sillas de estudio. Se entrega con ropa de cama. El salón y la cocina también tienen aire acondicionado Piso ubicado en el corazón del centro histórico de Málaga, al lado de la catedral, del museo de Málaga, de la Alcazaba, y de otros puntos turísticos muy interesantes. No se acepta mascotas. 1800 EUROS MES, incluye wifi y agua y además, 100 euros mes por electricidad. inmobiliaria 1800 mas iva por ser contrato de temporada. Fianza de 1 mes que se devuelve al final si todo es ok.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 26.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Piso en calle Cortina del Muelle"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107980562",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/55/1a/8e/1330115130.webp",
+      "externalReference": "990",
+      "numPhotos": 21,
+      "floor": "15",
+      "price": 3500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 180.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "paseo Marítimo Pablo Ruiz Picasso",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7223294,
+      "longitude": -4.3989776,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107980562/",
+      "distance": "2001",
+      "description": "Fantástico y exclusivo piso en La Malagueta con excelentes calidades y vistas panorámicas. Reformado, se compone de un amplio salón, con grandes ventanales que comunica con una agradable zona de estar con terraza acristalada con Lumón, que se puede abrir en su totalidad, ademas cuenta con 4 dormitorios, gran cocina office, despensa y tres baños. Se alquila amueblado La plaza de garaje la tiene en otro edificio cercano Es necesario aportar credenciales financieras.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Piso en paseo Marítimo Pablo Ruiz Picasso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107970397",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d8/27/00/1329825555.webp",
+      "numPhotos": 21,
+      "floor": "6",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Gallito",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "La Luz",
+      "latitude": 36.693381,
+      "longitude": -4.4516838,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107970397/",
+      "distance": "4113",
+      "description": "Precioso piso en una perpendicular a Avenida Velázquez, muy luminoso, con 60 metros cuadrados útiles. PARA TEMPORADA, máximo un año mínimo 10 meses. Consta de dos dormitorios, terraza, salón, cocina independiente con zona de lavadero, baño totalmente reformado con plato ducha. Todo exterior. Los propietarios buscan personas serias, con solvencia demostrable, concierten visitas sin compromiso.  Dos meses de fianza y un mes como honorarios de la agencia inmobiliaria.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Luz, Málaga",
+        "title": "Piso en calle Gallito"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107897789",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/92/ee/1327681942.webp",
+      "externalReference": "MHM-88",
+      "numPhotos": 27,
+      "floor": "1",
+      "price": 1390.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1390.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Huerto del Conde",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Victoria",
+      "latitude": 36.7252752,
+      "longitude": -4.416131,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107897789/",
+      "distance": "644",
+      "description": "AMPLIO PATIO - REFORMADO - ESPACIOSOS DORMITORIOS- AMUEBLADO - YA DISPONIBLE! Tenga la oportunidad de vivir en pleno centro, junto a la Plaza de la Merced, en una piso totalmente reformado, abierto y espacioso en un entorno tranquilo, sin ruido y sin tránsito de vehículos. Sus 70 m2 se distribuyen en 2 dormitorios de muy buen tamaño, un coqueto baño con plato de ducha interior, y una espaciosa zona abierta entre salón, comedor, cocina y hall que transmite un ambiente sofisticado y confortable, y un estupendo patio de unos 30 metros cuadrados que sin duda hace que sea un lugar muy deseable. Qué lo hace destacable? - su patio en primer término: parte cubierto del que puede disfrutar los 365 dias del año y que lo hace un espacio muy versátil, y otra zona descubierta. - su estado: íntegramente reformado, con buenas terminaciones y acabados, potenciando los espacios abiertos - amueblado con gusto y cocina totalmente equipada ( incluye menaje de cocina )  - gran cantidad de espacio para almacenamiento: cuenta con buenos armarios empotrados y muebles para una buena organización - techos altos  - sistema de climatización tipo splits - cierres de ventanas de alta gama, marca Koperlim  - calentador eléctrico  Zona dotada de servicios de primera necesidad: supermercados, parada de bus, a 6 minutos a pie de Calle Marqués de Larios, cafeterías, restaurantes, junto a la casa natal de Pablo Ruiz Picasso y a Alcazaba y Teatro Romano. Con buenas comunicaciones  A un paso de poder darse largos paseos por el Monte Gibralfaro  Lo lamentamos, pero no se admiten mascotas  MHM HOMES Marisol Hidalgo Muñoz Personal Home Shopper.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Victoria, Málaga",
+        "title": "Piso en calle Huerto del Conde"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99417426",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/96/7f/5c/1043252336.webp",
+      "numPhotos": 40,
+      "floor": "3",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 122.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "C. de la Era s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7330218,
+      "longitude": -4.402939,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/99417426/",
+      "distance": "2098",
+      "description": "Se alquila por larga temporada con disponibilidad inmediata, amplio y luminoso piso exterior sin amueblar ubicado en una de las mejores zonas residenciales de Málaga, El Limonar. El piso y se distribuye en: Hall de entrada, amplio salón comedor con acceso a terraza con vistas a la montaña, enorme cocina amueblada y equipada, tres habitaciones, la primera de ellas con acceso a la terraza y todas ellas cuentan con amplios armarios empotrados, y dos baños completos. Se entregará recién pintado. El edificio se encuentra muy bien ubicado, en el cruce de dos vías principales pero tranquilas, con fácil acceso vehicular a la autovía, y parada de bus a pocos metros, varios locales locales comerciales de conveniencia a pocos pasos: panadería, farmacia, carnicería, peluquerías, kiosco y pequeños restaurantes y local de comida para llevar, centro deportivo.. . a muy poca distancia de colegios e institutos educativos, supermercados, y a solo 2km de la playa y 3km del centro histórico de la ciudad. Se exige documentación acreditativa de solvencia. Honorarios profesionales equivalentes a un mes de renta +IVA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Piso en C. de la Era s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108090731",
+      "externalReference": "20465",
+      "numPhotos": 0,
+      "floor": "4",
+      "price": 940.0,
+      "priceInfo": {
+        "price": {
+          "amount": 940.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Sevilla s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Trinidad",
+      "latitude": 36.7252162,
+      "longitude": -4.4295239,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108090731/",
+      "distance": "844",
+      "description": "C/ sevilla, piso de dos dormitorios, reformado, en buen estado a un paso del centro y del hospital civil, zona familiar, con colegios y centros comerciales cerca, 940€ incluida la comunidad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Trinidad, Málaga",
+        "title": "Piso en calle Sevilla s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107934547",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/5a/dd/1328781274.webp",
+      "numPhotos": 33,
+      "floor": "3",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Moby Dick",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Churriana",
+      "country": "es",
+      "neighborhood": "Guadalmar",
+      "latitude": 36.6637198,
+      "longitude": -4.4572626,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107934547/",
+      "distance": "7156",
+      "description": "En alquiler de temporada (mínimo 9 meses) y con vistas expléndidas al mar, muy luminosa, se alquila esta magnífica vivienda en Málaga zona de Guadalmar, a escasos 30 metros de la playa. Con 70 metros cuadrados, consta de tres dormitorios, un baño, amplio y luminoso salón, cocina tolalmente equipada con lavadero.  Amplias zonas comunes con pista de padel, tenis, piscina comunitaria y zona para barbacoas y celebraciones. Plaza de garaje incluida en el precio. Los propietarios buscan personas con solvencia demostrable y responsables que sepan cuidar de su vivienda. El contrato será temporal. No admiten menores de edad ni mascotas en la vivienda. Solicite visita sin compromiso, no deje pasar la oportunidad de vivir junto la mar.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 21.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Guadalmar, Málaga",
+        "title": "Piso en calle Moby Dick"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99350805",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/55/b0/c5/1041096096.webp",
+      "numPhotos": 65,
+      "price": 3500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 300.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "calle Pintor Martínez Cubells s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Pedregalejo - Morlaco",
+      "latitude": 36.7239829,
+      "longitude": -4.3705302,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/99350805/",
+      "distance": "4543",
+      "description": "Se alquila por larga temporada en exclusiva zona residencial de Pedregalejo, amplia y luminosa vivienda sin amueblar ubicada en chalet pareado. La vivienda posee un magnífico salón comedor con chimenea con salida a terraza desde la que se accede a una pequeña zona ajardinada a la que también puede accederse desde el área de  entrada de la vivienda sin tener que pasar dentro de ella. En esta planta de la vivienda se encuentran además 3 habitaciones, 1 baño completo con bañera, y la cocina amueblada. En la planta superior se encuentra una amplísima habitación abuhardillada con baño en suite. En la planta inferior en semisótano se encuentra una amplia habitación con mucha capacidad de almacenaje, que puede ser usada como zona de estar, área de juegos o trabajo, 2 habitaciones y 2 baños. Una de las habitaciones se puede usar como cuarto de plancha o servicio y la otra más apropiada como trastero. La vivienda tiene puerta de acceso al garaje con control automático y cuenta con amplia plaza de aparcamiento techada y habría la posibilidad de aparcar un segundo vehículo pequeño en el área abierta fuera del garaje pero dentro del recinto. Disponibilidad inmediata. Magnifica ubicación a 700 m de la playa de Pedregalejo, a la que puede accederse andando en menos de 10 minutos. Varias paradas de autobús (líneas 3,11, 34, M160) muy cerca de la casa, a 2 o a 5 min andando. Cerca de excelentes colegios e institutos de educación, supermercados y todo tipo de comercios a pocos minutos. Se exige documentación acreditativa de solvencia económica. Comisión equivalente a un mes de renta + IVA por intermediación inmobiliaria.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Pedregalejo - Morlaco, Málaga",
+        "title": "Chalet adosado en calle Pintor Martínez Cubells s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104718364",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b6/c9/de/1229561086.webp",
+      "externalReference": "MLG1-MM-2625",
+      "numPhotos": 16,
+      "floor": "4",
+      "price": 1800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "paseo Reding",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7220538,
+      "longitude": -4.4090397,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104718364/",
+      "distance": "1104",
+      "description": "Fabuloso piso de 2 habitaciones y 1 baño, en La Malagueta. Inmueble situado en edificio singular histórico, con vistas a monte Gibralfaro en Paseo de Reding 80 m2 construidos REFORMADO. Orientación Norte. Luminosa estancia principal Cocina abierta a estancia principal. Calefacción por radiadores Armarios empotrados, suelo de de mosaico, mármol y parqué de bambú, ventanas de madera y puertas de madera TIENE ASCENSOR. posibilidad de 2 plazas de garajes (150€/mes) Amueblado. No se aceptan mascotas. NO PIERDA ESTA OPORTUNIDAD Y CONTACTE CON NOSOTROS PARA REALIZAR UNA VISITA. Daurum Estate ofrece conseguir la mejor financiación a su medida hasta el 100% del valor de compra – venta sea nuestra la vivienda o no. INFORMACIÓN SIN COMPROMISO en el mismo número de teléfono del anuncio. Además, posibilidad de servicio de reformas para acomodar la vivienda a su gusto.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 150.0
+      },
+      "priceByArea": 23.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Piso en paseo Reding"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108052788",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b4/21/07/1332450617.webp",
+      "externalReference": "Gulussa",
+      "numPhotos": 10,
+      "floor": "1",
+      "price": 1230.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1230.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 38.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Capuchinos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7284336,
+      "longitude": -4.4203066,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108052788/",
+      "distance": "799",
+      "description": "Gestionado por el propietario - Sin comisión de agencia. GULUSSA ¡Descubre tu nuevo hogar en el encantador barrio de El Molinillo! Las estancias están a solo 5 minutos del vibrante centro de Málaga, lo que te permitirá disfrutar de la vida urbana sin perder la tranquilidad del barrio. Con espacios acogedores y funcionales, cada rincón ha sido diseñado para ofrecerte confort y calidad. La distribución separa la zona de living del dormitorio, brindando privacidad y un ambiente agradable. ✨ El inmueble cuenta con aire acondicionado y ventilador de techo para tu comodidad en cualquier época del año.  ✨Disfrutarás de una Smart TV, un escritorio ideal para trabajar o estudiar y WiFi privado para mantenerte siempre conectado.  ✨La cocina está completamente equipada con nevera, microondas con grill y todo lo necesario para preparar tus comidas favoritas. ✨ Todo es nuevo a estrenar, incluyendo camas de alta calidad que garantizan un descanso reparador.  No te olvides de la espectacular terraza comunitaria de 70 m², perfecta para relajarte al aire libre o socializar.  Además, la lavandería y zona de tendido facilitan tu día a día. - Contrato flexible desde 6 meses, ideal para quienes buscan un ambiente tranquilo y acogedor. x Este espacio no es adecuado para menores de edad ni se aceptan mascotas. x Los suministros y la limpieza tienen un costo adicional de 150 €, que incluye WiFi privado, agua y luz (con consumo responsable), limpieza semanal de zonas comunes y mensual de tu estancia privada. ❤️ En caso de ser pareja, el costo adicional es de 250 €/mes. ** La formalización del contrato está sujeta a la aprobación del seguro de impago (se requiere documentación). ✨ ¡No esperes más para hacer de este lugar tu nuevo hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 32.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Capuchinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97234050",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a2/72/f2/973087277.webp",
+      "numPhotos": 25,
+      "floor": "3",
+      "price": 2000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Navarro Ledesma",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Consul - El Romeral",
+      "latitude": 36.7249142,
+      "longitude": -4.4749266,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97234050/",
+      "distance": "4787",
+      "description": "SE ALQUILA PISO PARA ESTUDIANTES! La vivienda dispone de 125 m, distribuidas en 4 amplias habitaciones, dos baños, salón luminoso con salida a una bonita terraza, cocina completamente equipada con lavavajillas, horno, microondas, inducción.. . Aire acondicionado (bomba de calor). Ventiladores con mando en todas las habitaciones. Internet fibra 600MB y lavadero. Muy bien situado a 10-15 minutos de las principales facultades. orientación perfecta: sur-este. Todas las habitaciones y salón con vistas al exterior; Amplio recinto cerrado, jardines, varias piscinas y pistas de pádel, servicio de seguridad las 24 horas, trastero.  Hospital clínico a 10 minutos andando. Gastos de consumo no incluidos. No fumar. No animales. Si estás interesada puedes contactar para solicitar una visita o más información en el 679290233.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Consul - El Romeral, Málaga",
+        "title": "Piso en calle Navarro Ledesma"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108052655",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cb/f6/4b/1332422541.webp",
+      "externalReference": "MICIPSA",
+      "numPhotos": 14,
+      "floor": "bj",
+      "price": 945.0,
+      "priceInfo": {
+        "price": {
+          "amount": 945.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 30.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Capuchinos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7265122,
+      "longitude": -4.420758,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108052655/",
+      "distance": "582",
+      "description": "Gestionado por el propietario - Sin comisión de agencia. MICIPSA ¡Descubre tu nuevo hogar en el encantador barrio de El Molinillo! Las estancias están a solo 5 minutos del vibrante centro de Málaga, lo que te permitirá disfrutar de la vida urbana sin perder la tranquilidad del barrio. Con espacios acogedores y funcionales, cada rincón ha sido diseñado para ofrecerte confort y calidad. La distribución separa la zona de living del dormitorio, brindando privacidad y un ambiente agradable. ✨ El inmueble cuenta con aire acondicionado y ventilador de techo para tu comodidad en cualquier época del año.  ✨Disfrutarás de una Smart TV, un escritorio ideal para trabajar o estudiar y WiFi privado para mantenerte siempre conectado.  ✨La cocina está completamente equipada con nevera, microondas con grill y todo lo necesario para preparar tus comidas favoritas. ✨ Todo es nuevo a estrenar, incluyendo camas de alta calidad que garantizan un descanso reparador.  No te olvides de la espectacular terraza comunitaria de 70 m², perfecta para relajarte al aire libre o socializar.  Además, la lavandería y zona de tendido facilitan tu día a día. - Contrato flexible desde 6 meses, ideal para quienes buscan un ambiente tranquilo y acogedor. x Este espacio no es adecuado para menores de edad ni se aceptan mascotas. x Los suministros y la limpieza tienen un costo adicional de 150 €, que incluye WiFi privado, agua y luz (con consumo responsable), limpieza semanal de zonas comunes y mensual de tu estancia privada. ❤️ En caso de ser pareja, el costo adicional es de 250 €/mes. ** La formalización del contrato está sujeta a la aprobación del seguro de impago (se requiere documentación). ✨ ¡No esperes más para hacer de este lugar tu nuevo hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 32.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Capuchinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107990189",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f5/fe/c6/1330427677.webp",
+      "numPhotos": 24,
+      "floor": "3",
+      "price": 1570.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1570.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 110.0,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Molina Lario",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7187737,
+      "longitude": -4.4184767,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107990189/",
+      "distance": "383",
+      "description": "Alquiler de piso interior \"SIN AMUEBLAR\" en el corazón del Centro Histórico de Málaga Excepcional oportunidad de alquiler en una ubicación privilegiada, junto a la majestuosa Catedral de Málaga y el emblemático Parque. Este amplio piso de 110 m², situado en el casco histórico, combina la esencia del entorno cultural con la comodidad de una vivienda espaciosa y funcional. Características principales: •Superficie: 110 m² distribuidos de forma óptima. •Dormitorios: 3 amplios habitaciones, ideales para familias, profesionales o como espacio de trabajo. •Baño: 1 baño completo, moderno y funcional. •Cocina: Totalmente equipada con electrodomésticos y área de lavadero independiente, perfecta para el día a día. •Estado: Sin amueblar, ofreciendo la libertad de personalizar cada espacio según tus necesidades. •Ubicación: En el epicentro del Centro Histórico, a pasos de la Catedral, el Parque de Málaga, y rodeado de la vibrante oferta cultural, gastronómica y comercial de la ciudad. •Ideal para quienes buscan un hogar con carácter en una de las zonas más codiciadas de Málaga. •Perfectamente comunicado, con acceso inmediato a transporte público y servicios esenciales. Vive la experiencia única de residir en el corazón de Málaga, donde historia, cultura y modernidad se encuentran.  Se requiere acreditar solvencia económica y estabilidad laboral. ¡Contáctanos para más información o para concertar una visita!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Piso en calle Molina Lario"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96070072",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/dd/0b/935941031.webp",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 105.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Príes",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7222237,
+      "longitude": -4.4050815,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/96070072/",
+      "distance": "1457",
+      "description": "\"LARGA TEMPORADA\". Piso de tres dormitorios, dos baños, salón, amueblado, cocina independiente, en una de las zonas con mas expansión y desarrollo de Málaga, rodeado de comercios, centros comerciales, zonas de restauración, bancos, gimnasio, playa a 200 metros de la vivienda, al lado Gran Hotel Miramar, Paseo Maritimo, Centro Histórico a 15 minutos andando. Un mes de fianza, mas tres meses por adelantado. DISPONIBLE A PARTIR DEL 20 DE MAYO 2025. Paradas de bus y taxis muy cerca. Plaza de parking incluida en el precio. Se requieren ingresos demostrables (contratos, nominas, etc). No lo piense y pida cita para verlo, estaremos encantados de atenderle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Piso en avenida Príes"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108052127",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6f/3d/bb/1332422493.webp",
+      "externalReference": "Massinissa",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 975.0,
+      "priceInfo": {
+        "price": {
+          "amount": 975.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 32.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "calle Capuchinos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7275594,
+      "longitude": -4.4230572,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108052127/",
+      "distance": "711",
+      "description": "Gestionado por el propietario - Sin comisión de agencia. MASSINISSA ¡Descubre tu nuevo hogar en el encantador barrio de El Molinillo! Las estancias están a solo 5 minutos del vibrante centro de Málaga, lo que te permitirá disfrutar de la vida urbana sin perder la tranquilidad del barrio. Con espacios acogedores y funcionales, cada rincón ha sido diseñado para ofrecerte confort y calidad. La distribución separa la zona de living del dormitorio, brindando privacidad y un ambiente agradable. ✨ El inmueble cuenta con aire acondicionado y ventilador de techo para tu comodidad en cualquier época del año.  ✨Disfrutarás de una Smart TV, un escritorio ideal para trabajar o estudiar y WiFi privado para mantenerte siempre conectado.  ✨La cocina está completamente equipada con nevera, microondas con grill y todo lo necesario para preparar tus comidas favoritas. ✨ Todo es nuevo a estrenar, incluyendo camas de alta calidad que garantizan un descanso reparador.  No te olvides de la espectacular terraza comunitaria de 70 m², perfecta para relajarte al aire libre o socializar.  Además, la lavandería y zona de tendido facilitan tu día a día. - Contrato flexible desde 6 meses, ideal para quienes buscan un ambiente tranquilo y acogedor. x Este espacio no es adecuado para menores de edad ni se aceptan mascotas. x Los suministros y la limpieza tienen un costo adicional de 150 €, que incluye WiFi privado, agua y luz (con consumo responsable), limpieza semanal de zonas comunes y mensual de tu estancia privada. ❤️ En caso de ser pareja, el costo adicional es de 250 €/mes. ** La formalización del contrato está sujeta a la aprobación del seguro de impago (se requiere documentación). ✨ ¡No esperes más para hacer de este lugar tu nuevo hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 30.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Estudio en calle Capuchinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106168333",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cb/59/5a/1275306485.webp",
+      "externalReference": "Lauri 121",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Bolivia",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Pedregalejo - Morlaco",
+      "latitude": 36.7221635,
+      "longitude": -4.3731641,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106168333/",
+      "distance": "4300",
+      "description": "Disponible SOLO desde el 27 de abril al 30 de junio ¡Bienvenido a tu nuevo hogar en Pedregalejo! Este encantador piso recientemente reformado te ofrece la oportunidad de vivir a tan solo 50 metros de la playa, disfrutando del sonido del mar y de la brisa mediterránea. Con 60 m² construidos y 55 m² útiles, este espacio está diseñado para ofrecerte comodidad y funcionalidad. Dispone de dos acogedoras habitaciones, un salón comedor ideal para relajarte o recibir visitas, y una cocina completamente equipada lista para tus mejores recetas. Ubicado en una primera planta con orientación norte y este, el piso cuenta con aire acondicionado con bomba de frío/calor para que te sientas siempre a gusto, sin importar la estación del año. La zona está perfectamente comunicada con transporte público, lo que te permitirá llegar al centro en poco más de 15 minutos. Además, tendrás a tu disposición supermercados, farmacias, estancos y una variedad de comercios, así como escuelas de idiomas para extranjeros. Este piso es perfecto para quienes buscan calidad de vida cerca del mar. Los gastos de luz, agua e internet no están incluidos en el alquiler. Se requiere un mes de fianza, un contrato de trabajo o garantía de pago, y comisión para la agencia. ¡No pierdas la oportunidad de vivir en uno de los barrios más emblemáticos de la ciudad!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Pedregalejo - Morlaco, Málaga",
+        "title": "Piso en calle Bolivia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107880939",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/61/ba/3b/1327114572.webp",
+      "externalReference": "6665",
+      "numPhotos": 31,
+      "floor": "2",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Salamanca",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7302461,
+      "longitude": -4.4238754,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107880939/",
+      "distance": "1018",
+      "description": "¡Atención estudiantes! Buscas un piso cómodo y bien ubicado para el curso 2025/2026? Te presentamos este acogedor piso en la 2ª planta, ideal para compartir entre amigos. Con 60 m², cuenta con 3 luminosos dormitorios, un baño completo, una cocina equipada y un salón espacioso para relajarte después de un día de estudio. Situado cerca de colegios, institutos y el campus universitario de El Ejido, este piso es perfecto para quienes desean estar cerca de todo. El piso se alquila completamente equipado con menaje de cocina, toallas y ropa de cama, además de contar con aire acondicionado para tu comodidad. La comunidad y el agua están incluidas en el precio del alquiler, mientras que el internet (15€/mes) y la luz se pagan aparte. Si estás interesado, no dudes en contactarnos a través de teléfono o Whatsapp Te ofrecemos la posibilidad de realizar una visita presencial o una videollamada, sin compromiso. Además, contamos con un servicio de ayuda disponible para resolver cualquier duda que puedas tener. ¡No dejes pasar esta oportunidad y contáctanos ahora mismo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 20.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Salamanca"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108038800",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/36/cb/32/1331974878.webp",
+      "externalReference": "Gauda ",
+      "numPhotos": 20,
+      "floor": "2",
+      "price": 1150.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1150.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 36.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Capuchinos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7272791,
+      "longitude": -4.4229816,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108038800/",
+      "distance": "679",
+      "description": "Gestionado por el propietario - Sin comisión de agencia. GAUDA ¡Descubre tu nuevo hogar en el encantador barrio de El Molinillo! Las estancias están a solo 5 minutos del vibrante centro de Málaga, lo que te permitirá disfrutar de la vida urbana sin perder la tranquilidad del barrio. Con espacios acogedores y funcionales, cada rincón ha sido diseñado para ofrecerte confort y calidad. La distribución separa la zona de living del dormitorio, brindando privacidad y un ambiente agradable. ✨ El inmueble cuenta con aire acondicionado y ventilador de techo para tu comodidad en cualquier época del año.  ✨Disfrutarás de una Smart TV, un escritorio ideal para trabajar o estudiar y WiFi privado para mantenerte siempre conectado.  ✨La cocina está completamente equipada con nevera, microondas con grill y todo lo necesario para preparar tus comidas favoritas. ✨ Todo es nuevo a estrenar, incluyendo camas de alta calidad que garantizan un descanso reparador.  No te olvides de la espectacular terraza comunitaria de 70 m², perfecta para relajarte al aire libre o socializar.  Además, la lavandería y zona de tendido facilitan tu día a día. - Contrato flexible desde 6 meses, ideal para quienes buscan un ambiente tranquilo y acogedor. x Este espacio no es adecuado para menores de edad ni se aceptan mascotas. x Los suministros y la limpieza tienen un costo adicional de 150 €, que incluye WiFi privado, agua y luz (con consumo responsable), limpieza semanal de zonas comunes y mensual de tu estancia privada. ❤️ En caso de ser pareja, el costo adicional es de 250 €/mes. ** La formalización del contrato está sujeta a la aprobación del seguro de impago (se requiere documentación). ✨ ¡No esperes más para hacer de este lugar tu nuevo hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 32.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Capuchinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108005654",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/cc/0d/1330926658.webp",
+      "externalReference": "MPCOSTA-222-AL",
+      "numPhotos": 9,
+      "floor": "5",
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 79.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Héroe de Sostoa",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "La Princesa",
+      "latitude": 36.7070903,
+      "longitude": -4.4369937,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108005654/",
+      "distance": "2104",
+      "description": "Alquiler Piso 2 Dormitorios - Málaga  Vivienda luminosa y completamente amueblada en una ubicación estratégica de Málaga, en Calle Héroe de Sostoa, a tan solo 500 metros de la playa de Huelin y a pasos del Centro Comercial Vialia / Estación María Zambrano. Zona perfectamente comunicada con transporte público, comercios y todos los servicios.  Características del inmueble:  • 78 m² |  • 5ª planta exterior con ascensor  • Salón-comedor luminoso, completamente amueblado  • Cocina independiente, equipada con todos los electrodomésticos  • 2 dormitorios: uno de matrimonio y otro con dos camas individuales  • Armarios empotrados en ambas habitaciones  • 2 baños completos  • Piso completamente amueblado y listo para entrar a vivir  Ubicación ideal: céntrico, cercano a la playa, zonas comerciales, transporte público (metro, tren, autobús) y fácil acceso a la autovía. Precio: 1.250 €/mes 2 meses de fianza.  Requisitos: Se requiere solvencia económica demostrable para formalizar el alquiler.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Princesa, Málaga",
+        "title": "Piso en calle Héroe de Sostoa"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101857428",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6c/c7/6d/1306233915.webp",
+      "externalReference": "Pintor Joaquín Sorolla",
+      "numPhotos": 29,
+      "floor": "bj",
+      "price": 2100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "avenida del Pintor Joaquín Sorolla, 19",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7237703,
+      "longitude": -4.3955941,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/101857428/",
+      "distance": "2316",
+      "description": "Disponible solo desde el 1 de agosto de 2025. ¡No pierdas la oportunidad de vivir cerca de la playa en El Limonar!  Este acogedor piso en alquiler con piscina comunitaria cuenta con una habitación doble y un amplio salón con cocina americana. Está equipado con nevera, lavadora y lavavajillas, además de contar con internet de fibra óptica.  Disfruta del confort del aire acondicionado frío/calor. Si tienes mascotas, podrás consultar la posibilidad de traerlas contigo, bajo petición y con un mes extra de garantía.  Se requiere un mes de fianza y la comisión inmobiliaria varía según la duración del contrato.  El horario de oficina es de lunes a viernes de 09:00 a 14:00 y de 17:00 a 19:00. El piso cuenta con 75 m² construidos y 65 m² útiles, y se encuentra en buen estado. Es un bajo exterior y orientación Norte-Sur.  Si necesitas parking, hay una plaza disponible por un coste adicional de 100 € al mes.  Los precios pueden variar según el numero de meses y fechas contratadas. ¡No dejes pasar esta oportunidad de vivir cerca de la playa en El Limonar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 100.0
+      },
+      "priceByArea": 28.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Piso en avenida del Pintor Joaquín Sorolla, 19"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107772079",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0f/b8/fa/1323346091.webp",
+      "numPhotos": 22,
+      "floor": "22",
+      "price": 1550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "paseo Martiricos, 40",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Martiricos - La Roca",
+      "country": "es",
+      "neighborhood": "Martiricos - La Roca",
+      "latitude": 36.7311928,
+      "longitude": -4.4267533,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107772079/",
+      "distance": "1198",
+      "description": "ALQUILER DE LARGA TEMPORADA 1.550 EUROS VIVIENDA TOTALMENTE AMUEBLADA A ESTRENAR DISPONIBLE TAMBIEN EN 2 y 3 HABITACIONES POR 1.600€ y 2.500€   Vivienda EXCLUSIVA de LUJO en la TORRE SUR de MARTIRICOS. La ubicación del emblemático edificio es sencillamente extraordinaria. A unos 10 minutos a pie del CASCO HISTORICO de la ciudad de MALAGA, con todo lujo de detalles que te harán disfrutar de todos los servicios que aporta la TORRE SUR, y unas vistas impresionantes y abiertas a toda la ciudad. Sus 30 plantas hace que además de ser algo novedoso para la ciudad, sea una edificación única del que todo el mundo habla. La TORRE SUR además de sus vistas impresionantes a la ciudad, ofrece servicios como: Piscina y bar en la planta 30, donde además de relajarte, disfrutaras del buen tiempo que siempre acompaña a MALAGA. Sala co-working donde podrás teletrabajar sin que nadie te moleste gimnasio, sala de juegos para niños, sala lúdica, sala de cine, sala de multiusos para poder celebrar tus eventos, lavandería, ect.. . Todos estos servicios gestionados por ti a través de la app. Y a todo esto hay que sumarle la seguridad del edificio, con vigilancia 24 horas, conserjería 24 horas. La vivienda: 1 habitación con vestidor 1 baño completo, con plato de ducha y mampara cocina totalmente equipada con electrodomésticos de primeras marcas.  AMUEBLADA aerotermia video portero smart home plaza de parking incluida en el precio. VISTAS ESPECTACULARES DE TODA MALAGA DESDE EL VENTANAL DEL SALÓN Y VENTANA DEL DORMITORIO DE MATRIMONIO. condiciones del alquiler solvencia económica demostrable contrato de trabajo indefinido nominas preferiblemente parejas, sin niños, sin mascotas 1 mes de fianza Honorarios de gestión y servicios  Mes corriente si reúnes estas condiciones y quieres vivir en la ciudad mas bonita de ESPAÑA y disfrutar de su clima, no lo dudes y llámame para venir a visitarlo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 26.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Martiricos - La Roca, Málaga",
+        "title": "Piso en paseo Martiricos, 40"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106444119",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/33/71/1283088304.webp",
+      "externalReference": "890",
+      "numPhotos": 12,
+      "floor": "en",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "avenida de Cánovas del Castillo",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7212319,
+      "longitude": -4.411415,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106444119/",
+      "distance": "889",
+      "description": "¡Descubre tu nuevo hogar a solo 50 metros de la emblemática playa de La Malagueta! Este acogedor piso, ubicado en la prestigiosa avenida Cánovas del Castillo, te ofrece una experiencia de vida inigualable en uno de los barrios más deseados de Málaga. Con 70 m² cuidadosamente distribuidos, este apartamento es perfecto para una pareja o una persona que busque comodidad y estilo.  La habitación principal cuenta con dos camas individuales tipo canapé y un armario empotrado, asegurando espacio y funcionalidad. El salón, integrado con la cocina, es el lugar ideal para relajarte, gracias a su sofá cama y la smart TV. Además, disfrutarás de aire acondicionado frío/calor tanto en la habitación como en el salón, garantizando confort durante todo el año. La cocina está totalmente equipada para que prepares tus platos favoritos, mientras que el baño moderno incluye un práctico plato de ducha. Construido en 2020 y situado en una primera planta exterior con ascensor, este piso se encuentra en excelente estado. Con orientación norte, sur, este y oeste, disfrutarás de luz natural durante todo el día. No dejes pasar esta oportunidad de vivir cerca del mar con todas las comodidades que mereces. ¡Ven a visitarlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Piso en avenida de Cánovas del Castillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107192651",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fd/8e/f1/1305765078.webp",
+      "numPhotos": 23,
+      "floor": "4",
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Strachan",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7204854,
+      "longitude": -4.4192838,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107192651/",
+      "distance": "209",
+      "description": "¡Descubre tu nuevo hogar en el corazón de la ciudad! Este encantador apartamento de 60 m² te espera a escasos metros de la majestuosa catedral. Con un diseño moderno y funcional, el piso cuenta con un dormitorio acogedor, un baño completo y un salón con cocina en espacio abierto, ideal para disfrutar de momentos inolvidables. La cocina está completamente equipada para que puedas dar rienda suelta a tus habilidades culinarias. Además, el apartamento está situado en una cuarta planta exterior con orientación sur, lo que garantiza una excelente iluminación natural durante todo el día. La ubicación es inmejorable, con una comunicación excepcional y todos los servicios que puedas necesitar a tu alcance. No pierdas la oportunidad de vivir en este espacio único y lleno de posibilidades. ¡Ven a visitarlo y enamórate de tu próximo hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 22.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Piso en calle Strachan"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108052801",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b8/90/e1/1332423461.webp",
+      "externalReference": "Adherbal",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 1050.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1050.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 33.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Capuchinos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7286484,
+      "longitude": -4.4235286,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108052801/",
+      "distance": "838",
+      "description": "Gestionado por el propietario - Sin comisión de agencia. ADHERBAL ¡Descubre tu nuevo hogar en el encantador barrio de El Molinillo! Las estancias están a solo 5 minutos del vibrante centro de Málaga, lo que te permitirá disfrutar de la vida urbana sin perder la tranquilidad del barrio. Con espacios acogedores y funcionales, cada rincón ha sido diseñado para ofrecerte confort y calidad. La distribución separa la zona de living del dormitorio, brindando privacidad y un ambiente agradable. ✨ El inmueble cuenta con aire acondicionado y ventilador de techo para tu comodidad en cualquier época del año.  ✨Disfrutarás de una Smart TV, un escritorio ideal para trabajar o estudiar y WiFi privado para mantenerte siempre conectado.  ✨La cocina está completamente equipada con nevera, microondas con grill y todo lo necesario para preparar tus comidas favoritas. ✨ Todo es nuevo a estrenar, incluyendo camas de alta calidad que garantizan un descanso reparador.  No te olvides de la espectacular terraza comunitaria de 70 m², perfecta para relajarte al aire libre o socializar.  Además, la lavandería y zona de tendido facilitan tu día a día. - Contrato flexible desde 6 meses, ideal para quienes buscan un ambiente tranquilo y acogedor. x Este espacio no es adecuado para menores de edad ni se aceptan mascotas. x Los suministros y la limpieza tienen un costo adicional de 150 €, que incluye WiFi privado, agua y luz (con consumo responsable), limpieza semanal de zonas comunes y mensual de tu estancia privada. ❤️ En caso de ser pareja, el costo adicional es de 250 €/mes. ** La formalización del contrato está sujeta a la aprobación del seguro de impago (se requiere documentación). ✨ ¡No esperes más para hacer de este lugar tu nuevo hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 32.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Capuchinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107867092",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/de/a9/56/1326683813.webp",
+      "externalReference": "8885",
+      "numPhotos": 25,
+      "floor": "5",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 99.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Lozano de Torres",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Cristo de la Epidemia",
+      "latitude": 36.7291283,
+      "longitude": -4.4156961,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107867092/",
+      "distance": "1007",
+      "description": "¡Descubre tu nuevo hogar en el corazón de la ciudad!  Este impresionante piso de 99 m², completamente reformado, es ideal para estudiantes y profesionales que buscan una estancia temporal.  Con tres dormitorios amueblados y equipados con toma de televisión, disfrutarás de la comodidad y privacidad que necesitas.  La cocina está lista para que la personalices a tu gusto, mientras que el aire acondicionado centralizado y la alarma garantizan tu confort y seguridad. Ubicado junto a la zona universitaria del Ejido, estarás a solo cinco minutos de la emblemática plaza de la Merced. Imagina relajarte en la amplia terraza con vistas al Alcazaba y la catedral, un verdadero lujo en el centro de la ciudad.  Además, el piso incluye electrodomésticos como un lavavajillas y wifi, lo que lo convierte en una opción práctica y moderna. Este inmueble cuenta con armarios empotrados y puertas con cerradura en cada dormitorio, asegurando un ambiente seguro y funcional.  La solvencia económica es un requisito para el alquiler temporal.  No dejes pasar esta oportunidad única de vivir en un espacio que combina estilo, comodidad y ubicación.  ¡Contáctanos para más información y ven a visitarlo! ¡No dejes pasar esta oportunidad única de vivir en el centro de Málaga! Para tu comodidad, ofrecemos la posibilidad de realizar citas en persona o por videollamada. Nuestro equipo de atención al cliente está disponible a través de teléfono y WhatsApp para resolver cualquier duda. ¡No esperes más y ven a conocer tu futuro hogar con ADRI INMOBILIARIA!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cristo de la Epidemia, Málaga",
+        "title": "Piso en calle Lozano de Torres"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106838397",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/db/79/2e/1295473013.webp",
+      "numPhotos": 28,
+      "floor": "3",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Huerto del Conde",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Victoria",
+      "latitude": 36.7264658,
+      "longitude": -4.4168566,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106838397/",
+      "distance": "702",
+      "description": "Precioso apartamento amueblado junto a Plaza de la Merced, dispone además de trastero amplio, 2 dormitorios con armarios empotrados y aire acondicionado en salón y dormitorios, baño, Salón-cocina con bonitos ventanales, acogedor y muy luminoso, Bien situado, excelentes calidades, un estupendo trastero incluido en el precio y terraza comunitaria para uso y disfrute, bonitas vistas, disponible para larga o corta estancia, Teléfono de contacto: 6.5. 1.4. 8.5. 9.0. 8.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 17.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Victoria, Málaga",
+        "title": "Piso en calle Huerto del Conde"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106321870",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/9f/96/1279353021.webp",
+      "externalReference": "PICASSO-MALAGUETA",
+      "numPhotos": 20,
+      "floor": "2",
+      "price": 2450.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2450.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "paseo Marítimo Pablo Ruiz Picasso, 16",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7206923,
+      "longitude": -4.4044645,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106321870/",
+      "distance": "1510",
+      "description": "¡Descubre tu nuevo hogar en la vibrante ciudad de Málaga!  Este espectacular piso, situado a escasos metros de la mejor playa de la ciudad, te ofrece unas vistas al mar que te dejarán sin aliento. Con 130 m² construidos y 110 m² útiles, este espacioso piso cuenta con tres dormitorios, dos baños y unos grandes ventanales para disfrutar del clima mediterráneo. La cocina está totalmente equipada, ideal para los amantes de la gastronomía. Ubicado en la segunda planta de un edificio bien conservado de 1986, el piso dispone de ascensor y una orientación sur que garantiza luz natural durante todo el día. Además, incluye una plaza de garaje, lo que añade comodidad a tu día a día. Los armarios empotrados ofrecen un amplio espacio de almacenamiento, mientras que la calefacción de bomba de frío/calor a gas natural asegura confort durante todo el año. A tan solo un paso del centro de Málaga, tendrás acceso fácil a una amplia oferta cultural y gastronómica. Este piso es perfecto para quienes buscan un equilibrio entre tranquilidad y vida urbana. ¡No pierdas la oportunidad de vivir en uno de los lugares más codiciados de la Costa del Sol!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Piso en paseo Marítimo Pablo Ruiz Picasso, 16"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107976900",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/4f/a2/1330002997.webp",
+      "externalReference": "GB10",
+      "numPhotos": 42,
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 179.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle Guzmán el Bueno",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Cerrado de Calderón - Hacienda Paredes",
+      "latitude": 36.7287579,
+      "longitude": -4.3753873,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107976900/",
+      "distance": "4183",
+      "description": "Disponible para entrar de forma inmediata. Adosado de 4 dormitorios con vistas al mar, ubicado en una de las urbanizaciones más demandadas de Málaga Este, que ofrece tres piscinas comunitarias y zonas verdes. Ubicación privilegiada: - A pocos metros del Colegio León XIII y su club deportivo con pistas de pádel y vistas al mar. - Cerca de otros centros educativos destacados: Las Esclavas, Asunción, Lycée Français, Cerrado de Calderón y The British School of Málaga. - Cerca de las playas de Pedregalejo y de toda la oferta comercial y de servicios de El Palo. Distribución de la vivienda: - Entrada privada y acceso directo a un amplio garaje para dos coches. - Planta principal: salón espacioso y luminoso, comedor conectado a una cocina moderna de estilo abierto, terraza privada muy amplia ideal para comer o descansar al aire libre, y un aseo de invitados. - Primera planta: cuatro dormitorios (uno adaptado como vestidor) y dos baños completos, ambos con bañera. - Última planta: buhardilla versátil, perfecta como despacho, sala de juegos o espacio de invitados, con acceso a una terraza solárium con vistas al mar. Condiciones: - La vivienda se entrega en buen estado. Actualmente se están realizando pequeños arreglos y retoques tras la salida de los anteriores inquilinos, para que esté lista para entrar a vivir. - Suministros (agua, electricidad, wifi) no incluidos en el precio. - Sin honorarios de agencia para el inquilino. Requisitos: - Se solicitará documentación acreditativa de ingresos o solvencia económica. - Se requiere documentación identificativa válida. La propietaria busca un inquilino responsable y a largo plazo que cuide bien del inmueble.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerrado de Calderón - Hacienda Paredes, Málaga",
+        "title": "Chalet adosado en calle Guzmán el Bueno"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97244698",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/98/16/994957080.webp",
+      "externalReference": "M0533",
+      "numPhotos": 27,
+      "floor": "3",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Pedregalejo - Morlaco",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Pedregalejo - Morlaco",
+      "latitude": 36.7216093,
+      "longitude": -4.3750942,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97244698/",
+      "distance": "4127",
+      "description": "Precioso piso reformado parcialmente, con 3 dormitorios, todos con armarios empotrados, y 1 baño completo con ducha y exterior. El salón da acceso a una amplia terraza con vistas a Pedregalejo y la cocina cuenta con otra terraza con vistas al mar. Aire acondicionado en salón tipo split.    La zona es inmejorable, con parada de autobús líneas 3, 8, 11 y 34 en la puerta del portal y cercano a los mejores Colegios de la zona Este de Malaga, Guarderías, supermercados y todo tipo de comercios. Además, está a pocos pasos de las playas de Pedregalejo, a menos de 200 metros.    Disponible para larga temporada. No tiene ascensor. Se alquila sin muebles. Cocina amueblada y equipada con vitrocerámica, lavadora y frigorífico. Disponibilidad inmediata.    La información facilitada es orientativa, no tiene carácter vinculante y carece de valor contractual. Dicha información puede haber sufrido modificaciones que aún no han sido incorporadas. Le sugerimos se ponga en contacto con nosotros para obtener los últimos datos y/o confirmar los aquí expuestos. Encuentre este y otros inmuebles interesantes en nuestra web. (En cumplimiento del RD de la Junta de Andalucía 218/2005 de 11 de Octubre se informa a los Sres. consumidores que en los precios indicados no están incluidos los gastos derivados de la compra de inmuebles según las leyes vigentes, (ITP, gastos notariales.. . ).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Pedregalejo - Morlaco, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96000703",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/50/d7/9c/1018177040.webp",
+      "externalReference": "B415 CENTRO LA VICTORIA",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 1550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Victoria",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Victoria",
+      "latitude": 36.7242505,
+      "longitude": -4.4143482,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/96000703/",
+      "distance": "708",
+      "description": "Plaza de la Merced Málaga. Larga temporada. Tres dormitorios. Un cuarto de baño. Disponible a partir de Junio 2025. Aire acondicionado. Interesados contacte mediante mensaje a tráves de la aplicación de Idealista.  Plaza de la Merced Malaga, three bedrooms one bathroom. avilable from June 2025. (Located at Calle La victoria. 50 meter away from Merced Square) flat with modern decoration. Air conditioning. It is essential to prove financial solvency. Contact. Contact us on the idealista form.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Victoria, Málaga",
+        "title": "Piso en calle Victoria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107282214",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/29/82/b0/1308390410.webp",
+      "externalReference": "Y4951",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 1500.0,
+            "priceDropValue": 200,
+            "priceDropPercentage": 13
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 106.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Perchel norte",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel norte",
+      "latitude": 36.7183611,
+      "longitude": -4.4311806,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107282214/",
+      "distance": "930",
+      "description": "Le presentamos piso de 2 dormitorios ( antes 3) 2 baños, salón comedor independiente con salida a terraza exterior que da al recinto, esto lo hace tranquilo y muy luminoso. Cocina independiente junto a hall de entrada, con armario  Calidades, suelos de parquet, armarios empotrados, puerta blindada, ventanas aluminio, pareces lisas, salón comedor independiente. Podrá vivir en el centro de Málaga a escasos pasos de Centro Comercial El corte Ingles, rodeado de autobuses, líneas de bus, mercado, supermercados, tiendas, colegios. El edificio no tiene ascensor, pero solo es una segunda planta con fácil acceso desde escaleras. Se alquila como vivienda habitual, es decir, larga temporada. Se contrata seguro de impagos por lo que hay que justificar ingresos y NO COBRAMOS honorarios de agencia por la intermediación.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel norte, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108043327",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fb/08/ef/1332145158.webp",
+      "externalReference": "001-08183",
+      "numPhotos": 8,
+      "floor": "1",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 59.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Olletas - Sierra Blanquilla",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Olletas - Sierra Blanquilla",
+      "latitude": 36.734386,
+      "longitude": -4.416449,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108043327/",
+      "distance": "1520",
+      "description": "Coqueto piso a estrenar en la zona de Fuente Olletas. La vivienda que tiene techos altos, se distribuye en salón con cocina integrada y salida a una terracita, dos dormitorios, ambos con balcón y un cuarto de baño. Es todo exterior y ubicado en un edificio de sólo cuatro viviendas. La zona es muy tranquila y está a 15 minutos caminando del centro histórico. Tiene todo tipo de servicios, supermercados y comercios próximos. Líneas de autobús y a pocos minutos del acceso a la autovía en todas las direcciones. Se requieren ingresos demostrables. Llámenos y solicite información.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Olletas - Sierra Blanquilla, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "95163740",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0e/15/bf/907829395.webp",
+      "numPhotos": 47,
+      "floor": "1",
+      "price": 1550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 125.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "ENSANCHE CENTRO-SOHO",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Ensanche Centro - Soho",
+      "latitude": 36.7162029,
+      "longitude": -4.4229176,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/95163740/",
+      "distance": "582",
+      "description": "En pleno barrio de las artes, SOHO, se alquila magnifica vivienda de 115 metros con tres habitaciones todas con aire acondicionado, una de ellas amplísima, salón, cocina totalmente equipada / horno, vitroceramica, lavavajillas, microondas, frigorífico, lavadora y termo agua ). suelos de parket recientemente instalado. Puertas lacadas. Aluminio doble acristalamiento. Posibilidad tanto en vivienda como para consulta, gabinete ó cualquier otra actividad profesional. Comunidad incluida en el precio. Agua y luz de cuenta del Arrendatario/@. Se entrega recién pintado ¡ Exclusivamente para personas con expresa acreditación de solvencia económica para contratar. Se exige nomina suficiente y vida laboral continuada. Se ofrece contrato de larga temporada o convenido en caso de actividad profesional  Se requiere mes en curso, dos meses de fianza y mes de honorarios de Agencia más IVA. No deje pasar esa oportunidad de vivir ó trabajar en esta magnífica vivienda en pleno Centro Histórico de Málaga y con el SOHO a sus pies. Agente Colegiado y en posesión de Seguro de Responsabilidad Civil para cualquier contingencia. Persona de contacto: Francisco.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ensanche Centro - Soho, Málaga",
+        "title": "Piso en Ensanche Centro-soho"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105289513",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/04/7e/f7/1247611194.webp",
+      "externalReference": "BajoDelicias",
+      "numPhotos": 21,
+      "floor": "bj",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "avenida de Sor Teresa Prat",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Girón - Las Delicias - Pacífico",
+      "latitude": 36.7011318,
+      "longitude": -4.4377608,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105289513/",
+      "distance": "2674",
+      "description": "Se alquila para Estudiantes de Septiembre a Junio. (No alquiler permanente! ). Y para los 2 meses de verano (Julio y Agosto), consulta precio. Los 60 m2 están repartidos en tres dormitorios, salón comedor, cocina y baño. Totalmente amueblado y equipado. Dispone de aire acondicionado en el salón. Este piso se encuentra a tan solo 150 metros del Paseo Marítimo Antonio Banderas y a 20 min. andando del Muelle Uno y el Centro Histórico de Málaga.  Su comunicación es perfecta, junto a Princesa (Juan XXIII), Ayala y Héroes de Sostoa, por donde circulan líneas de autobuses, metro, paradas de taxi, bicisendas, etc. La comodidad del barrio es estupenda si buscas estar rodeado de comercios, supermercados, farmacia, colegios e incluso el Mercado de Huelin, donde encontraras una amplia variedad de alimentos frescos. Quieres conocer esta vivienda? Llámanos, estaremos encantados de enseñártela.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Girón - Las Delicias - Pacífico, Málaga",
+        "title": "Piso en avenida de Sor Teresa Prat"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "86598401",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/66/3c/31/1308148774.webp",
+      "numPhotos": 19,
+      "floor": "6",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Palma del Río",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Puerta Blanca - Almudena",
+      "latitude": 36.687965,
+      "longitude": -4.4544036,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/86598401/",
+      "distance": "4732",
+      "description": "PREFERIBLEMENTE ESTUDIANTES HASTA EL 15 DE JULIO. YA RESERVADO PARA EL CURSO 2025/2026. Se alquila fantástico piso en una ubicación inmejorable, perfecto para quienes buscan comodidad y todos los servicios a su alcance. Este luminoso piso de 80 m² está situado en una zona con excelente conexión de transporte público, a solo 5 minutos a pie de la boca de metro y con un bus directo a la universidad. Además, tendrás la playa y un mercado de abastos a un paso. El piso cuenta con 3 dormitorios, un salón-comedor amplio, una cocina independiente y equipada, y un baño completo. Disfruta de las vistas excelentes desde la terraza y de la orientación sur que garantiza luz natural durante todo el día. Aunque es una vivienda de segunda mano, se encuentra en buen estado y está totalmente amueblada, lista para entrar a vivir.   ¡No pierdas esta oportunidad y ven a visitarlo! Se pide solvencia y 3 meses de entrada (fianza, mes corriente y gestión agencia).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerta Blanca - Almudena, Málaga",
+        "title": "Piso en calle Palma del Río"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107770159",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/36/7b/1323289038.webp",
+      "numPhotos": 29,
+      "floor": "15",
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "paseo Martiricos, 32",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Martiricos - La Roca",
+      "country": "es",
+      "neighborhood": "Martiricos - La Roca",
+      "latitude": 36.7305208,
+      "longitude": -4.4268108,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107770159/",
+      "distance": "1132",
+      "description": "ALQUILER DE LARGA TEMPORADA 2.500 EUROS VIVIENDA SIN MUEBLES DISPONIBLE TAMBIEN DE 1 Y 2 HABITACIONES AMUEBLADO ( 1.550€ y 1.600€ respectivamente )  Vivienda EXCLUSIVA de LUJO en la TORRE SUR de MARTIRICOS. La ubicación del emblemático edificio es sencillamente extraordinaria. A unos 10 minutos a pie del CASCO HISTORICO de la ciudad de MALAGA, con todo lujo de detalles que te harán disfrutar de todos los servicios que aporta la TORRE SUR, y unas vistas impresionantes y abiertas a toda la ciudad. Sus 30 plantas hace que además de ser algo novedoso para la ciudad, sea una edificación única del que todo el mundo habla. La TORRE SUR además de sus vistas impresionantes a la ciudad, ofrece servicios como: Piscina y bar en la planta 30, donde además de relajarte, disfrutaras del buen tiempo que siempre acompaña a MALAGA. Sala co-working donde podrás teletrabajar sin que nadie te moleste gimnasio, sala de juegos para niños, sala lúdica, sala de cine, sala de multiusos para poder celebrar tus eventos, lavandería, ect.. . Todos estos servicios gestionados por ti a través de la app. Y a todo esto hay que sumarle la seguridad del edificio, con vigilancia 24 horas, conserjería 24 horas. La vivienda: 3 habitaciones con armario empotrados 2 baños completos, uno de ellos en suite cocina totalmente equipada con electrodomésticos de primeras marcas.  aerotermia video portero smart home plaza de parking incluida en el precio. Trastero TERRAZA IMPRESIONANTE, CON VISTAS ESPECTACULARES DE TODA LA CIUDAD DE MALAGA condiciones del alquiler solvencia económica demostrable contrato de trabajo indefinido nominas preferiblemente parejas, sin niños, sin mascotas 1 mes de fianza Honorarios de gestión y servicios  Mes corriente si reúnes estas condiciones y quieres vivir en la ciudad mas bonita de ESPAÑA y disfrutar de su clima, no lo dudes y llámame para venir a visitarlo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 25.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Martiricos - La Roca, Málaga",
+        "title": "Piso en paseo Martiricos, 32"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107324984",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/62/50/84/1309601589.webp",
+      "numPhotos": 44,
+      "floor": "6",
+      "price": 2000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 160.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "avenida del Obispo Angel Herrera Oria, 14",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Carranque - Haza Cuevas",
+      "latitude": 36.7184181,
+      "longitude": -4.4392796,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107324984/",
+      "distance": "1625",
+      "description": "¡Descubre el ático de tus sueños en Málaga! Este impresionante ático, disponible para larga temporada, se encuentra en una de las zonas más codiciadas de la ciudad, a solo 20 minutos a pie del centro y rodeado de todos los servicios que puedas necesitar. Con 160 m² construidos, la vivienda ha sido totalmente reformada y se presenta en perfectas condiciones con preciosos muebles modernos. Cuenta con 4 dormitorios, tres de ellos con amplios armarios empotrados, y 2 baños en la planta principal. La planta superior ofrece una versátil zona de estar que podrás adaptar a tus necesidades. Los grandes ventanales inundan el espacio de luz natural, creando un ambiente cálido y acogedor. La cocina está completamente equipada y con lavadero. Además, el ático incluye una plaza de garaje, aire acondicionado y calefacción para tu máximo confort. Situado en la planta 5 de un edificio con ascensor y orientación sur, disfrutarás de vistas despejadas y una excelente ventilación. ¡No dejes pasar esta oportunidad única! Ven a visitarlo y enamórate de tu nuevo hogar. Dicha información puede haber sufrido modificaciones que aún no han sido incorporadas. Los datos expuestos son meramente informativos y no tienen valor contractual. La oferta puede estar sujeta a errores, cambios de precio, omisión, disponibilidad yo retirada del mercado sin aviso previo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Carranque - Haza Cuevas, Málaga",
+        "title": "Ático en avenida del Obispo Angel Herrera Oria, 14"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108022231",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/31/4c/5d/1331473226.webp",
+      "externalReference": "MARIA JESUS CASTRO - 117",
+      "numPhotos": 11,
+      "floor": "23",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 67.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "paseo Martiricos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Martiricos - La Roca",
+      "country": "es",
+      "neighborhood": "Martiricos - La Roca",
+      "latitude": 36.7305527,
+      "longitude": -4.4269122,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108022231/",
+      "distance": "1140",
+      "description": "Espectacular apartamento, a estrenar, de 1 dormitorio y 1 baño, ubicado en la planta 23 de la torre norte de la Promoción Urban Sky de Paseo de Martiricos, con impresionantes vistas a la ciudad de Málaga. La cocina está completamente equipada, todos los electrodomésticos a estrenar, el apartamento dispone de suelos de tarima flotante, ventanas Climalit oscilobatientes, sistema de aerotermia para un mayor ahorro energético, además de lavadora (también a estrenar) y puerta blindada. El aislamiento con respecto al exterior es completo, teniendo una eficiencia energética A. Además, el apartamento incluye plaza de garaje y se admiten mascotas. La vivienda se encuentra amueblada con todo lujo de detalles. En cuanto a la comunidad del edificio ofrece excelentes servicios: piscina en la azotea con vistas de 360ª a toda Málaga, gimnasio totalmente equipado, oficina de coworking, lavandería, conserje de 8 de la mañana a 12 de la noche y seguridad durante la madrugada.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 22.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Martiricos - La Roca, Málaga",
+        "title": "Piso en paseo Martiricos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103451950",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/46/cd/1189942533.webp",
+      "numPhotos": 9,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 30.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "calle Casanueva",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Puerto de la Torre",
+      "country": "es",
+      "neighborhood": "El Cortijuelo",
+      "latitude": 36.7627743,
+      "longitude": -4.4959738,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103451950/",
+      "distance": "8088",
+      "description": "\"ESTUDIO EN PUERTO DE LA TORRE\" TODO NUEVO Disfruta de este fabuloso estudio en el Puerto de la Torre (Málaga), zona con fácil acceso a la autovía y rodeada de comercios, restaurantes, supermercados.. . Fabuloso estudio con todo el material nuevo a estrenar de unos 30m2 en los que dispone de cocina integrada con lavadora, vitrocerámica, frigorífico, extractor.. . En el salón encontramos un sofá de primeras calidades, una mesa, un gran armario y un mueble que separa la cama con el salón-cocina, cuarto de baño totalmente equipado. También dispone de una terraza al ser un bajo para disfrutar del aire libre. SE PIDEN INGRESOS DEMOSTRABLES, además del pago de 2 meses de fianza + gestión \"lapi\".",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 23.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Cortijuelo, Málaga",
+        "title": "Estudio en calle Casanueva"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107871935",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2c/4d/7f/1332841593.webp",
+      "numPhotos": 29,
+      "floor": "2",
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 140.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "paseo de Miramar",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7252395,
+      "longitude": -4.3966311,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107871935/",
+      "distance": "2250",
+      "description": "**Ático en Alquiler en la Costa - Ideal para Disfrutar del Verano** ¡Bienvenido a tu nuevo hogar! Este espectacular ático se encuentra a solo 5 minutos a pie de la playa, perfecto para disfrutar de días soleados y refrescantes paseos por la orilla. La ubicación es inmejorable, con tiendas, supermercados, médicos, bares y restaurantes a pocos pasos. Además, cuenta con excelente conexión de transporte público para facilitar tus desplazamientos. El ático, con una superficie total de 140 m², ofrece un amplio salón que se conecta a una impresionante terraza privada de 50 m², ideal para relajarse o disfrutar de una cena al aire libre. La cocina, completamente nueva y equipada con todos los electrodomésticos, hará que cocinar sea un placer. Las dos habitaciones son amplias y luminosas, y los dos baños modernos añaden un toque de comodidad. Este inmueble cuenta con un trastero grande de 15-18 m² y una plaza de garaje incluida en el precio, además de una piscina comunitaria donde podrás refrescarte en los días calurosos. Con solo 2 años de antigüedad, está en excelente estado y ofrece persianas eléctricas exteriores y suelos de madera que aportan calidez y estilo.  La accesibilidad es otra ventaja, ya que el edificio tiene ascensor desde el parking y la entrada, siendo apto para personas con movilidad reducida. Se puede alquilar amueblado o sin amueblar según tus preferencias. ¡No pierdas la oportunidad de mudarte a este maravilloso ático disponible a partir de junio! *Los fotos son ejemplos solamente, como la casa podría ser con inmuebles. Ahora mismo se encuentra sin muebles.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Ático en paseo de Miramar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108060855",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/84/1d/09/1332647337.webp",
+      "externalReference": "ID4215",
+      "numPhotos": 23,
+      "floor": "3",
+      "price": 1150.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1150.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "camino Suárez",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Suárez",
+      "latitude": 36.727599,
+      "longitude": -4.4422338,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108060855/",
+      "distance": "1984",
+      "description": "Coqueta vivienda totalmente reformada y amueblada, muy luminosa, 2 dormitorios, uno de ellos con vestidor, salón con tv de 42\", terraza, cocina con microondas, horno y lavavajillas, baño, comunidad y agua incluida. Garaje opcional (100 €). NO ANIMALES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 100.0
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suárez, Málaga",
+        "title": "Piso en camino Suárez"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107810567",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bd/47/42/1324468763.webp",
+      "externalReference": "FD625",
+      "numPhotos": 5,
+      "floor": "1",
+      "price": 625.0,
+      "priceInfo": {
+        "price": {
+          "amount": 625.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 31.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "EL TARAJAL",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Campanillas",
+      "country": "es",
+      "neighborhood": "Campanillas",
+      "latitude": 36.7059436,
+      "longitude": -4.5072182,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107810567/",
+      "distance": "7837",
+      "description": "CITAS AL TELEFONO: (6) (3) (7) (8) (9) (5) (9) (3) (0) LOFT 625€/mes en el Puerto de la Torre, a sólo dos minutos de la Autovía a-357, y conectados con transporte público.  Se encuentra rodeado de todo tipo de comercios y servicios, ideal para estudiantes o trabajadores que debe trasladarse por un tiempo.  El LOFT se entrega totalmente amueblado, con la cocina equipada y dispone de baño privado, y aire acondicionado.  Es necesario aportar ingresos demostrables.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 20.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "Campanillas, Málaga",
+        "title": "Estudio en El Tarajal"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108060723",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/90/id.pro.es.image.master/41/d3/b7/1332642714.webp",
+      "externalReference": "ID4556",
+      "numPhotos": 26,
+      "floor": "1",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Montaño",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Merced",
+      "latitude": 36.7243944,
+      "longitude": -4.4216518,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108060723/",
+      "distance": "344",
+      "description": "Se alquila magnífica vivienda de reciente construcción, al lado de la plaza de La Merced, en el centro histórico de Málaga. La vivienda está mueblada, consta de espacioso salón con TV, aire climatizado, 2 balcones a la calle, cocina con horno y microondas, 2 dormitorios con armarios empotrados, 2 baños, garaje opcional (120 €), comunidad incluida. No animales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 120.0
+      },
+      "priceByArea": 20.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Merced, Málaga",
+        "title": "Piso en calle Montaño"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103399373",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f0/f8/60/1188320447.webp",
+      "numPhotos": 59,
+      "floor": "8",
+      "price": 1695.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1695.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "avenida del Pintor Joaquín Sorolla, 57",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7233931,
+      "longitude": -4.3927946,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/103399373/",
+      "distance": "2560",
+      "description": "Precioso Ático en alquiler frente al Mar. Se trata de un apartamento en la última planta del Edificio al que hay que acceder subiendo 1 planta por las escaleras, es decir, el ascensor llega hasta la 7ª planta y desde ahí hay que subir una planta mas. La vivienda consta de 2 dormitorios y 2 cuartos de Baños. El dormitorio principal es muy amplio, con un vestidor y su baño en suite. El 2º dormitorio no es grande pero tiene su armario empotrado. La cocina está abierta al salón con una zona muy buena de almacenaje. desde la zona de la cocina se accede a una terracita desde el que se accede a la lavadora. en la parte Sur del salon, desde los ventanales hay unas maravillosas vistas al Mar, pero de momento, a esa terraza NO SE PUEDE acceder, por lo que sólo se pueden contemplar las vistas, pero no salir afuera en la parte Sur. La vivienda dispone de zonas ajardinadas, portero, y está muy bien comunicado, con bus en la puerta cada 5 minutos, frente a la playa, a 20 minutos andando del centro Historico, y rodeado de bares, cafeterias restaurantes, panaderias, centro de salud, farmacias, hospital privado etc. Un lugar ideal, solo para personas que puedan demostrar su solvencia. En el precio esta incluido los gastos de comunidad y el recibo de AGUA, pues los contadores aun no han sido personalizados.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 20.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Ático en avenida del Pintor Joaquín Sorolla, 57"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106730254",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3f/0c/2d/1305100128.webp",
+      "externalReference": "DOLMEN- MALG11",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "paseo Martiricos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Martiricos - La Roca",
+      "country": "es",
+      "neighborhood": "Martiricos - La Roca",
+      "latitude": 36.7313408,
+      "longitude": -4.4260578,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106730254/",
+      "distance": "1191",
+      "description": "Bienvenidos a tu hogar perfecto en Málaga- Martiricos! Este alojamiento único combina comodidad, seguridad y ubicación privilegiada, ideal tanto para escapadas de fin de semana como para estadías más largas. ( alquiler por días o semanas) ¿Qué hace a este alojamiento especial? • Espacioso y moderno: Con 1 habitacion cuidadosamente decorada y1 baño completo, es ideal para familia, amigos o parejas que buscan espacio y privacidad. • Ubicación privilegiada: Situado en Málaga, “una zona tranquila cerca de restaurantes y tiendas”. • Urbanización cerrada con piscina: Disfruta de la tranquilidad y seguridad de un complejo cerrado que cuenta con una piscina perfecta para relajarte en cualquier momento. • Acceso y comodidad: Fácil acceso al transporte público y estacionamiento cercano. Qué puedes esperar durante tu estadía: • Limpieza impecable y detalles acogedores que te harán sentir como en casa. • Cocina totalmente equipada para preparar tus comidas favoritas. • Ropa de cama y toallas incluidas para mayor comodidad. Consulta disponibilidad y precio por temporada  Este alojamiento es ideal para quienes buscan comodidad, seguridad y una experiencia inolvidable en DOLMENGROUP- APARTMENT Martiricos ¡Te esperamos!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 30.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Martiricos - La Roca, Málaga",
+        "title": "Piso en paseo Martiricos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106286210",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0c/f9/90/1278243797.webp",
+      "numPhotos": 25,
+      "floor": "8",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Nuestra Señora de los Clarines",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Victoria Eugenia",
+      "latitude": 36.7330512,
+      "longitude": -4.438652,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106286210/",
+      "distance": "2017",
+      "description": "Se alquila vivienda A ESTRENAR RECIEN REFORMADA y TOTALMENTE EXTERIOR por TEMPORADA DE MÁXIMO 1 AÑO. La vivienda tiene un excepcional acceso a la autovia de Valle-Inclán y está situada en una zona tranquila rodeada de comercios y servicios. Se alquila amueblada y consta de salón-comedor con acceso a la terraza, cocina totalmente equipada que cuenta además con lavadero, baño con plato de ducha y 3 habitaciones con ventiladores de techo con mando a distancis, con cerraduras en cada puerta con llave de acceso exterior. Una habitación es doble y dos son individuales con armarios dobles vestidos por dentro. Edificio con portal reformado y que cuenta con DOS ASCENSORES. Gastos de wifi, agua y electricidad no incluidos en el precio. Se solicitará a los interesados garantías económicas que acrediten solvencia a través del envío de documentación, mes de fianza legal, mes corrientes y mes de honorarios en concepto de gastos de gestión inmobiliaria.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Victoria Eugenia, Málaga",
+        "title": "Piso en calle Nuestra Señora de los Clarines"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107747595",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0c/2d/73/1322113579.webp",
+      "externalReference": "LMA810",
+      "numPhotos": 18,
+      "floor": "3",
+      "price": 1350.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1350.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "avenida de la Aurora, 83",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Cruz del Humilladero - Los Tilos",
+      "latitude": 36.7145296,
+      "longitude": -4.4420782,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107747595/",
+      "distance": "1990",
+      "description": "Ref: LMA810 LARGA TEMPORADA-Dispon ible el 1 de julio Piso de alquiler en Avenida de la Aurora, 83, La Unión - Cruz de Humilladero  Se alquila amplio piso totalmente reformado. Se encuentra a 5 min a pie de la parada de metro, a 2 min de la parada de bus y a 15 min andando del centro de Málaga. Tiene recinto cerrado con cámaras de seguridad. Está totalmente amueblado y con todo tipo de electrodomésticos. Se hace contrato de alquiler, gastos de comunidad incluidos en el precio, luz y agua aparte. Se requiere solvencia economica.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cruz del Humilladero - Los Tilos, Málaga",
+        "title": "Piso en avenida de la Aurora, 83"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106675275",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/80/2c/94/1290602301.webp",
+      "externalReference": "CAA0023",
+      "numPhotos": 41,
+      "price": 1995.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1995.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 198.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Martín Fierro",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Churriana",
+      "country": "es",
+      "neighborhood": "Guadalmar",
+      "latitude": 36.6663417,
+      "longitude": -4.4677202,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106675275/",
+      "distance": "7375",
+      "description": "ALQUILER DE LARGA TEMPORADA. Disponible desde ya. Acogedor chalet en alquiler, sin amueblar. Consta de amplio salón en la planta baja, junto con cocina, habitación individual y patio interior. En segunda planta, habitación doble y dos habitaciones individuales, vestidor y baño. Amplio jardín con zona de barbacoa y zona de relax en el porche.  Piscina comunitaria a unos pasos de la vivienda. Luz, agua y wifi por cuenta del inquilino. Se entrega sin amueblar, con posibilidad de entregar amueblada. Se admiten mascotas. Se requiere solvencia demostrada mediante aportación de contrato y nóminas. Pago de 1 mes corriente + 1 mes de fianza. ¡Llámanos y resérvala cuanto antes!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Guadalmar, Málaga",
+        "title": "Chalet adosado en calle Martín Fierro"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    }
+  ],
+  "total": 993,
+  "totalPages": 20,
+  "actualPage": 12,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar",
+    "Casas y pisos",
+    "Centro Histórico",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en Centro Histórico",
+  "totalAppliedFilters": 0,
+  "lowerRangePosition": 550,
+  "upperRangePosition": 600,
+  "paginable": true
+}

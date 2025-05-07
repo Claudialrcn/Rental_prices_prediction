@@ -1,0 +1,2930 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "105188520",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5a/bb/5c/1244528801.webp",
+      "externalReference": "48807R",
+      "numPhotos": 18,
+      "price": 1975.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1975.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 324.0,
+      "bathrooms": 0,
+      "address": "calle Escritor Atienza Huertos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Puerto de la Torre",
+      "country": "es",
+      "neighborhood": "Fuente Alegre - El Chaparral - Los Morales",
+      "latitude": 36.7401725,
+      "longitude": -4.4796513,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105188520/",
+      "distance": "5599",
+      "description": "A veces, se presentan oportunidades, y depende de nosotros aprovecharlas o dejarlas pasar. Hoy se presenta una nueva oportunidad para ti, que buscas un local comercial, donde desarrollar tu negocio y hacer historia, y para historia la de este local, situado en la zona comercial de Puerto de la Torre, recordado por ser la antigua discoteca \"Remo\", y que ofrece infinidad de posibilidades, debido a su tamaño y distribución. 340m2 en planta semisótano, cuenta con dos entradas para clientes, una gran sala diáfana, dos baños completos, terraza exterior, almacén y rampa de acceso a vehículos, ideal para la entrega de los proveedores. Deje volar su imaginación y convierta este local en el negocio de su vida. La situación es inmejorable, las posibilidades son infinitas, solo necesitas verlo.  Contacta con nosotros y fija una visita. No te arrepentirás. Se pone en su conocimiento que es necesario acreditar SOLVENCIA mediante ingresos demostrables.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Fuente Alegre - El Chaparral - Los Morales, Málaga",
+        "title": "Local en calle Escritor Atienza Huertos"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "underground",
+        "text": "Sótano"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "95644248",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/de/dc/9d/955397901.webp",
+      "externalReference": "784-APM",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 25.0,
+      "bathrooms": 1,
+      "address": "avenida Carlos de Haya s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Camino de Antequera",
+      "latitude": 36.7229406,
+      "longitude": -4.4519335,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/95644248/",
+      "distance": "2727",
+      "description": "Oportunidad! || Estupendo local comercial, a pie de calle en Avenida Carlos de Haya. Es tiempo de invertir en este tipo de inmuebles. Todo el local dispone de focos halógenos y aire acondicionado. Tiene aproximadamente unos 40 metros, es muy luminoso con gran escaparate que da a la misma Avenida, un almacén y un aseo. En una de las zonas más comerciales de Málaga, con todo tipo de  servicios y comunicaciones. Muchas posibilidades. Contacte con nosotros para realizar una visita en el.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 28.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Camino de Antequera, Málaga",
+        "title": "Local en avenida Carlos de Haya s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105499684",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1e/18/97/1258447892.webp",
+      "externalReference": "L-491",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 8000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 8000.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 436.0,
+      "bathrooms": 0,
+      "address": "avenida Camarón de la Isla s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7365386,
+      "longitude": -4.4038307,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/105499684/",
+      "distance": "2307",
+      "description": "¡Oportunidad única en Malaga Este!  Este magnífico local en BRUTO de 434m² útiles y 467m² construidos, con una altura de 4,5m. y muy buena configuración, posiblemente sea de las pocas oportunidades disponibles para poder instalar su negocio en la cotizada zona de Málaga este.  ideal para cualquier tipo de negocio especialmente clinicas, comercio de alta gama, empresas de ocio o en general cualquier actividad que requiera facil acceso y un emplazamiento con prestancia. Ubicado a pie de calle y haciendo esquina, este espacio ofrece una visibilidad inmejorable y un gran flujo de vehículos a diario, lo que garantiza una gran cantidad de potenciales clientes.  De reciente construcción, este inmueble es una joya esperando ser acondicionada según tus requerimientos. No dejes pasar esta oportunidad de ubicarte en una zona de alto standing y en pleno crecimiento. ¡Contacta con nosotros y haz realidad tu proyecto comercial! NOTA: en el precio no está incluido ningún gasto.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Local en avenida Camarón de la Isla s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108013662",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/f2/55/1331206429.webp",
+      "externalReference": "0163-00071",
+      "numPhotos": 27,
+      "price": 3500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3500.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 400.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 137.0,
+      "bathrooms": 2,
+      "address": "calle Alhóndiga, 2 -6",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.718602,
+      "longitude": -4.4234171,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108013662/",
+      "distance": "349",
+      "description": "¡OPORTUNIDAD! SE TRASPASA RESTAURANTE EN UBICACIÓN PRIME DEL CENTRO HISTÓRICO DE MÁLAGA Ubicación inmejorable, junto al emblemático Mercado Central de Atarazanas. Funcionando con gran éxito: 4,6 estrellas en Google y 5 estrellas en TripAdvisor. UNA INVERSIÓN SEGURA EN UNA ZONA DE ALTO FLUJO TURÍSTICO Y LOCAL Establecimiento totalmente renovado y equipado para operar de inmediato. Contrato de alquiler 8,5 años restantes (3.500 €/mes), con posibilidad de extensión. Incluye también alquiler de oficina/almacén (contrato de 5 años, 306 €/mes).  El local cuenta con una superficie de 137 m², un salón con capacidad para 52 comensales + una terraza de 24 metros con licencia y espacio para 36 comensales. Dispone de cocina completamente equipada, barra equipada, office funcional y amplio espacio de almacenamiento. Cuenta con 2 aseos, uno de ellos adaptado para personas con movilidad reducida. Instalaciones de POS, wifi, alarma y seguridad en perfectas condiciones. Instalación eléctrica renovada recientemente. Reforma integral realizada hace 1,5 años. Oportunidad única de inversión en una de las zonas más dinámicas y turísticas de Málaga. Para más información o visitas, contáctanos hoy mismo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 26.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local en calle Alhóndiga, 2 -6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107642171",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/b7/ef/1323670741.webp",
+      "numPhotos": 10,
+      "price": 1700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1700.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 396.0,
+      "bathrooms": 0,
+      "address": "calle del Alcalde Guillermo Rein",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Polígonos - Recinto Ferial",
+      "latitude": 36.7123742,
+      "longitude": -4.4803858,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107642171/",
+      "distance": "5350",
+      "description": "NAVE IDEAL PARA TALLER DE CARPINTERIA. Se alquila nave industrial de 395 m² ubicada en el Polígono Industrial El Viso, una zona estratégica y bien comunicada para cualquier actividad empresarial. Anteriormente utilizada como taller de carpintería, esta nave ofrece un espacio amplio, ideal para adaptarse a diferentes necesidades comerciales o industriales. Características principales: Superficie total: 395 m². Espacio diáfano con gran capacidad de almacenamiento o área de trabajo. Instalaciones previas que como taller de carpinteria. Aun queda material de esta actividad Ubicación privilegiada dentro de un polígono consolidado y de fácil acceso. Condiciones del alquiler: Fianza requerida: 2 meses. Mes en curso: Pago por adelantado. Honorarios de intermediación: 1 mes de renta + IVA. Esta nave es una oportunidad perfecta para negocios que buscan un espacio funcional, bien ubicado y listo para operar con las adaptaciones necesarias según la actividad. Para más información o para programar una visita, no dudes en contactar con nosotros.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "industrialPremise",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Polígonos - Recinto Ferial, Málaga",
+        "title": "Nave en calle del Alcalde Guillermo Rein"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107144237",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cb/8b/bf/1304323657.webp",
+      "externalReference": "HT90A",
+      "numPhotos": 22,
+      "floor": "1",
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 39000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 45000.0,
+            "priceDropValue": 6000,
+            "priceDropPercentage": 13
+          }
+        },
+        "description": "Traspaso 39.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 97.0,
+      "bathrooms": 2,
+      "address": "avenida de Carlos Haya, 48",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "La Florida - Parque norte",
+      "latitude": 36.7218832,
+      "longitude": -4.4449616,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107144237/",
+      "distance": "2100",
+      "description": "¡Oportunidad Única de Traspaso! Se traspasa bar completamente equipado en una zona de alto tránsito. El local cuenta con una ambiente acogedor y divertido para todo tipo de clientes. Lo más destacado: ¡una impresionante Diana de Lanzamiento de Hachas, ideal para reuniones con amigos, despedidas de soltero/a, y eventos especiales! Características del bar: Diana de lanzamiento de hachas para diversión garantizada Bar totalmente equipado (muebles, utensilios, etc. ) Amplio espacio para eventos y reuniones Excelente ubicación en una zona de paso y alto flujo de clientes Cuenta con 97 m², 2 baños (uno de ellos adaptado a minusválido). Es la oportunidad perfecta para emprendedores que busquen un negocio único y con gran potencial. ¡No dejes pasar esta oportunidad de llevar este espacio al siguiente nivel! Para más información y visitas, contáctanos. ¡Tu nueva aventura empieza aquí! Precio traslado: 45.000 € Precio renta local mensual: 1.400 € + IVA ¿Cuáles son los beneficios de traspasar un local? – Mayor independencia, mientras que en el alquiler el arrendatario debe estar al tanto del nuevo contrato y de la persona que va a practicar su actividad empresarial en un local, el traspaso se puede realizar sin tener el consentimiento del arrendatario. – Además, al traspasar un bar se mantienen intactas todas las licencias y derechos de explotación adquiridos en el negocio del primer inquilino. El local es un pilar fundamental de tu negocio al ser el espacio que tus consumidores visitarán para disfrutar de tus productos, la compañía y el ambiente. En otras palabras, es la parte física o tangible de tu idea de negocio que compartirás con tus clientes, no pierdas esta magnífica oportunidad. Llámanos y nuestro compañero Christian Vázquez le acompañará a visitarlo.  Lidia Ramos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "La Florida - Parque norte, Málaga",
+        "title": "Local en avenida de Carlos Haya, 48"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106408183",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/64/1c/e0/1316705641.webp",
+      "externalReference": "LA0224",
+      "numPhotos": 4,
+      "floor": "bj",
+      "price": 3200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3200.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 100.0,
+      "bathrooms": 0,
+      "address": "plaza Arriola",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7175553,
+      "longitude": -4.4240702,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106408183/",
+      "distance": "479",
+      "description": "Te ofrecemos un local comercial de 100 m2 en una buena ubicación, situado en pleno centro de Málaga, a escasos metros del emblemático Mercado de Atarazanas. La zona destaca por su alta afluencia diaria de personas, lo que convierte al local en una opción ideal para cualquier negocio que busque visibilidad y gran flujo de clientes potenciales. El espacio dispone de dos amplios huecos de escaparate que le dan una buena visibilidad para exposición de productos o servicios hacia la calle. Tiene una gran versatilidad debido a su superficie totalmente diáfana y de forma rectangular. Cuenta con techos altos que proporcionan una sensación de amplitud y dan una imagen elegante al interior del local. Posibilidad de implantar negocio de restauración. En Eurobienes contamos con una exclusiva cartera de locales comerciales, tanto en alquiler como en venta. Contacta con nosotros si quieres tener una información más detallada de nuestros inmuebles según tus necesidades. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 32.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local en plaza Arriola"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104936168",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3d/52/08/1236685452.webp",
+      "externalReference": "/Local.Avenida.Andalucia",
+      "numPhotos": 36,
+      "floor": "bj",
+      "price": 3900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3900.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 260.0,
+      "bathrooms": 4,
+      "address": "avenida de Andalucía",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Carranque - Haza Cuevas",
+      "latitude": 36.7151141,
+      "longitude": -4.4399273,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104936168/",
+      "distance": "1788",
+      "description": "\"LOCAL DE PRIMERÍSIMAS CALIDADES EN AVENIDA ANDALUCÍA.  Oportunidad única de traer tu negocio al centro de Málaga, en Avenida Andalucía. Se encuentra en una zona próxima a bancos, tiendas, supermercados, bares, farmacias, etc. Buena comunicación con la salida a autovía. Parada de metro y paradas de autobús cercanas. Se encuentra dividido en dos plantas, con un total de 260m2.  Primeras calidades.  -Fachada con entrada principal y 1 ventana de 2,60m. -5 metros Fachada de la puerta de seguridad y 2 ventanas 2,60m - 12m 5 estancias 4 baños puerta de seguridad almacén, entreplanta de 30m2. hace esquina entrada auxiliar tiene oficina. Se piden INGRESOS DEMOSTRABLES, además del pago de dos mensualidades de fianza + una mensualidad de honorarios profesionales. \".",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Carranque - Haza Cuevas, Málaga",
+        "title": "Local en avenida de Andalucía"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106096673",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1f/c6/ef/1272396713.webp",
+      "externalReference": "Local El palo",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 1100.0,
+            "priceDropValue": 100,
+            "priceDropPercentage": 9
+          }
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 35.0,
+      "bathrooms": 1,
+      "address": "avenida Juan Sebastián Elcano, 143",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "El Palo",
+      "latitude": 36.7223559,
+      "longitude": -4.3653252,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106096673/",
+      "distance": "4998",
+      "description": "¡Oportunidad única en El Palo! Se alquila local comercial a pie de calle, ubicado en una de las mejores zonas del barrio y rodeado de una gran variedad de comercios. Este espacio de 35 m² construidos (33 m² útiles) es ideal para emprender tu negocio. Cuenta con una estancia principal y un baño, además de dos amplios escaparates que garantizan máxima visibilidad. La fachada de 10 metros lineales en esquina asegura una excelente exposición. El alquiler incluye gastos de agua, dependiendo del tipo de negocio, y se ofrecen dos meses de carencia para facilitar tu instalación. Las condiciones son dos meses de fianza e ingresos demostrables. Los honorarios de la agencia corresponden a una mensualidad de la renta más IVA.  No pierdas esta oportunidad y contáctanos para ampliar información o concertar una visita. ¡Estamos encantados de ayudarte a encontrar el local perfecto para tu negocio!",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 29.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "El Palo, Málaga",
+        "title": "Local en avenida Juan Sebastián Elcano, 143"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107923401",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/04/d5/a9/1328437349.webp",
+      "numPhotos": 8,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 7000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 10000.0,
+            "priceDropValue": 3000,
+            "priceDropPercentage": 30
+          }
+        },
+        "description": "Traspaso 7.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 55.0,
+      "bathrooms": 1,
+      "address": "camino de San Rafael, 17",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Cruz del Humilladero - Los Tilos",
+      "latitude": 36.7105204,
+      "longitude": -4.4430651,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107923401/",
+      "distance": "2272",
+      "description": "Local comercial con mobiliario destinado a frutería. En Pleno Camino San Rafael. Este tramo de Camino San Rafael entre la rotonda de la Cruz de Humilladero y Avenido Juan XXIII, es de sobra conocido por su pública concurrencia ideal para el comercio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Cruz del Humilladero - Los Tilos, Málaga",
+        "title": "Local en camino de San Rafael, 17"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107703971",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/29/88/99/1331507148.webp",
+      "externalReference": "MA082",
+      "numPhotos": 18,
+      "floor": "bj",
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 120.0,
+      "bathrooms": 2,
+      "address": "avenida de José Ortega y Gasset",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Polígonos - Recinto Ferial",
+      "latitude": 36.7099246,
+      "longitude": -4.4781918,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107703971/",
+      "distance": "5217",
+      "description": "Se traspasa restaurante con cocina y terraza, ubicado en la zona industrial, en calle con gran afluencia de trabajadores y estudiantes excelente ambiente. Negocio llave en mano, listo para empezar a trabajar desde el primer día. Funciona muy bien con desayunos y menús. Local en perfectas condiciones Totalmente equipado, con cocina y mobiliario en buen estado y con gran visibilidad atractivo y condiciones de traspaso muy interesantes Traspaso por 16.000€ Alquiler 2.500€ Si buscas una oportunidad para emprender en una de las mejores zonas de Málaga, este es tu momento. ¡No lo dejes pasar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 21.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Polígonos - Recinto Ferial, Málaga",
+        "title": "Local en avenida de José Ortega y Gasset"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "86538851",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ac/bb/27/1317179097.webp",
+      "externalReference": "04315",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 2000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2000.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 131.0,
+      "bathrooms": 0,
+      "address": "Barrio La Victoria",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Victoria",
+      "latitude": 36.7254757,
+      "longitude": -4.4150839,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/86538851/",
+      "distance": "729",
+      "description": "Si está buscando el mejor local comercial, no puede dejar pasar la visita a este. Situado en unos de los barrios más emblemáticos de Málaga, el Barrio de la Victoria con gran fachada de 12 m. Local a pie de calle, con un paso de vehículos de lunes a lunes, a lo que debe de añadir un enorme paso peatonal debido a infinidad de motivos:  Mas de 3 colegios cercanos ( entre ellos colegio Los Maristas), varias líneas de autobuses, paradas de taxis, entidades bancarias, innumerables y distintos comercios, hospitales centro de salud.  En él podrá instalar su negocio sin duda, debido a las magníficas posibilidades de superficie que posee   No dude en llamarme para visitarlo, además de Inmobiliaria somos gestoría laboral y fiscal y contamos con departamento de arquitectura, le resolveremos todas las dudas para iniciar su negocio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "La Victoria, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105112039",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fa/61/8c/1242057004.webp",
+      "externalReference": "BAR-102",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 1700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1700.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 140000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 140.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 92.0,
+      "bathrooms": 1,
+      "address": "calle Tomás Echeverría",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Huelin",
+      "latitude": 36.7044679,
+      "longitude": -4.434452,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105112039/",
+      "distance": "2203",
+      "description": "Se traspasa bar cafetería con terraza en TOMÁS ECHEVARRÍA (HUELIN) trabajando todo el año con clientela fija desde hace varios años, con amplia fachada, totalmente montado y equipado, en la mejor ubicación y calle de Huelin. El negocio cuenta con una decoración atractiva y renovada, lleva funcionando desde hace años, con buen beneficio neto. Se traspasa por no poder atenderse desde la gerencia en estos momentos. El local cuenta con una terraza de 20 m2 y todas las licencias activas, salida de humos a tejado. En esta calle va a entrar el ZAS lo que significa ya no van a otorgar nuevas licencias de hostelería. Gran oportunidad de negocio en una de las mejores calles gastronómicas de Málaga. Si necesitas más información o visita, no dudes en contactarnos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Huelin, Málaga",
+        "title": "Local en calle Tomás Echeverría"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104706843",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/98/62/04/1270241619.webp",
+      "externalReference": "JMZ0413A",
+      "numPhotos": 17,
+      "floor": "bj",
+      "price": 3000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3000.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 162.0,
+      "bathrooms": 2,
+      "address": "calle la Serna",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7155899,
+      "longitude": -4.4290591,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104706843/",
+      "distance": "932",
+      "description": "Aprovecha la oportunidad de montar tu propio negocio en Perchel Sur, zona inmejorable de Málaga, rodeado por todo tipo de comercios a un paso del Centro Comercial Vialia, Estación de AVE María Zambrano, Centro Comercial Larios (EROSKI). Este local se encuentra a pie de calle al lado de la Iglesia del Carmen, es todo exterior y hace dos esquinas, posibilidad de terraza por la plaza peatonal. El local cuenta con 160 metros construidos y el interior es muy amplio, tal y como se puede visualizar en las fotos. No lo dudes más y ven a visitarlo. REF. JMZ0413A.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Local en calle la Serna"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107873793",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0d/a2/5c/1326967274.webp",
+      "externalReference": "CJ1200l",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 1200.0,
+            "priceDropValue": 100,
+            "priceDropPercentage": 8
+          }
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 44.0,
+      "bathrooms": 1,
+      "address": "calle Emilio Thuiller",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Huerta Nueva - Jardín de Málaga",
+      "latitude": 36.7513693,
+      "longitude": -4.4209515,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107873793/",
+      "distance": "3343",
+      "description": "LOCAL EN ALQUILER SITUADO EN AVENIDA PRINCIPAL Te ofrecemos este local en alquiler, localizado en la Calle Emilio Thuiller, zona muy comercial, con mucho paso de gente y rodeado de todo tipo de comercios. Estupenda ubicación para dar buena visibilidad a tu negocio. Cuenta con unos 44m² totalmente diáfanos, con un aseo al fondo del local. Preinstalación hecha para poder poner escaparate. No se permiten negocios relacionados con hostelería. Se piden 2 meses de fianza. Llama y pide tu cita para venir a visitarlo e infórmate sin compromiso. En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de Octubre | se informa al cliente que los gastos notariales | registrales | ITP | intermediación inmobiliaria y otros gastos inherentes a la compra | no están incluidos en el precio. El consumidor tiene derecho a que se le entregue una copia del correspondiente documento informativo abreviado de la vivienda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 25.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Huerta Nueva - Jardín de Málaga, Málaga",
+        "title": "Local en calle Emilio Thuiller"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107321937",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/90/id.pro.es.image.master/2a/e2/07/1309496755.webp",
+      "externalReference": "MV 205687",
+      "numPhotos": 8,
+      "floor": "bj",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 98.0,
+      "bathrooms": 0,
+      "address": "avenida de Isaac Peral",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "La Luz",
+      "latitude": 36.6979846,
+      "longitude": -4.4576179,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107321937/",
+      "distance": "4140",
+      "description": "Gilmar Consulting Inmobiliario Málaga presenta este local amplio y diáfano en alquiler. Descubre el espacio perfecto para tu negocio. Este amplio local en alquiler, situado a pie de calle, ofrece una oportunidad única para emprendedores y comerciantes. Con 98 m² construidos y 96 m² útiles, su diseño diáfano permite adaptarlo a cualquier tipo de uso, desde un gimnasio hasta una tienda especializada. La posibilidad de unirlo con el local continuo amplía aún más las opciones para tu proyecto. Ubicado en una zona de excelente visibilidad y fácil aparcamiento, este local es ideal para captar la atención de potenciales clientes. Su fachada de 5 metros lineales y un escaparate llamativo garantizan que tu negocio no pasará desapercibido. No dejes pasar esta oportunidad de establecerte en un lugar estratégico y hacer crecer tu negocio en un entorno dinámico y prometedor. Ven a visitarlo y visualiza el futuro de tu empresa aquí En Gilmar Consulting Inmobiliario trabajamos para ofrecer a nuestros clientes los mejores inmuebles desde hace 37 años. Cubrimos todas las necesidades inmobiliarias contando con más de 4.000 viviendas en venta, pisos de segunda mano, obra nueva, chalets, primera línea de playa, fincas rústicas, locales comerciales, solares… Disponemos de más de 30 equipos especializados en distintas zonas al servicio de más de 90.000 clientes nacionales e internacionales, que cuentan con el asesoramiento necesario para garantizar su seguridad, eficacia jurídica y la mejor rentabilidad financiero-fiscal. Contáctanos y te ayudaremos a encontrar la casa de tus sueños.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "La Luz, Málaga",
+        "title": "Local en avenida de Isaac Peral"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107271061",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/30/0d/8c/1308047737.webp",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 75.0,
+      "bathrooms": 1,
+      "address": "avenida Mayorazgo s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Mayorazgo",
+      "latitude": 36.7312578,
+      "longitude": -4.396908,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107271061/",
+      "distance": "2447",
+      "description": "SAN ANTON consultoría inmobiliaria presenta esta oportunidad única en el corazón del Limonar.  Este local comercial, situado en la prestigiosa Avenida del Mayorazgo, ofrece una ubicación inmejorable con alto tránsito peatonal y rodeado de diversos comercios. Con 75 m² construidos y 60 m² útiles, este espacio se distribuye en una planta con tres estancias, ideal para adaptarse a tus necesidades comerciales. Cuenta con un baño privado, espacio office y almacén, además de dos amplios escaparates que aseguran máxima visibilidad. La fachada de 10 metros lineales garantiza una presencia destacada a pie de calle, perfecto para captar la atención de clientes potenciales. Equipado con calefacción y aire acondicionado, el local asegura confort durante todo el año. La parada de autobús en la puerta facilita el acceso, complementado por rápidas conexiones con centros educativos y la autovía. Se solicitan dos meses de fianza legal arrendaticia e ingresos demostrables. Los honorarios de la agencia corresponden a un mes de renta pactada más IVA, a abonar por el arrendatario. No dejes pasar esta oportunidad de establecer tu negocio en una de las zonas más dinámicas y comerciales de la ciudad. ¡Contáctanos para más información y visita!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Mayorazgo, Málaga",
+        "title": "Local en avenida Mayorazgo s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107322008",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/90/id.pro.es.image.master/d3/1c/cf/1309498457.webp",
+      "externalReference": "MV 205703",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 665.0,
+      "priceInfo": {
+        "price": {
+          "amount": 665.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 55.0,
+      "bathrooms": 0,
+      "address": "calle Alejandro Dumas",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "La Luz",
+      "latitude": 36.6915524,
+      "longitude": -4.456849,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107322008/",
+      "distance": "4574",
+      "description": "Gilmar Consulting Inmobiliario Málaga presenta este local amplio y diáfano en alquiler. Oportunidad única para emprendedores! Este local en alquiler, situado en una zona de alta visibilidad, es el lienzo perfecto para dar vida a tu nuevo negocio. Con 55 m² construidos y 53 m² útiles, este espacio en bruto te ofrece la libertad de diseñar cada rincón a tu gusto. Ubicado a pie de calle, cuenta con una fachada de 6 metros lineales que garantiza una excelente exposición. La zona está en pleno crecimiento, con un aumento de tránsito gracias a los nuevos planes de construcción, lo que asegura un flujo constante de potenciales clientes. Además, el fácil aparcamiento en las inmediaciones es un plus para atraer a más visitantes. Construido en 1993, este local se presenta como una oportunidad inmejorable para aquellos que desean comenzar desde cero y dejar su huella en un barrio en plena expansión. No dejes pasar esta ocasión y convierte este espacio en el negocio de tus sueños. En Gilmar Consulting Inmobiliario trabajamos para ofrecer a nuestros clientes los mejores inmuebles desde hace 37 años. Cubrimos todas las necesidades inmobiliarias contando con más de 4.000 viviendas en venta, pisos de segunda mano, obra nueva, chalets, primera línea de playa, fincas rústicas, locales comerciales, solares… Disponemos de más de 30 equipos especializados en distintas zonas al servicio de más de 90.000 clientes nacionales e internacionales, que cuentan con el asesoramiento necesario para garantizar su seguridad, eficacia jurídica y la mejor rentabilidad financiero-fiscal. Contáctanos y te ayudaremos a encontrar la casa de tus sueños.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "La Luz, Málaga",
+        "title": "Local en calle Alejandro Dumas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108033235",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/31/6f/8d/1333482074.webp",
+      "numPhotos": 8,
+      "floor": "bj",
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 85000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 90000.0,
+            "priceDropValue": 5000,
+            "priceDropPercentage": 6
+          }
+        },
+        "description": "Traspaso 85.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 67.0,
+      "bathrooms": 1,
+      "address": "Barrio Olletas - Sierra Blanquilla",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Olletas - Sierra Blanquilla",
+      "latitude": 36.7328782,
+      "longitude": -4.4171038,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108033235/",
+      "distance": "1343",
+      "description": "Excelente oportunidad de inversión en uno de los barrios mejor posicionados de Málaga, con gran afluencia de clientes y funcionando desde el año 2018.  Además de su ubicación estratégica, el espacio cuenta con una distribución ideal para continuar operando de manera óptima; cuenta con cocina 100% equipada, con salida de humo (FILTRONIC) y la maquinaria completa en muy buen estado. El salón cuenta con un aforo total de 30 personas y una barra equipada.  Además, de esto, la terraza es ideal ya que se adapta a los 12 metros de fachada con los que cuenta el local.  El plus es que cuenta también con una entrada auxiliar para proveedores o equipo en general, y espacio de almacenamiento/oficina.  El local cuenta con una reantabilidad demostrable y asegurada para quien decida tomar las riendas del negocio.  Estamos cerrando visitas para esta misma semana. Si deseas verlo, contacta con nosotros!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 21.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Olletas - Sierra Blanquilla, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105489152",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/83/78/05/1270047432.webp",
+      "numPhotos": 44,
+      "floor": "bj",
+      "price": 6500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 6500.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 2000.0,
+      "bathrooms": 4,
+      "address": "calle Cuevas del Becerro, 15",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Polígonos - Recinto Ferial",
+      "latitude": 36.701731,
+      "longitude": -4.4647248,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/105489152/",
+      "distance": "4432",
+      "description": "¡Oportunidad única de alquiler en el Polígono La Estrella! Nave industrial con características excepcionales, ideal para cualquier tipo de negocio. Ubicada en la mejor calle del polígono, esta propiedad cuenta con una fachada imponente de 25 metros lineales aprox. que no pasará desapercibida. Distribuidos en tres plantas, tendrás todo el espacio que necesitas para operar y crecer. La planta baja de 1.000 m² ofrece dos portones amplios y 3 portones pequeños eléctricos para zona de venta showroom amplios escaparates que brindan visibilidad y atractivo comercial. Las oficinas son amplias y están equipadas con aire acondicionado para garantizar un ambiente cómodo de trabajo. Los baños completos y el sistema contra incendios aseguran la seguridad y comodidad de todos los empleados. En la planta alta, encontrarás oficinas adicionales y una sala de reuniones, ideales para la gestión administrativa y la toma de decisiones estratégicas. La entreplanta ha sido ampliada específicamente para el almacenaje de palets, optimizando así el espacio disponible. La tercera planta ofrece 800 m² adicionales de almacén, proporcionando aún más capacidad de almacenamiento. Además, esta nave cuenta con un montacargas de 2.500 kg y un puente grúa de 3.200 kg, facilitando el manejo de materiales pesados. La altura de la nave es impresionante, con aproximadamente 14 metros laterales y 10 metros en la cercha, lo que permite una gran versatilidad en el uso del espacio. No pierdas la oportunidad de establecer tu negocio en una ubicación privilegiada y con todas las comodidades necesarias para el éxito. ¡Contacta con nosotros hoy mismo para más información y para programar una visita!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "industrialPremise",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Polígonos - Recinto Ferial, Málaga",
+        "title": "Nave en calle Cuevas del Becerro, 15"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103955895",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f3/a5/27/1205387011.webp",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 520.0,
+      "bathrooms": 2,
+      "address": "CORTES DE LA FRONTERA, 29",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Polígonos - Recinto Ferial",
+      "latitude": 36.7026908,
+      "longitude": -4.4659337,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/103955895/",
+      "distance": "4476",
+      "description": "Disponemos en cartera en régimen de ALQUILER una nave industrial totalmente diáfana con una superficie de 520m2, con muy buena altura de almacenamiento, esta situada en el Polígono La Estrella (Málaga) y tiene una planta alta con oficinas. La nave cuenta con un puente grúa de aprox. 3,2T y es ideal para taller de aluminio, perfilería, negocios de distribución, almacenamiento, etc. (La nave se alquila totalmente limpia y diáfana. La fachada es moderna con muy buena imagen corporativa. El polígono industrial La Estrella se encuentra muy bien comunicado, esta cerca de las principales autovías y muy cerca del centro de Málaga.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "industrialPremise",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Polígonos - Recinto Ferial, Málaga",
+        "title": "Nave en Cortes De La Frontera, 29"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107460920",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c6/88/e6/1313279446.webp",
+      "numPhotos": 56,
+      "floor": "bj",
+      "price": 4500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4500.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 240.0,
+      "bathrooms": 2,
+      "address": "Barrio Pacífico",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Pacífico",
+      "latitude": 36.6895964,
+      "longitude": -4.4433178,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107460920/",
+      "distance": "4030",
+      "description": "Espectacular local comercial haciendo esquina, frente a la Diputación de Málaga. Este restaurante completamente instalado, con licencia de bar con cocina, es ideal para marca o franquicia que necesiten estar en una excelente ubicación y gran visibilidad desde la propia avenida de los Guindos. Con una superficie de 240 m2, este local está totalmente instalado de maquinaria y mobiliario, listo para comenzar a funcionar desde el primer día.  Se negocia traspaso. La zona donde se encuentra ubicado es una de las más consolidadas de expansión de Málaga Oeste, rodeada de todo tipo de servicios y con una amplia oferta de gastronomía en los alrededores.  Además, el local actualmente se encuentra decorado como marisquería, ya que fué restaurante que estuvo ejerciendo la actividad recientemente, distribuido en una zona de público para mas de 30 mesas en el interior, amplia barra, cocina equipada con cámara refrigerada, vestuarios y aseos. Una de las ventajas de este local es la posibilidad de contar con una amplia terraza delante del local, dónde podrá alojar un gran número de comensales, lo que aumenta su atractivo para aquellas empresas que buscan tener esta opción al exterior. Se requiere aportar garantías de pago. Los honorarios de agencia son equivalentes a una mensualidad más IVA.  ¡No pierdas esta oportunidad de oro! Se requiere acreditar solvencia económica para la explotación de este local comercial.  Contacta con nosotros a través de llamada o whatsapp para más información.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Pacífico, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107977905",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/60/58/60/1330033505.webp",
+      "numPhotos": 15,
+      "price": 2700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2700.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 600.0,
+      "bathrooms": 2,
+      "address": "calle Alfarnatejo",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Polígonos - Recinto Ferial",
+      "latitude": 36.7030635,
+      "longitude": -4.4715159,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107977905/",
+      "distance": "4905",
+      "description": "Ponemos a tu disposición una espaciosa nave industrial de 600 m² construidos, completamente diáfana, ubicada en uno de los polígonos más dinámicos y mejor conectados de Málaga. El espacio cuenta con dos oficinas abiertas, ideales para usos administrativos o de gestión, y dos baños completamente equipados, pensados para ofrecer comodidad tanto al personal como a las visitas. La nave dispone de un portón de acceso de 4,5 x 5 metros, lo que facilita la entrada de vehículos de carga y maniobras logísticas. Con una altura interior de 10 metros, y cubierta de panel sándwich de 12 cm, se garantiza un ambiente térmicamente eficiente, incluso en los meses más cálidos. Además, la estructura metálica está preparada para la instalación de un puente grúa, adaptándose así a necesidades industriales más exigentes. Incluye también una entreplanta de gran capacidad de 50 m², perfecta para almacenamiento adicional o para adaptar según las necesidades del negocio. Con una fachada visible y representativa, esta nave es una oportunidad ideal para empresas que buscan visibilidad, calidad y una excelente conexión por carretera con el aeropuerto, el puerto y otras zonas clave de la Costa del Sol. Lista para empezar a operar. ¡Una oportunidad excelente para establecer o ampliar tu actividad en una de las zonas industriales más cotizadas de Málaga!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "industrialPremise",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Polígonos - Recinto Ferial, Málaga",
+        "title": "Nave en calle Alfarnatejo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107321815",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/90/id.pro.es.image.master/dc/a8/64/1309493420.webp",
+      "externalReference": "MV 205670",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 1238.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1238.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 98.0,
+      "bathrooms": 0,
+      "address": "avenida de Isaac Peral",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "La Luz",
+      "latitude": 36.6991393,
+      "longitude": -4.4549573,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107321815/",
+      "distance": "3875",
+      "description": "Gilmar Consulting Inmobiliario Málaga presenta este local amplio y diáfano en alquiler. Descubre el espacio perfecto para tu negocio. Este amplio local en alquiler, situado a pie de calle, ofrece una oportunidad única para emprendedores y comerciantes. Con 98 m² construidos y 96 m² útiles, su diseño diáfano permite adaptarlo a cualquier tipo de uso, desde un gimnasio hasta una tienda especializada. La posibilidad de unirlo con el local continuo amplía aún más las opciones para tu proyecto. Ubicado en una zona de excelente visibilidad y fácil aparcamiento, este local es ideal para captar la atención de potenciales clientes. Su fachada de 5 metros lineales y un escaparate llamativo garantizan que tu negocio no pasará desapercibido. No dejes pasar esta oportunidad de establecerte en un lugar estratégico y hacer crecer tu negocio en un entorno dinámico y prometedor. Ven a visitarlo y visualiza el futuro de tu empresa aquí En Gilmar Consulting Inmobiliario trabajamos para ofrecer a nuestros clientes los mejores inmuebles desde hace 37 años. Cubrimos todas las necesidades inmobiliarias contando con más de 4.000 viviendas en venta, pisos de segunda mano, obra nueva, chalets, primera línea de playa, fincas rústicas, locales comerciales, solares… Disponemos de más de 30 equipos especializados en distintas zonas al servicio de más de 90.000 clientes nacionales e internacionales, que cuentan con el asesoramiento necesario para garantizar su seguridad, eficacia jurídica y la mejor rentabilidad financiero-fiscal. Contáctanos y te ayudaremos a encontrar la casa de tus sueños.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "La Luz, Málaga",
+        "title": "Local en avenida de Isaac Peral"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107973879",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/99/36/4a/1329898718.webp",
+      "externalReference": "MA05434",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 1650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1650.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 43000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 48000.0,
+            "priceDropValue": 5000,
+            "priceDropPercentage": 10
+          }
+        },
+        "description": "Traspaso 43.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 110.0,
+      "bathrooms": 2,
+      "address": "Barrio Carranque - Haza Cuevas",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Carranque - Haza Cuevas",
+      "latitude": 36.716552,
+      "longitude": -4.4374079,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107973879/",
+      "distance": "1521",
+      "description": "REFERENCIA MA05434 ✨ ¡Oportunidad única en el centro de Málaga! ✨ TRASPASO: 43.000€. ALQUILER: 1.650 €/MES Se traspasa encantador Bar Cafetería en la zona de Avenida Andalucía, en pleno corazón de la ciudad. �️ � Completamente reformado recientemente, listo para seguir en marcha. � En funcionamiento y con una clientela estable que ya confía en nosotros. � Ubicado en una zona de gran afluencia, ideal para atraer tanto a turistas como a locales, con muchas empresas de oficina en la zona. � � 110 m² distribuidos en 2 plantas: Comedor interior acogedor �️ Gran terraza exterior para 10 mesas, perfecta para disfrutar del buen clima malagueño � � Cocina totalmente equipada, con salida de humos y toda la instalación eléctrica nueva, lista para seguir ofreciendo un excelente servicio. Si estás interesado en esta oportunidad, ¡no dudes en contactarme! �� Garanty Home Costa del Sol  TELF:  EMAIL:.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Carranque - Haza Cuevas, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105170889",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/c8/8d/1243972050.webp",
+      "externalReference": "FA-00152",
+      "numPhotos": 31,
+      "floor": "bj",
+      "price": 713.0,
+      "priceInfo": {
+        "price": {
+          "amount": 713.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 44000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 44.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 50.0,
+      "bathrooms": 1,
+      "address": "avenida Gregorio de Diego",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Los Guindos - Parque Mediterráneo - Santa Paula",
+      "latitude": 36.687132,
+      "longitude": -4.4485117,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105170889/",
+      "distance": "4502",
+      "description": "Oportunidad única de traspaso en la vibrante zona de Parque Mediterráneo, Málaga! Se ofrece en traspaso una encantadora cafetería que se encuentra en perfectas condiciones, prácticamente nueva y con una operación exitosa comprobada. **Detalles del Local: ** - **Estado: ** Como nueva, en excelente estado de conservación. - **Funcionamiento: ** La cafetería está en pleno funcionamiento y cuenta con una clientela fija y leal, lo que garantiza una afluencia constante de clientes. - **Decoración: ** Decorada con un gusto exquisito, la cafetería ofrece un ambiente acogedor y moderno, ideal para disfrutar de un buen café, pastelería y momentos agradables. **Características Adicionales: ** - **Ubicación: ** Situada en una zona estratégica de Parque Mediterráneo, con fácil acceso y buena visibilidad. - **Espacio: ** Amplio y bien distribuido, con capacidad para acomodar a una cantidad considerable de clientes. - **Equipamiento: ** Totalmente equipada con maquinaria y mobiliario de alta calidad, lista para continuar operando sin necesidad de realizar inversiones adicionales. **Condiciones del Traspaso: ** - **Precio del Traspaso: ** Se ofrece a un precio competitivo que refleja el excelente estado y la rentabilidad del negocio. - **Renta Mensual: ** El alquiler del local es de 713€ Si estás buscando una oportunidad de negocio con un riesgo mínimo y un potencial de crecimiento significativo, no dejes pasar esta oportunidad. ¡Contáctanos para más información y para organizar.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Guindos - Parque Mediterráneo - Santa Paula, Málaga",
+        "title": "Local en avenida Gregorio de Diego"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107624919",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/e0/14/1317978668.webp",
+      "numPhotos": 8,
+      "floor": "bj",
+      "price": 4000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4000.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 166.0,
+      "bathrooms": 2,
+      "address": "calle Arturo Toscanini, 9",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.7187233,
+      "longitude": -4.4672007,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107624919/",
+      "distance": "4092",
+      "description": "¡SIN TRASPASO! ¡Oportunidad única para emprendedores del sector gastronómico! Se alquila un espectacular local de 166 m², preparado como hamburguesería moderna, situado en una ubicación privilegiada en el corazón de la zona universitaria. Este espacio cuenta con amplios ventanales que ofrecen una visibilidad inmejorable, justo enfrente de las facultades de Derecho y Educación. La fachada asegura que tu negocio no pase desapercibido, atrayendo tanto a estudiantes como a residentes de la zona. El interior del local está diseñado para maximizar la funcionalidad y el confort. Dispone de una cocina acristalada, perfecta para ofrecer un espectáculo culinario a tus clientes. La sala es ideal para crear un ambiente acogedor y social. Además, cuenta con un almacén espacioso, sistema de climatización, baños adaptados. Con 161 m² útiles, este local ofrece múltiples posibilidades para personalizarlo según tus necesidades. La salida de humos ya instalada es perfecta para una operación sin complicaciones y cumple con toda la normativa vigente. No pierdas la oportunidad de establecer tu negocio en un entorno dinámico y lleno de potencial. ¡Visítalo y visualiza el futuro éxito!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 24.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Local en calle Arturo Toscanini, 9"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106102786",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/e5/3f/1272585065.webp",
+      "externalReference": "D-ALLO003",
+      "numPhotos": 18,
+      "floor": "bj",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 116.0,
+      "bathrooms": 1,
+      "address": "Barrio Santa Cristina - San Rafael",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Santa Cristina - San Rafael",
+      "latitude": 36.7114137,
+      "longitude": -4.4548222,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106102786/",
+      "distance": "3175",
+      "description": "Gran oportunidad para alquiler de negocio, situado en la mejor zona de la avenida Ortega y Gasset. Este local cuenta con una amplia fachada, bonito escaparate, y cabe destacar una gran acera de 8 m de ancho que permite la instalación de terraza. Además cuenta con una estupenda visibilidad, y por su ubicación, con gran afluencia de peatones.  Ideal para cualquier tipo de negocios, cuenta con salida de humos y está situado junto a las zonas de restauración de la avenida.  Distribución  Dispone de 116 m2 construidos, distribuido en 2 plantas. Primera planta con 69,42 m2 útiles, y entreplanta con 31 m2 útiles Suministros de luz y agua a cargo del inquilino. Comunidad e IBI a cargo del propietario. Necesario 2 mensualidades de fianza. En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de Octubre, se informa al cliente que los gastos no se incluyen en el precio, así como tampoco los honorarios de intermediación.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Santa Cristina - San Rafael, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107966755",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b4/38/8b/1329723958.webp",
+      "numPhotos": 12,
+      "price": 3000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3000.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 650.0,
+      "bathrooms": 0,
+      "address": "calle Alcalde Gómez Gómez, 35",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Polígonos - Recinto Ferial",
+      "latitude": 36.7099861,
+      "longitude": -4.4796139,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107966755/",
+      "distance": "5338",
+      "description": "¡Oportunidad única de alquilar una nave industrial en el polígono industrial El Viso! Esta amplia nave cuenta con una superficie total de 600 m², ideal para almacenaje de mercancías, trasteros o guardamuebles cerrados. Se trata de un módulo interconectado, tendrás la flexibilidad que necesitas para tu negocio. La nave dispone de dos muelles de carga, facilitando la logística y el acceso a tus productos. Dispone de una magnifica oficina con 135m2 ideal para zona administrativa y control de mercancías. La fachada amplia ofrece una excelente visibilidad y acceso directo a pie de calle, lo que la convierte en un espacio funcional y accesible. Aunque los motores de frío no están operativos y necesitarán ser reemplazados, el potencial de esta nave es innegable. ¡No dejes pasar esta oportunidad y ven a visitarla!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "industrialPremise",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Polígonos - Recinto Ferial, Málaga",
+        "title": "Nave en calle Alcalde Gómez Gómez, 35"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96357686",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/71/f7/fb/944830713.webp",
+      "numPhotos": 21,
+      "floor": "bj",
+      "price": 2100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2100.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 59000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 59.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 72.0,
+      "bathrooms": 1,
+      "address": "calle Strachan s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7196442,
+      "longitude": -4.4207963,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/96357686/",
+      "distance": "191",
+      "description": "Se Traspasa magnifico local ubicado en Calle Strachan, zona prime Centro Histórico de Málaga.  El local cuenta con una superficie útil de 65m2 a pie de una de las calles más emblemáticas, turísticas y transitadas de Málaga. Dispone de Aire Acondicionado, Calefacción, Alarma, Almacén y baño. Local con muchas posibilidades en una ubicación inmejorable.  Local totalmente reformado muy recientemente, listo para entrar y abrir.  Entorno Privilegiado: A escasos pasos de Calle Larios, muy cerca de la Catedral, del la Alcazaba, Museo Picasso, Teatro Romano, Museo de Málaga.. . ¡OPORTUNIDAD ÚNICA!  Se requiere Solvencia Económica demostrable. Gastos Agencia: 5% del Traspaso + 1 mes de renta +IVA Para más información o concertar una visita no dude en ponerse en contacto con nosotros. ¡NO DEJES ESCAPAR ESTA OPORTUNIDAD¡.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 29.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local en calle Strachan s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108083355",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/14/76/8d/1333307336.webp",
+      "externalReference": "R4003",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 70.0,
+      "bathrooms": 2,
+      "address": "Barrio Santa Cristina - San Rafael",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Santa Cristina - San Rafael",
+      "latitude": 36.7086666,
+      "longitude": -4.4448452,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108083355/",
+      "distance": "2517",
+      "description": "ZONA AVENIDA JUAN XXIII - CAMINO SAN RAFAEL Referencia: 4003 Amplio local comercial en esquina en plena Avenida Juan XXIII, con mucha visibilidad, paso de coches y peatones. Dispone de salida de humos, dos escaparates y dos baños. Negocio anterior: Bar. Superficie: 70m2 construidos, 61m2 utiles. Excelente oportunidad para montar un negocio en una de las zonas con mas visibilidad y paso de coches y peatones de Malaga. Rodeado de todo tipo de comercios, colegios, parada de bus y metro cercanas. Avenida muy comercial con alto tránsito de coches y peatones. El precio no incluye los honorarios de intermediación inmobiliaria equivalentes a una mensualidad. Véalo sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Santa Cristina - San Rafael, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106171603",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/80/ab/cd/1209747769.webp",
+      "externalReference": "MA08-00517",
+      "numPhotos": 32,
+      "floor": "bj",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 152.0,
+      "bathrooms": 1,
+      "address": "avenida Carlinda",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "San Alberto - La Alcubilla - Florisol",
+      "latitude": 36.7316827,
+      "longitude": -4.447819,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106171603/",
+      "distance": "2622",
+      "description": "Se alquila amplio Local Comercial en Carlinda, LOCAL DE 152 M2 CONSTRUIDOS Tiene dos fachadas, una de 7,50 metros y otra de 4,80 metros Se alquila local, concretamente en Camino de San Alberto, Orientación suroeste, Cuenta actualmente con un aseo, dos cámaras frigoríficas, dos accesos diferentes y todo unido por la parte trasera. El local se encuentra en una calle sin salida y necesita de reforma, Cerca del local encuentras todas las necesidades a solo unos pasos: Centro de salud, colegios, supermercados, parques infantiles y además a unos pocos pasos del hospital Civil. Fácil y rápido acceso a la autovía por Valle Inclán, Además varias paradas de autobús (incluidas trayecto a la Universidad) y cerca caminando del centro de Málaga. Precio Venta: 150.000 € Precio alquiler: 850 € (En cumplimiento del RD de la Junta de Andalucía 2182005 de 11 de Octubre se informa a los Sres. consumidores que en los precios indicados no están incluidos los gastos derivados de la compra de inmuebles según las leyes vigentes, (ITP, gastos notariales, registrales e inmobiliarios) Le recordamos que como consumidor tiene derecho a que se le informe y entregue la documentación informativa que corresponda, según el caso, en base a lo dispuesto en el Decreto 218/05 de 11 de Octubre que regula el Reglamento de Información al Consumidor en la compra-venta y arrendamiento de vivienda en Andalucía.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "San Alberto - La Alcubilla - Florisol, Málaga",
+        "title": "Local en avenida Carlinda"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102616535",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/26/55/0b/1165761080.webp",
+      "externalReference": "RP2982023118688",
+      "numPhotos": 16,
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 121.0,
+      "bathrooms": 1,
+      "address": "calle Almería",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "El Palo",
+      "latitude": 36.7202751,
+      "longitude": -4.3565973,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102616535/",
+      "distance": "5776",
+      "description": "REDPISO TRASPASA NEGOCIO EN FUNCIONAMIENTO en una zona privilegiada de El Palo. OPORTUNIDAD BAJADA DE PRECIO! Se trata de un PARQUE INFANTIL DE BOLAS en un local comercial a pie de calle, en plena Calle Almería con un gran tránsito de gente. Calculo de la recuperación de la inversión entre 6 y 18 meses, consultar al asesor.  Cuenta con 2 salones, el primero con capacidad para 8 mesas y el segundo con espacio para 10 mesas, además de un amplio PARQUE INFANTIL Y ZONA DE JUEGOS, zona de cocina equipada y 1 baño (adaptado para personas con movilidad reducida). SE RUEGA NO MOLESTAR A LOS PROPIETARIOS Y CONTACTAR CON NOSOTROS PARA CUALQUILER CONSULTA. El precio del traspaso es de 15.000€ + IVA. Consúltenos sin compromiso, estaremos encantados de poder ayudarles. Se informa al cliente que el precio ofertado no comprende la fianza ni la comisión de intermediación que es de una mensualidad + IVA. Redpiso, la confianza de trabajar con el líder. Teléfono de contacto  Puede encontrarnos en Calle Alonso Carrillo de Albornoz 7, (frente al Mercado Municipal)>Málaga.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "El Palo, Málaga",
+        "title": "Local en calle Almería"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102081092",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7f/50/9e/1260924858.webp",
+      "externalReference": "AZM0029",
+      "numPhotos": 18,
+      "floor": "bj",
+      "price": 1900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1900.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 126.0,
+      "bathrooms": 1,
+      "address": "calle Alonso de Palencia",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Carranque - Haza Cuevas",
+      "latitude": 36.7206578,
+      "longitude": -4.4339179,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102081092/",
+      "distance": "1117",
+      "description": "Se alquila bonito y atractivo local comercial de 125m². El inmueble se compone de amplios espacio diáfanos, un despacho, una oficina y un baño. Se encuentra en excelentes condiciones y listo para ponerlo en funcionamiento. Cuenta con todos los muebles de oficina, está ubicado a pie de calle y consta de amplios ventanales que dan gran visibilidad a la actividad comercial. Esta muy bien ubicado, junto a la calle Mármoles, con gran afluencia de personas y a tan solo 8 minutos caminando del emblemático Centro Histórico de ésta bella ciudad.  Salvo error u omisión, la información, descripción, precios y demás datos de esta propiedad son correctos. Esta propiedad está sujeta a posibles cambios de precio o retirada del mercado sin previo aviso. En cumplimiento del Decreto de la Junta de Andalucía 218/2005, de 11 de octubre, se informa a la parte compradora que los gastos notariales, registrales, ITP (Impuesto de Transmisiones Patrimoniales), AJD (Actos Jurídicos Documentados), y otros gastos inherentes a la compra y venta, no están incluidos en el precio. Contacta con nosotros y mejor lo conoces personalmente. REF. AZM0029.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Carranque - Haza Cuevas, Málaga",
+        "title": "Local en calle Alonso de Palencia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107887905",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/54/a4/1327349097.webp",
+      "externalReference": "LOCAL ALQUILER ",
+      "numPhotos": 16,
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 45.0,
+      "bathrooms": 1,
+      "address": "calle Eugenio Gross s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Los Castillejos - La Trinidad",
+      "latitude": 36.724272,
+      "longitude": -4.4357011,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107887905/",
+      "distance": "1316",
+      "description": "¡OPORTUNIDAD DE ALQUILER EN EUGENIO GROSS! Este local de 45 metros cuadrados es una magnífica oportunidad para cualquier tipo de negocio. Está situado en plena calle principal de Eugenio Gross por lo tanto cuenta con gran afluencia de coches y peatones El local cuenta con dos plantas, un baño, además de aire acondicionado. ¡No pierdas la oportunidad de establecer tu negocio en una de las zonas más concurridas y dinámicas de la ciudad, no dejes pasar la oportunidad y ven a visitarlo!  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 20.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castillejos - La Trinidad, Málaga",
+        "title": "Local en calle Eugenio Gross s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108083372",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/08/da/dc/1333307151.webp",
+      "externalReference": "R4001",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 50.0,
+      "bathrooms": 2,
+      "address": "Barrio Santa Cristina - San Rafael",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Santa Cristina - San Rafael",
+      "latitude": 36.7092196,
+      "longitude": -4.4443127,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108083372/",
+      "distance": "2444",
+      "description": "AVENIDA JUAN XXIII - BARBARELA Referencia 4001 Local comercial a pie de calle distribuido en 2 plantas. Dispone de 2 baños en la planta baja. Situado en una de las mejores zonas de la Avenida Juan XXIII con bastante paso de peatones, muy cercano a la parada de metro. Superficie: 50m2 construidos, 45m2 útiles. Rodeado de comercios, con parada de bus y metro cercanas. Negocio anterior: Locutorio. Véalo sin compromiso. El precio de venta no comprende los gastos notariales y los registrales, la gestión de intermediación, ni los tributos y gastos de escrituración que gravan la compraventa, que satisface al comprador.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Santa Cristina - San Rafael, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98329049",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/8b/2b/1008282650.webp",
+      "externalReference": "050",
+      "numPhotos": 16,
+      "floor": "bj",
+      "price": 5750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 5750.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 167.0,
+      "bathrooms": 0,
+      "address": "plaza de la Merced, 4",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Merced",
+      "latitude": 36.7230084,
+      "longitude": -4.4177452,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/98329049/",
+      "distance": "377",
+      "description": "EN ALQUILER EXCLUSIVO Y AMPLIO LOCAL A PIE DE CALLE SITUADO EN PRIMERA LINEA DE PLAZA DE LA MERCED. ¡UBICACIÓN INMEJORABLE! Fabuloso local sito en primera línea de la Plaza de la Merced, a escasos pasos de la Casa Natal de Pablo Ruiz Picasso, a escasos metros del Teatro Romano, Alcazaba, Museo Picasso y Playa de la Malagueta.  El local se encuentra en la planta baja de un edificio señorial, con viviendas exclusivas de lujo, rehabilitado completamente en 2020.  Dispone de Uso Comercial como de Hostelería sin salida de humos. Local con muchísimas posibilidades, para cualquier tipo de Comercio o para Bar o Restaurante. Libre de zona Zas.  El inmueble consta de 167m2 con un magnifico patio interior acristalado de suelo a techo que aporta gran luminosidad al local. Techos altos que le dan un toque y encanto especial al inmueble.  ¡SIN TRASPASO! ¡NO DEJES ESCAPAR ESTA OPORTUNIDAD! Se requiere Solvencia Económica demostrable.  Condiciones: - 2 meses de fianza - 1 Año de Aval Bancario  - 1 mes Honorarios Agencia  Aproveche la oportunidad y quédese con este magnifico local sito en una ubicación y entorno privilegiado e inmejorable.  No dude en contactar con nosotros para cualquier información que deseen o concertar una visita al inmueble.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 34.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "La Merced, Málaga",
+        "title": "Local en plaza de la Merced, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107956859",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7b/2a/ab/1329453370.webp",
+      "numPhotos": 29,
+      "floor": "bj",
+      "price": 1800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1800.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 174.0,
+      "bathrooms": 2,
+      "address": "calle Ibrahin",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Victoria Eugenia",
+      "latitude": 36.7301484,
+      "longitude": -4.4438745,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107956859/",
+      "distance": "2231",
+      "description": "EL MEJOR BAR-RESTAURANTE DE MIRAFLORES-SUAREZ, 174 M2 DE LOCAL. - Consiga una centralidad en este local ofreciendo Menús diarios en unas de la zonas mas populosas de Málaga  Equipamiento incluido, solo es abril y empezar a trabajar.  Alquilo bar- restaurante en Miraflores-Suarez, con 174 m2, dos salones equipados con su mobiliario, cocina totalmente equipada, barra con neveras y expositores.  Cuenta con Licencia para Bar con COCINA. SE ALQUILA SIN TRASPASO. SE PIDEN GARANTIAS AL MARGEN DE LA FIANZA LEGAL. TOTALMENTE EQUIPADO. ALTA EN LUZ Y AGUA.  PRECIO INMEJORABLE: 1.800 EUROS + IVA  Se ofrece contrato de larga temporada (5 AÑOS). Se requiere mes en curso, dos meses de fianza (local comercial), y un mes en concepto de honorarios de agencia más IVA, mas las garantías adicionales que pudiera solicitar la propiedad. Agente Colegiado y en posesión de Seguro de Responsabilidad Civil para cualquier contingencia. Contacto: Francisco.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Victoria Eugenia, Málaga",
+        "title": "Local en calle Ibrahin"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108033676",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/90/17/ec/1333834441.webp",
+      "numPhotos": 10,
+      "price": 4200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4200.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 80000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 80.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 210.0,
+      "bathrooms": 2,
+      "address": "calle Carretería",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7225124,
+      "longitude": -4.4221393,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108033676/",
+      "distance": "150",
+      "description": "¡Oportunidad única en el corazón del centro histórico! Se traspasa un local de hostelería con licencia de Bar con cocina, ideal para emprendedores que buscan un negocio con clientela fija y un flujo constante de público nacional e internacional. Este bar, de 170 m² distribuidos en dos plantas, ha sido totalmente reformado y cuenta con un aire moderno y adaptable a diferentes estilos. La ubicación a pie de calle, con 5 metros lineales de fachada y dos escaparates, garantiza una visibilidad inmejorable. El local dispone de todas las comodidades necesarias: calefacción, aire acondicionado, sistemas de alarma y una cocina completamente equipada con salida de humos. Además, cuenta con dos estancias y dos baños, uno de ellos adaptado para personas con discapacidad, lo que lo hace accesible para todos. El precio es muy competitivo, lo que lo convierte en una excelente inversión. No pierdas la oportunidad de gestionar este negocio con tanto potencial. Para más información, contacta con Francisco al 6 uno 6 cuatro 7 dos 3 cinco 4.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 20.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local en calle Carretería"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99409714",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/20/09/1043001491.webp",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 3850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3850.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 163.0,
+      "bathrooms": 0,
+      "address": "plaza de la Merced",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7226689,
+      "longitude": -4.4194461,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99409714/",
+      "distance": "231",
+      "description": "Se alquila exclusivo local ubicado en plena Plaza de la Merced. Se trata de un local completamente a estrenar ubicado en el bajo de un edificio reformado en el año 2020. Su fachada de acceso se encuentra a pie de calle y da a la Plaza de la Merced, por lo que se encuentra en uno de los lugares más emblemáticos y concurridos de Málaga Capital. Ubicación inmejorable en pleno centro histórico con tránsito constante de turistas. Se encuentra a escasos metros de varios de los más importantes lugares de interés de la ciudad, como serían la Casa natal de Picasso, la Alcazaba, la Catedral, el Museo de Málaga (Aduana), el Parque, el museo Thyssen etc. Igualmente se ubica muy próximo al puerto (Palmeral de las Sorpresas y Muelle 1), así como a la famosa playa de la Malagueta. Rodeado de todo tipo de comercios, con ambiente diurno y nocturno, lo que lo convierte en un local con un enorme potencial de facturación. Oportunidad para instalar tu negocio en la mejor zona de Málaga. IMPORTANTE! Se trata de uno de los pocos locales de la zona que no requieren de pago de traspaso. Se hace estudio de solvencia.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 24.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local en plaza de la Merced"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107169197",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b6/68/65/1305044728.webp",
+      "numPhotos": 6,
+      "floor": "bj",
+      "price": 3500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3500.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 380000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 380.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 144.0,
+      "bathrooms": 2,
+      "address": "Barrio Centro Histórico",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7173225,
+      "longitude": -4.4251077,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107169197/",
+      "distance": "552",
+      "description": "Restaurante gourmet en traspaso en zona premium de Málaga, con una amplia cava de vinos y gran salón para más de 56 comensales.  El local cuenta con gran salida de humo y una cocina completamente equipada para dar de comer a más de 100 personas.  La maquinaria está en perfectas condiciones para continuar operando a diario; al igual que la barra que se encuentra 100% reformada y con posibilidad de sumar banquetas en caso de ser necesario.  Cuenta con licencia de Restaurante al día y un permiso de terraza amplio, para un total de 15 mesas.  Se encuentra en una zona premium con alto paso de gente, rodeado de hoteles, pisos turísticos, locales comerciales, comercios y mucho más.  Cuenta además con sistema de aire acondicionado central y la instalación eléctrica completamente renovada, así como el local en general que fue reformado hace un año y medio.  [[Amplia rentabilidad demostrable para inversores interesados]] *Contáctanos para más información y coordinar una visita*.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 24.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105221403",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5d/ff/86/1254949645.webp",
+      "externalReference": "MJ7785",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 4038.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4038.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 417.0,
+      "bathrooms": 0,
+      "address": "plaza Manos Unidas",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Puerto de la Torre",
+      "country": "es",
+      "neighborhood": "El Atabal",
+      "latitude": 36.728708,
+      "longitude": -4.4617128,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105221403/",
+      "distance": "3685",
+      "description": "Local Comercial en bruto y diáfano, con gran fachada, visibilidad, con todos los metros en planta calle. Ubicado en un edificio residencial situado en la avenida principal de la zona, con gran afluencia de vehículos y peatones, y en un edificio icónico, que se convertirá en la zona residencial de referencia de Málaga. IBI local 2959,57 más IVA Comunidad 179,19 más IVA 216,82 mensuales. Los gastos de IBI y comunidad van por cuenta de la parte arrendataria.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "El Atabal, Málaga",
+        "title": "Local en plaza Manos Unidas"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107984246",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/77/1d/d2/1330218500.webp",
+      "numPhotos": 13,
+      "price": 1700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1700.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 350.0,
+      "bathrooms": 0,
+      "address": "calle la Ilíada",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Polígonos - Recinto Ferial",
+      "latitude": 36.702526,
+      "longitude": -4.495135,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107984246/",
+      "distance": "6895",
+      "description": "SOLO ALQUILERES, alquila nave industrial de 300 m² distribuidos en dos plantas, ubicada en un polígono consolidado de Málaga con excelente acceso desde las principales vías de comunicación. La nave cuenta con oficinas ya acondicionadas, ideal para compaginar actividad logística, comercial o de almacenaje con espacio administrativo. Está completamente libre y disponible para entrar de inmediato. Características principales: Superficie total: 300 m² Distribución en dos plantas Oficinas instaladas Buen acceso y maniobrabilidad Entorno industrial activo No dude en consultar, para coordinar una visita!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "industrialPremise",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Polígonos - Recinto Ferial, Málaga",
+        "title": "Nave en calle la Ilíada"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106465827",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bb/1c/c8/1325439140.webp",
+      "externalReference": "A831",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 420.0,
+      "priceInfo": {
+        "price": {
+          "amount": 420.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 38.0,
+      "bathrooms": 0,
+      "address": "pasaje Gorbea",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Los Castillejos - La Trinidad",
+      "latitude": 36.7236509,
+      "longitude": -4.437398,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106465827/",
+      "distance": "1449",
+      "description": "ALQUILER CON OPCIÓN A COMPRA A 1 AÑO Local a pie de calle, consta de 38m2 diáfano. Solicite más información. Zona rodeada de tiendas, supermercados, líneas de bus, colegios, guarderías y a pocos minutos del centro histórico. En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de Octubre, se informa al cliente que los gastos notariales, registrales, ITP, intermediación inmobiliaria y otros gastos inherentes a la compra, no están incluidos en el precio.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castillejos - La Trinidad, Málaga",
+        "title": "Local en pasaje Gorbea"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107577020",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/01/45/1316693176.webp",
+      "numPhotos": 13,
+      "price": 4000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4000.0,
+          "currencySuffix": "€/mes"
+        },
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 400.0,
+      "bathrooms": 2,
+      "address": "avenida Villa Rosa",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Churriana",
+      "country": "es",
+      "neighborhood": "Churriana-El Pizarrillo-La Noria-Guadalsol",
+      "latitude": 36.6714875,
+      "longitude": -4.4729594,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107577020/",
+      "distance": "7197",
+      "description": "¡Atención emprendedores y empresarios!  Presentamos una oportunidad única para establecer tu negocio en una nave industrial de 400 m², ubicada estratégicamente cerca del aeropuerto.  Este espacio es ideal para quienes buscan comodidad y accesibilidad, ya que se encuentra a pie de calle, facilitando el acceso y la logística.  La nave cuenta con una oficina y dos baños, ofreciendo todo lo necesario para comenzar a operar de inmediato.  No dejes pasar esta oportunidad de crecimiento y expansión.  ¡Contáctanos para agendar una visita y descubrir todo lo que este espacio tiene para ofrecerte!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "industrialPremise",
+        "transfer": false
+      },
+      "suggestedTexts": {
+        "subtitle": "Churriana-El Pizarrillo-La Noria-Guadalsol, Málaga",
+        "title": "Nave en avenida Villa Rosa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106716831",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/72/aa/11/1333048630.webp",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 48000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 48.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 38.0,
+      "bathrooms": 1,
+      "address": "Barrio Huelin",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Huelin",
+      "latitude": 36.7027683,
+      "longitude": -4.4361831,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106716831/",
+      "distance": "2445",
+      "description": "Excelente oportunidad de negocio en el barrio de Huelin: ¡traspasamos BAR CON COCINA y GRAN TERRAZA en una de las calles más visitadas!  El local está 100% equipado, para continuar elevando la facturación. La maquinaria está en muy buen estado, la licencia de \"bar con cocina\", se encuentra en regla, al igual que el permiso de terraza para 15 mesas y 28 sillas.  Cuenta con un pequeño salón de 3 mesas; y baño adaptado para todos los clientes.  Además, dentro del traspaso, se incluyen 2 motos con cajón de repartos para continuar la actividad sin inconvenientes.  >Si quieres un negocio ya montado, para facturar desde el primer día, tienes aqui una gran oportunidad!  **¡Contacta con nosotras hoy mismo para coordinar una visita!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 37.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Huelin, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107662939",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/25/4e/f8/1324144241.webp",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 5000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 5000.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 295.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 127.0,
+      "bathrooms": 1,
+      "address": "Barrio Centro Histórico",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7219752,
+      "longitude": -4.4227175,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107662939/",
+      "distance": "139",
+      "description": "¡Excelente restaurante 100% reformado a metros de calle Larios en traspaso! Dos plantas completamente adaptadas para el desarrollo de cualquier proyecto gastronómico de alta gama, con opción de una segunda cocina para alto volúmen de pedidos para llevar.  El espacio cuenta con 127 m2, dividido en dos plantas. En la planta baja, su distribución se compone de espacio de barra moderno, con pantallas para dar información a tus clientes, salón, cocina a la vista con gran capacidad de extracción de humos y muebles hechos a medida; baño adaptado para personas con movilidad reducida.  En la segunda planta, cuenta con espacio para almacenamiento, oficina, y vestuario para personal.  Cabe destacar que tiene una entrada auxiliar para proveedores o bien repartidores para momentos de gran venta de pedidos para llevar.  Sin dudas, es un gran espacio donde poder pisar fuerte en la capital de la Costa del Sol.  Su licencia es \"BAR CON COCINA Y TAKE AWAY\". Cuenta también con el permiso activo de terraza y se encuentra en una zona de altísimo paso tanto de día como de noche; muy cerca de la calle más visitada de España.  Su rentabilidad es demostrable a interesadas/os serias/os.  Estamos coordinando visitas desde hoy. Contáctanos.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 39.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102853755",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9b/e0/cd/1169545919.webp",
+      "externalReference": "MLG1-MM-2372",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 1600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1600.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 100000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 100.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 110.0,
+      "bathrooms": 0,
+      "address": "calle Carcer",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7224935,
+      "longitude": -4.4182273,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102853755/",
+      "distance": "312",
+      "description": "Maravilloso local en TRASPASO en Málaga Centro, Málaga Capital. Inmueble en EN BRUTO Ubicado a pocos pasos del Teatro Cervantes de Málaga Dispone de 110 m2 construidos a pie de calle. LICENCIA DE BAR CON COCINA SIN MUSICA. Salida de humo. Precio traspaso: 120.000€ A escasos metros de la zona comercial y de ocio del centro de la Capital de la Costa del Sol. Zona peatonal y muy transitada. NO PIERDA ESTA OPORTUNIDAD Y CONTACTE CON NOSOTROS PARA REALIZAR UNA VISITA. Daurum Estate ofrece conseguir la mejor financiación a su medida hasta el 100% del valor de compra – venta sea nuestra la vivienda o no. INFORMACIÓN SIN COMPROMISO en el mismo número de teléfono del anuncio. Además, posibilidad de servicio de reformas para acomodar la vivienda a su gusto.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local en calle Carcer"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101984821",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cf/2a/d2/1140322682.webp",
+      "externalReference": "MLG1-MM-2198",
+      "numPhotos": 17,
+      "floor": "bj",
+      "price": 3000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3000.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 135000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 135.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 98.0,
+      "bathrooms": 2,
+      "address": "calle beatas",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7218328,
+      "longitude": -4.4223006,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101984821/",
+      "distance": "99",
+      "description": "Maravilloso local en TRASPASO en Málaga Centro, Málaga Capital. Traspaso 135.000€ + IVA. Inmueble en buen estado Ubicado a pocos pasos del Teatro Cervantes de Málaga Dispone de 98 m2 construidos. Terraza con licencia y mesas Cocina independiente totalmente equipada. Consta de 7 escaparates que aportan luminosidad al local. Aire acondicionado por Split (bomba frio-calor). LICENCIA DE BAR CON COCINA SIN MUSICA. A escasos metros de la zona comercial y de ocio del centro de la Capital de la Costa del Sol. Zona peatonal y muy transitada. NO PIERDA ESTA OPORTUNIDAD Y CONTACTE CON NOSOTROS PARA REALIZAR UNA VISITA. Daurum Estate ofrece conseguir la mejor financiación a su medida hasta el 100% del valor de compra – venta sea nuestra la vivienda o no. INFORMACIÓN SIN COMPROMISO en el mismo número de teléfono del anuncio. Además, posibilidad de servicio de reformas para acomodar la vivienda a su gusto.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 31.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local en calle beatas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105078617",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/83/18/1333896907.webp",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        },
+        "transferPrice": {
+          "amount": 150000.0,
+          "currencySuffix": "€"
+        },
+        "description": "Traspaso 150.000 €",
+        "mainPrice": "price"
+      },
+      "propertyType": "premise",
+      "operation": "rent",
+      "size": 112.0,
+      "bathrooms": 2,
+      "address": "Barrio Centro Histórico",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7235701,
+      "longitude": -4.4219151,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105078617/",
+      "distance": "256",
+      "description": "¿Sueñas con tener tu propio bar de copas en el Centro de Málaga? >>>> ¡Traspasamos este excelente local, reformado a nuevo y con amplia clientela todo el año!  Tres escaparates, permiso de terraza sobre una de las calles más transitadas de la ciudad, salón acristalado y decorado con luces regulables, hermosa barra, cocina equipada con salida de humo, y una segunda planta con salón VIP y más metros para almacenar lo que necesites.  Tanto la licencia como el permiso de terraza, se encuentran al día, por lo que puedes entrar y continuar facturando en esta nueva temporada de verano en la Costa del Sol!  El tiempo de contrato puede ser de 5 o 7 años, renovables; el alquiler es de €2.500 (+ IVA) y el valor del traspaso es de €150.000.  >>>>>>Si quieres visitarlo y que te guiemos en el proceso, contáctanos!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 22.0,
+      "change": {},
+      "detailedType": {
+        "typology": "premise",
+        "subTypology": "commercialProperty",
+        "transfer": true
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Local"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "ubicationInfo": {
+        "key": "onTheStreet",
+        "text": "A pie de calle"
+      },
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    }
+  ],
+  "total": 536,
+  "totalPages": 11,
+  "actualPage": 4,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar",
+    "Locales o naves",
+    "Centro Histórico",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Locales o naves en Centro Histórico",
+  "totalAppliedFilters": 0,
+  "lowerRangePosition": 150,
+  "upperRangePosition": 200,
+  "paginable": true
+}
