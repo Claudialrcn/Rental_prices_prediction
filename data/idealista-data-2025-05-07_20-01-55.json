@@ -1,0 +1,20 @@
+{
+  "elementList": [],
+  "total": 167,
+  "totalPages": 4,
+  "actualPage": 8,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar",
+    "Oficinas",
+    "Centro Histórico",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Oficinas en Centro Histórico",
+  "totalAppliedFilters": 0,
+  "lowerRangePosition": 350,
+  "upperRangePosition": 350,
+  "paginable": true
+}

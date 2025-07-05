@@ -1,0 +1,19 @@
+{
+  "elementList": [],
+  "total": 318,
+  "totalPages": 7,
+  "actualPage": 12,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar",
+    "Garajes",
+    "Centro Histórico",
+    "Todos los precios"
+  ],
+  "alertName": "Garajes en Centro Histórico",
+  "totalAppliedFilters": 0,
+  "lowerRangePosition": 550,
+  "upperRangePosition": 550,
+  "paginable": true
+}

@@ -1,0 +1,2931 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "106266387",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/d1/60/1326746995.webp",
+      "externalReference": "PIS0590",
+      "numPhotos": 8,
+      "floor": "bj",
+      "price": 178000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 178000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 50.0,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Carrasco",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Merced",
+      "latitude": 36.7269902,
+      "longitude": -4.4166682,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106266387/",
+      "distance": "760",
+      "description": "Norando Homes presenta para sus clientes esta excelente oportunidad! Precioso piso a estrenar en el BARRIO DE LAGUNILLAS, MÁLAGA CAPITAL distribuido en: Amplio salón interior, muy luminoso que da a patio central del edificio  Cocina abierta al salón, amueblada  1 Dormitorio con armario empotrado y baño en suite, con plato de ducha, acabados con muy buena calidades Bloque con ascensor y excelente ubicación ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3560.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Merced, Málaga",
+        "title": "Piso en calle Carrasco"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104291905",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/83/20/98/1215720674.webp",
+      "externalReference": "AS809",
+      "numPhotos": 32,
+      "price": 800000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 260.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "paseo de Sancha s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7217127,
+      "longitude": -4.4017047,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/104291905/",
+      "distance": "1755",
+      "description": "¡Increíble oportunidad! Casa pareada en venta en segunda línea de playa y a solo 15 minutos del centro. Disfruta de vistas al mar desde tu terraza y paseos por el Paseo Marítimo Pablo Ruiz Picasso. Este hogar de estilo colonial te enamorará con sus suelos hidráulicos, techos abuhardillados y puertas antiguas. Con 260 m² construidos, 3 dormitorios, 2 baños y amplio espacio abuhardillado en la planta alta. Aire acondicionado, calefacción centralizada y armarios empotrados. No pierdas la oportunidad de vivir en este paraíso. ¡Contáctanos!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3077.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Chalet pareado en paseo de Sancha s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107986397",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/70/cd/7d/1330291953.webp",
+      "externalReference": "250418",
+      "numPhotos": 34,
+      "floor": "2",
+      "price": 245000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 245000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 68.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Sustancia",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Puerto de la Torre",
+      "country": "es",
+      "neighborhood": "Fuente Alegre - El Chaparral - Los Morales",
+      "latitude": 36.7448125,
+      "longitude": -4.482321,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107986397/",
+      "distance": "6025",
+      "description": "¿Te gustaría vivir o invertir en uno de los barrios de mayor expansión en Málaga? ¡A nadie le amarga un dulce, y este piso es un auténtico manjar! Permítenos contarte más. Desde Focaris Zone, te presentamos este precioso ático ubicado en una de las zonas más exclusivas de la ciudad, en el Puerto de la Torre, a un paso de Teatinos. Esta área ha sido modernizada y cuenta con excelentes comunicaciones y una amplia gama de servicios, donde tu vida se convertirá en un verdadero lujo. Situado en la segunda planta del edificio, este luminoso y encantador inmueble te da la bienvenida con: - Salón comedor: Un espacio con un toque abuhardillado que no solo te permitirá disfrutar de momentos inolvidables con tus seres queridos, sino que también aporta un cálido ambiente acogedor. - Terraza: La joya de la corona, accesible desde el salón. Con nuestro espectacular clima mediterráneo, podrás disfrutarla tanto en invierno como en verano. Sus vistas despejadas te permitirán contemplar gran parte del barrio, convirtiéndola en el lugar perfecto para relajantes veladas, además de contar con una excelente orientación este que garantiza luz natural durante todo el día. - Cocina equipada: Totalmente amueblada con un diseño moderno, esta cocina ofrece un espacio funcional ideal para preparar deliciosas comidas. - Dos dormitorios: Espacios íntimos y personales que te brindarán el merecido descanso que necesitas cada día. - Baño completo: Equipado con bañera, que ofrece comodidad y privacidad. - Ubicación: Disfrutarás de una extensa gama de servicios a tu disposición: colegios públicos y privados, comercios, restaurantes, bares, instalaciones deportivas, parques y zonas infantiles. Además, al estar cerca de la Universidad de Málaga y Teatinos, contarás con perfectas comunicaciones: salida directa a la autovía en todas direcciones, estación de metro y paradas de autobús. - Posibilidades ilimitadas: Ya sea que desees vivir en él o alquilarlo, este ático te ofrece un abanico de oportunidades. Su cercanía a la Universidad de Málaga, al Parque Tecnológico y al Hospital Clínico genera una alta demanda de alquiler, ideal para maximizar el rendimiento de tu inversión. Si prefieres residir en esta propiedad, disfrutarás de la tranquilidad de una zona apacible, sin ruidos, y a un paso de la vibrante vida de Teatinos, con sus terrazas, heladerías, pubs y un ambiente inigualable. Como puedes ver, esta propiedad es perfecta para cualquier persona que busque una vida cómoda y exclusiva en Málaga. ¡Tu calidad de vida cambiará para siempre! Te invitamos a verlo, además de en las fotos, a través de nuestro tour virtual, donde podrás hacerte una idea perfecta de cómo es el piso sin moverte del sofá. Encontrarás el link justo de debajo de las fotos. (Tour Virtual). Visítalo y comprueba las infinitas posibilidades de adquirir un hogar de ensueño. En FOCARIS ZONE estaremos encantados de acompañarte en este proceso.  En cumplimiento del Decreto de la Junta de Andalucía 2182005 del 11 de octubre | se informa al cliente que los gastos notariales | registrales | ITP | intermediación inmobiliaria y otros gastos inherentes a la compra | no están incluidos en el precio. El consumidor tiene derecho a que se le entregue una copia del correspondiente documento informativo abreviado de la vivienda\".",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3603.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Fuente Alegre - El Chaparral - Los Morales, Málaga",
+        "title": "Ático en calle Sustancia"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107962223",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b9/7f/24/1329595878.webp",
+      "externalReference": "PIS_191",
+      "numPhotos": 66,
+      "floor": "4",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 430000.0,
+            "priceDropValue": 30000,
+            "priceDropPercentage": 7
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 131.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Júcar, 10",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Los Guindos - Parque Mediterráneo - Santa Paula",
+      "latitude": 36.6956612,
+      "longitude": -4.4493182,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107962223/",
+      "distance": "3784",
+      "description": "Os presentamos una maravilla de piso en una cuarta planta de alrededor de 125m2, de 4 habitaciones amplias, todas ellas exteriores con cocina independiente con lavadero y dos baños, uno de ellos en suite. Es un piso muy luminoso donde nos da a dos orientaciones, una zona tranquila y cerca de comercios, supermercados, colegios y parques, todo lo necesario para poder disponer de su día a día e incluso para desconectar y pasear por el maravilloso Parque del Oeste. Su salón es muy espacioso donde además de tener una mesa de comedor nos da amplitud para poder tener dos zonas diferentes ya que una parte de la terraza está dentro del salón. Es una comunidad tranquila que cuenta dos pisos por planta y con un total de 20 vecinos. Está para poder entrar a vivir, muy bien cuidado, que desde el momento de entrar sentirán una buena energía y sintonía. Honorarios de intermediación no incluidos en el precio de venta (4% +IVA). No duden en preguntar y poder pedir una cita para su visita.  ref: PIS_191.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3053.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Guindos - Parque Mediterráneo - Santa Paula, Málaga",
+        "title": "Piso en calle Júcar, 10"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108016442",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/45/3e/fd/1331303963.webp",
+      "externalReference": "00794",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 215000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 215000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 219950.0,
+            "priceDropValue": 4950,
+            "priceDropPercentage": 2
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Ciudad Jardín",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Ciudad Jardín",
+      "latitude": 36.7484511,
+      "longitude": -4.4225961,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108016442/",
+      "distance": "3020",
+      "description": "Magnífico piso totalmente reformado, ubicado en el corazón del barrio de Ciudad Jardín, a escasos metros de la avenida principal y con acceso completamente llano, sin cuestas, lo que lo hace especialmente cómodo y accesible. Su excelente ubicación permite llegar caminando a todos los puntos clave de la ciudad: colegios, supermercados, transporte público, centros de salud y zonas comerciales. Originalmente de tres dormitorios, la vivienda ha sido redistribuida para ofrecer dos amplios dormitorios, ganando en amplitud y confort, aunque es posible volver fácilmente a la distribución de tres dormitorios si se desea. Cuenta con un baño completo, una cocina independiente totalmente equipada y un salón acogedor y muy luminoso. Todo el piso ha sido reformado recientemente con materiales de calidad: instalaciones de fontanería y electricidad nuevas, carpintería moderna, suelos, baño y cocina actualizados, listo para entrar a vivir sin necesidad de reformas. Además, el edificio dispone de ascensor, un valor añadido en la zona. Una oportunidad ideal tanto para vivir como para invertir, en una zona consolidada, bien comunicada y con todos los servicios al alcance.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2688.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Jardín, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108059053",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/49/69/d2/1332588410.webp",
+      "externalReference": "70027",
+      "numPhotos": 27,
+      "floor": "4",
+      "price": 249990.0,
+      "priceInfo": {
+        "price": {
+          "amount": 249990.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Victoria Eugenia",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Victoria Eugenia",
+      "latitude": 36.7295065,
+      "longitude": -4.4376725,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108059053/",
+      "distance": "1713",
+      "description": "� ¡OPORTUNIDAD ÚNICA EN MIRAFLORES DE LOS ÁNGELES! � ¡Tu nuevo hogar te está esperando! ✨ � Te presentamos este maravilloso piso totalmente reformado, listo para entrar a vivir, ubicado en una de las zonas más consolidadas y demandadas de Málaga: Miraflores de los Ángeles. Un lugar ideal tanto para familias como para inversores. ¡No dejes pasar esta ocasión! � UBICACIÓN PRIVILEGIADA Situado a un paso de hospitales, centros médicos, colegios, supermercados, paradas de autobús, zonas verdes y todo tipo de servicios. Tendrás todo lo que necesitas al alcance de tu mano, en un entorno cómodo, seguro y muy bien comunicado. ���️ � CARACTERÍSTICAS DE LA VIVIENDA: ✨ Reforma integral: Instalaciones renovadas, acabados modernos y diseño funcional. Solo tendrás que traer tus maletas. �️ Cocina independiente con mucho estilo y equipada con muebles de calidad. Además, dispone de un lavadero anexo, perfecto para mantener el orden y la funcionalidad. � �️ Amplio salón comedor, luminoso y acogedor, ideal para compartir momentos inolvidables con la familia o amigos. � �️ 3 habitaciones cómodas y bien distribuidas, perfectas para una familia, para teletrabajar o tener un espacio extra como vestidor o despacho. �� � Baño completo con moderno plato de ducha, reformado con buen gusto y materiales de primera. � � Pequeña terraza donde podrás relajarte, tomar el aire o disfrutar de un café por las mañanas. �☕ � El edificio cuenta con buenos vecinos, zona tranquila y está bien mantenido. � Ideal como primera vivienda o inversión, dada la alta demanda de alquiler en la zona.  Nota de interés:  -Comunidad 80€/mes incluida agua.  -IBI:223€ � ¡No dejes pasar esta oportunidad! Contáctanos hoy mismo para concertar una visita. ¡Te enamorarás en cuanto lo veas! ❤️ En cumplimiento del RD de la Junta de Andalucía 218/2005 de 11 de Octubre se informa a los Sres. consumidores que en los precios indicados no están incluidos los gastos derivados de la compra de inmuebles según las leyes vigentes, (ITP, gastos notariales y registrales, etc.). No existen honorarios de intermediación inmobiliaria adicionales al precio de venta, salvo los que implican servicios prestados por nuestra Agencia al comprador y que ascienden a un porcentaje del 0,75% más IVA (21%) calculado sobre el precio final de venta del inmueble visitado. Los datos expuestos en la ficha comercial son meramente informativos y no tienen valor contractual. Asimismo su contenido puede estar sujeto a cambios de precio, de disponibilidad y/o retirada del mercado sin aviso específico previo. Asimismo, por mandato expreso del propietario, comercializamos este inmueble en sistema de multiventa centralizada, lo que implica que, cualquier gestión realizada en relación con la compraventa del mismo, habrá de ser realizada a través de Proactiva Inmobiliaria. Por ese motivo, le rogamos que se ponga en contacto directo con nosotros sin importunar directamente a propietarios u ocupantes de la propiedad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3425.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Victoria Eugenia, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104769109",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/84/87/c2/1326603731.webp",
+      "externalReference": "PIS0417",
+      "numPhotos": 24,
+      "floor": "bj",
+      "price": 320000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 320000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 112.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Manrique",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Cristo de la Epidemia",
+      "latitude": 36.7307431,
+      "longitude": -4.4145035,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104769109/",
+      "distance": "1216",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad para invertir. Visitar sin compromiso. Magnífico BAJO CON LICENCIA TURÍSTICA muy bien ubicado distribuido en: 2 Dormitorios Amplio salón muy luminoso. Cocina americana totalmente equipada y amueblada. 2 Cuartos de baño con platos de ducha. Puertas interiores de madera. Edificio con ascensor. ALTA RENTABILIDAD DEMOSTRABLE ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos! EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:30 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2857.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cristo de la Epidemia, Málaga",
+        "title": "Piso en calle Manrique"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106849533",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6b/ec/b7/1326906464.webp",
+      "externalReference": "PIS0636",
+      "numPhotos": 29,
+      "floor": "3",
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 111.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Victoria",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Victoria",
+      "latitude": 36.725712,
+      "longitude": -4.4151771,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106849533/",
+      "distance": "740",
+      "description": "Norando Homes presenta para sus clientes esta excelente oportunidad de inversión! Amplio piso en una EXCELENTE ZONA del casco histórico de Málaga! A sólo 5 minutos andando de la plaza de LA MERCED! Distribuido en: 3 Habitaciones con armarios empotrados 2 cuartos de baño completos con bañera Cocina independiente amueblada Amplio salón con terraza incorporada EDIFICIO CON ASCENSOR ¡Llámenos y visítela hoy mismo!  Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3153.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Victoria, Málaga",
+        "title": "Piso en calle Victoria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106877661",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/88/0c/42/1296503228.webp",
+      "externalReference": "103-01409",
+      "numPhotos": 33,
+      "floor": "7",
+      "price": 703000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 703000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 269.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Jorge Luis Borges, 15",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.7198144,
+      "longitude": -4.4604076,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106877661/",
+      "distance": "3480",
+      "description": "Este exclusivo ático se encuentra en la zona más revalorizada de Teatinos, en Málaga, y ofrece una superficie construida de 171 m² más un espectacular solarium de 130 m². Consta de tres habitaciones, una de ellas en suite, y dos baños completos con acabados de alta gama. El amplio y luminoso salón, junto con la suite principal, ofrece vistas privilegiadas a la zona de El Atabal, permitiendo disfrutar de impresionantes puestas de sol y garantizando una temperatura agradable durante todo el año. La cocina, de diseño moderno y altamente funcional, maximiza el aprovechamiento del espacio sin comprometer la estética. Su orientación sureste ofrece vistas panorámicas al centro de la ciudad y la zona portuaria. Equipada con una elegante encimera y mesa multifuncional de cuarcita, además de amplios armarios que garantizan un almacenamiento eficiente y bien distribuido. El amplio solarium es un verdadero oasis, con vistas panorámicas tanto a la ciudad como a la zona de El Atabal, ideal para disfrutar de los amaneceres y las puestas de sol en total privacidad. Este ático cuenta con materiales de alta calidad, ventanas de doble acristalamiento para un buen aislamiento y climatización central para garantizar el confort durante todo el año. Además, el edificio ofrece seguridad 24 horas y portero, con plaza de aparcamiento y trastero incluidos. Con ubicación inmejorable, en una zona tranquila, pero con una variedad de comercios, bien conectada y cerca del campus de Teatinos, a pocos minutos de la autovía y a tan solo 15 minutos del centro de Málaga. Es una propiedad única, ideal para aquellos que buscan lujo, confort y privacidad en una de las mejores zonas de la ciudad. No dudes en agendar tu visita. PODEMOS AYUDARTE A CONSEGUIR TU MEJOR HIPOTECA. En el decreto 2182005, de 11 de octubre, por el que se aprueba el reglamento de información al consumidor en la compraventa y arrendamiento de viviendas en Andalucía, se informa al cliente que los gastos notariales, registrales, I. T. P. , financieros y otros gastos inherentes a la compraventa no están incluidos en el precio. La información proporcionada en este anuncio es orientativa, no es vinculante y carece de validez contractual.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2613.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Ático en avenida Jorge Luis Borges, 15"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107929754",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/db/03/ac/1328647725.webp",
+      "externalReference": "250410",
+      "numPhotos": 19,
+      "floor": "1",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 94.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "avenida Manuel Gorria",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Olletas - Sierra Blanquilla",
+      "latitude": 36.7354812,
+      "longitude": -4.4185273,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107929754/",
+      "distance": "1597",
+      "description": "¡FOCARIS ZONE te presenta este exclusivo Piso con Terraza de 30m²! � Si buscas amplitud, luz natural y una gran terraza para disfrutar al aire libre, esta es tu oportunidad. � � Características principales:  Superficie: � 94m² + terraza privativa de 30m²  Dormitorios: 3  Baño: 1  Estado: Reformado / Para entrar a vivir  Extras: Terraza privada aire acondicionado, armarios empotrados � Disfruta de un gran espacio exterior � Exclusiva terraza privativa de 30m² ideal para reuniones, relajarte o incluso crear tu propio jardín urbano. � Un espacio único en la zona con muchas posibilidades. � Ubicación privilegiada: � Zona tranquila y bien conectada con todos los servicios. � Transporte público cercano (autobús y taxis). � Colegios, supermercados y centros de salud a pocos minutos. � A solo 10 minutos del centro de Málaga. � Oportunidad única tanto para vivir como para invertir. Como ves, esta propiedad es ideal para cualquier persona que busque una vida cómoda y conveniente en Málaga o que desee invertir para obtener una rentabilidad asegurada. La combinación de su ubicación, terraza y características lo convierten en un piso exclusivo en la zona. � ¡No dejes escapar esta oportunidad! Contáctanos y agenda tu visita antes de que vuele! Te invitamos a verlo, además de en las fotos, a través de nuestro tour virtual, donde podrás hacerte una idea mucho más fidedigna de las cualidades de este inmueble. Pincha en el enlace Tour Virtual 360 debajo de las fotos para poder visualizarlo. “En cumplimiento del Decreto de la Junta de Andalucía 2182005 de 11 de octubre, se informa al cliente que los gastos notariales, registrales, ITP y otros gastos inherentes a la compra, NO están incluidos en el precio. Los gastos de intermediación inmobiliaria NO están incluidos en el precio. El consumidor tiene derecho a que se le entregue una copia del correspondiente documento informativo abreviado (DIA) de la vivienda”.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3138.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Olletas - Sierra Blanquilla, Málaga",
+        "title": "Piso en avenida Manuel Gorria"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107622878",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f0/61/70/1327005332.webp",
+      "externalReference": "PIS0714",
+      "numPhotos": 45,
+      "floor": "4",
+      "price": 420000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 420000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "paseo de los Tilos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Cruz del Humilladero - Los Tilos",
+      "latitude": 36.7121003,
+      "longitude": -4.4364877,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107622878/",
+      "distance": "1689",
+      "description": "Norando Homes presenta para sus clientes de CRUZ DE HUMILLADERO esta excelente oportunidad de inversión!  Amplio piso TODO EXTERIOR, VISTAS DESPEJADAS y con excelente ubicación distribuido en: 4 Habitaciones  2 Cuartos de baño completos Cocina independiente amueblada y equipada Salón comedor con acceso a terraza abierta Terraza haciendo L PISO CON LICENCIA TURÍSTICA. AÑO 2018 ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos! EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cruz del Humilladero - Los Tilos, Málaga",
+        "title": "Piso en paseo de los Tilos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101800655",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/09/2b/52/1134235141.webp",
+      "externalReference": "MAR4351477",
+      "numPhotos": 46,
+      "price": 550000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 211.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "calle Capuchinos s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Ejido",
+      "latitude": 36.7280426,
+      "longitude": -4.4217311,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/101800655/",
+      "distance": "750",
+      "description": "Se venden 4 viviendas en la zona de Capuchinos, en Málaga capital. La propiedad consta de 4 viviendas divididas en una planta baja con la entrada garaje y almacén, con el comedor 2 dormitorios, 2 baños, cocina, patio y bodega. En la primera planta, se encuentran dos viviendas. Una de ellas 2 dormitorios, 1 comedor, 1 baño y 1 cocina. La otra vivienda de la primera planta está formada por 1 comedores, 2 dormitorios, 1 cocinas, 1 baño. Tienen una terraza. En la planta superior consta de una terraza y trastero. No pierda esta oportunidad para hacer una buena inversión. Si desea visitarlo no dude en ponerse en contacto por teléfono al y también le atenderemos por WhatsAapp. Los datos expuestos son meramente informativos y no tienen valor contractual. La oferta se sujeta a errores, cambios de precio, omisión, disponibilidad y/o retirada del mercado sin aviso previo. En el precio indicado no están incluidos los gastos inherentes a la compra de inmuebles según las leyes vigentes (ITP ó IVA, gastos notariales, gastos registrales, gestoría…).",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2607.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Ejido, Málaga",
+        "title": "Chalet adosado en calle Capuchinos s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106810479",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/98/29/9e/1294725714.webp",
+      "externalReference": "P1004V",
+      "numPhotos": 9,
+      "floor": "2",
+      "price": 596000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 596000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 91.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 3,
+      "address": "calle Carrión, 7",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Ejido",
+      "latitude": 36.7263696,
+      "longitude": -4.4194944,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106810479/",
+      "distance": "588",
+      "description": "MODERNO DÚPLEX DE DOS DORMITORIOS EN EL EJIDO: CONFORT Y ESTILO CERCA DEL CASCO HISTÓRICO EN MÁLAGA Fortuny Hogares Únicos presenta esta magnífica propiedad de dos dormitorios en un edificio de cuatro alturas de ocho viviendas.   Ubicación La vivienda está ubicada en la zona de El Ejido, una ubicación privilegiada en el centro de Málaga que destaca por su cercanía al casco histórico, al que se puede llegar cómodamente a pie en menos de 10 minutos. La playa La Malagueta y Muelle Uno están a 15 minutos andando. En la zona encontrará todos los servicios necesarios: supermercados, tiendas, farmacias, centros de salud, colegios, campus universitario, paradas de transporte público y una amplia oferta gastronómica con bares y restaurantes tradicionales. La ubicación combina la tranquilidad de un barrio residencial con la comodidad de estar a pocos pasos del corazón cultural y comercial de Málaga. Distribución El dúplex está orientado al noreste-sureste, consta de 91m2 construidos incluidas las zonas comunes, 80m2 construidos de vivienda y 74m2 útiles y se distribuye en dos plantas más planta cubierta.  Planta baja Consta de un amplio y luminoso salón-comedor, una cocina americana totalmente amueblada y un aseo de cortesía. A través de una escalera se accede a la planta alta. Planta alta Consta de un pasillo distribuidos y dos amplios dormitorios con armarios empotrados y dos cuartos de baño en suite. A través de la escalera se accede a la planta cubierta. Planta cubierta Consta de un espacio diáfano ideal para acondicionar según las necesidades de los propietarios.  Calidades La vivienda cuenta con excelentes materiales de construcción y calidades. Destacamos puerta de acceso de seguridad, puertas de paso lacadas en blanco, suelo laminado, aire acondicionado por conductos, aerotermia para agua caliente, cocina totalmente amueblada y equipada con electrodomésticos y vídeo portero automático. Zonas comunes El edificio está equipado con aerotermia, garantizando eficiencia energética. Cuenta con solárium comunitario.  La plaza de aparcamiento y trastero son opcionales.  Normativa La información facilitada es orientativa, no tiene carácter vinculante y carece de valor contractual. Dicha información puede haber sufrido modificaciones que aún no han sido incorporadas. Certificados Energéticos en trámite.  En cumplimiento del RD de la Junta de Andalucía 218/2005 de 11 de octubre se informa a los Sres. consumidores que en el precio indicado no están incluidos los gastos derivados de la compraventa de la propiedad según las leyes vigentes (ITP, gastos notariales y en caso de obra nueva el impuesto de IVA). Contáctenos Para más información, no dude ponerse en contacto con nosotros. Estaremos encantados de atenderle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 34000.0
+      },
+      "priceByArea": 6549.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Ejido, Málaga",
+        "title": "Dúplex en calle Carrión, 7"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107988461",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a1/01/42/1330379398.webp",
+      "externalReference": "IV43",
+      "numPhotos": 31,
+      "floor": "2",
+      "price": 490000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 490000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 113.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Barrio Ensanche Centro - Soho",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Ensanche Centro - Soho",
+      "latitude": 36.7149546,
+      "longitude": -4.4252864,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107988461/",
+      "distance": "785",
+      "description": "Vivienda con gran potencial en el Soho, una de las zonas más demandadas de Málaga Ubicada en uno de los mejores barrios de Málaga, en el codiciado entorno del Soho y a escasos metros de la Alameda de Colón, esta amplia vivienda de cuatro dormitorios y dos baños ofrece una oportunidad única tanto para familias como para inversores. La propiedad, de unos 108 m² para reformar, cuenta con una terraza y una característica excepcional: doble entrada, lo que permite dividirla fácilmente en dos apartamentos independientes. Esto la convierte en una opción ideal para quienes buscan vivir en una parte y alquilar la otra, para dos familias o simplemente como una excelente inversión con alta rentabilidad. Su ubicación es inmejorable: a tan solo unos minutos a pie del Centro Histórico de Málaga, del Muelle Uno y perfectamente conectada mediante transporte público. La estación de tren María Zambrano (AVE) está muy próxima, lo que facilita los desplazamientos tanto dentro como fuera de la ciudad, incluyendo el aeropuerto internacional. Además, cuenta con la boca de metro de la Alameda Principal prácticamente al lado. En definitiva, una vivienda con infinitas posibilidades en pleno corazón de Málaga, rodeada de todos los servicios, comercios, restaurantes y zonas de ocio que ofrece esta vibrante ciudad. ¡No dejes pasar esta oportunidad única! No deje de pasar esta oportunidad porque piense que no lo puede comprar, para eso URBEA GESTIÓN INMOBILIARIA le asesorará de forma gratuita para poder sacar las mejores condiciones del mercado en préstamos hipotecarios. En el Decreto 2182005, de 11 de octubre, por el que se aprueba el Reglamento de información al consumidor en la compraventa y arrendamiento de viviendas en Andalucía, se informa el cliente que los gastos notariales, registrales, I. T. P. honorarios de intermediación y-o financieros y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4336.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ensanche Centro - Soho, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106810185",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/37/b7/b5/1294713305.webp",
+      "externalReference": "P1002V",
+      "numPhotos": 9,
+      "floor": "bj",
+      "price": 282000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 282000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 66.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Carrión, 7",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Ejido",
+      "latitude": 36.7263696,
+      "longitude": -4.4194944,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106810185/",
+      "distance": "588",
+      "description": "MODERNO APARTAMENTO DE DOS DORMITORIOS EN EL EJIDO: CONFORT Y ESTILO CERCA DEL CASCO HISTÓRICO EN MÁLAGA Fortuny Hogares Únicos presenta esta magnífica propiedad de dos dormitorios en un edificio de cuatro alturas de ocho viviendas.   Ubicación La vivienda está ubicada en la zona de El Ejido, una ubicación privilegiada en el centro de Málaga que destaca por su cercanía al casco histórico, al que se puede llegar cómodamente a pie en menos de 10 minutos. La playa La Malagueta y Muelle Uno están a 15 minutos andando. En la zona encontrará todos los servicios necesarios: supermercados, tiendas, farmacias, centros de salud, colegios, campus universitario, paradas de transporte público y una amplia oferta gastronómica con bares y restaurantes tradicionales. La ubicación combina la tranquilidad de un barrio residencial con la comodidad de estar a pocos pasos del corazón cultural y comercial de Málaga. Distribución El apartamento está orientado al noreste-sureste, consta de 66m2 construidos incluidas las zonas comunes, 58m2 construidos de vivienda y 51m2 útiles. Se distribuye en un luminoso salón-comedor, una cocina americana totalmente amueblada, dos dormitorios con armarios empotrados y un cuarto de baño completo.  Calidades La vivienda cuenta con excelentes materiales de construcción y calidades. Destacamos puerta de acceso de seguridad, puertas de paso lacadas en blanco, suelo laminado, aire acondicionado por conductos, aerotermia para agua caliente, cocina totalmente amueblada y equipada con electrodomésticos y vídeo portero automático. Zonas comunes El edificio está equipado con aerotermia, garantizando eficiencia energética. Cuenta con solárium comunitario.  La plaza de aparcamiento y trastero son opcionales.  Normativa La información facilitada es orientativa, no tiene carácter vinculante y carece de valor contractual. Dicha información puede haber sufrido modificaciones que aún no han sido incorporadas. Certificados Energéticos en trámite.  En cumplimiento del RD de la Junta de Andalucía 218/2005 de 11 de octubre se informa a los Sres. consumidores que en el precio indicado no están incluidos los gastos derivados de la compraventa de la propiedad según las leyes vigentes (ITP, gastos notariales y en caso de obra nueva el impuesto de IVA). Contáctenos Para más información, no dude ponerse en contacto con nosotros. Estaremos encantados de atenderle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 34000.0
+      },
+      "priceByArea": 4273.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Ejido, Málaga",
+        "title": "Piso en calle Carrión, 7"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107212702",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/79/7a/97/1326971703.webp",
+      "externalReference": "PIS0667",
+      "numPhotos": 29,
+      "floor": "3",
+      "price": 300000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 300000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Eduardo Domínguez Ávila",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7277263,
+      "longitude": -4.4215281,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107212702/",
+      "distance": "714",
+      "description": "Norando Homes presenta para sus clientes esta excelente oportunidad de inversión! Excelente piso en venta muy bien distribuido y con excelente ubicación! Que consta de: 3 Habitaciones 1 Cuarto de baño completo con plato de ducha Amplio salón con terraza ABIERTA Cocina independiente amueblada y equipada a la que se le ha sumado el lavadero EDIFICIO CON ASCENSOR ¡Llámenos para más información! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3333.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Eduardo Domínguez Ávila"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106198145",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/4e/a7/1326735865.webp",
+      "externalReference": "PIS0580",
+      "numPhotos": 18,
+      "floor": "1",
+      "price": 275000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 275000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 115.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Brahms",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Los Guindos - Parque Mediterráneo - Santa Paula",
+      "latitude": 36.693766,
+      "longitude": -4.4501404,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106198145/",
+      "distance": "3992",
+      "description": "Norando Homes presenta para sus clientes inversores esta excelente oportunidad piso en BARRIADA LA PAZ ALQUILADO hasta 2029! Magnífico piso distribuido en: 4 habitaciones 2 Cuartos de Baño Amplio salón con acceso a terraza abierta Cocina equipada y amueblada Edificio con ascensor ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPOUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2391.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Guindos - Parque Mediterráneo - Santa Paula, Málaga",
+        "title": "Piso en calle Brahms"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107222397",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b4/fe/26/1311844374.webp",
+      "externalReference": "00742",
+      "numPhotos": 20,
+      "floor": "bj",
+      "price": 199950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 199950.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 212500.0,
+            "priceDropValue": 12550,
+            "priceDropPercentage": 6
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 49.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Rojas, 61",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Olletas - Sierra Blanquilla",
+      "latitude": 36.7337738,
+      "longitude": -4.4210542,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107222397/",
+      "distance": "1387",
+      "description": "Apartamento en la zona de Capuchinos, Málaga (2008) Se ofrece en venta un excelente apartamento ubicado en la cotizada zona de Capuchinos, a tan solo 5 minutos a pie del centro histórico de Málaga. Este inmueble, que data del año 2008, se encuentra en una planta baja elevada, lo que le proporciona privacidad y evita el contacto directo con la calle. La propiedad cuenta con una distribución funcional y luminosa, ya que todas sus estancias son exteriores. El amplio salón, la cocina independiente completamente equipada y el dormitorio ofrecen un entorno cómodo y acogedor. El suelo de mármol de alta calidad y las paredes lisas aportan una sensación de amplitud y elegancia a todo el inmueble. Además, la vivienda incluye una plaza de aparcamiento, lo que resulta un gran valor añadido en una zona de alta demanda como esta. Este apartamento es ideal tanto para aquellos que deseen vivir cerca del centro histórico, disfrutando de la tranquilidad y privacidad de la zona, como para inversores que busquen una propiedad con gran potencial. Características principales: Año de construcción: 2008 Cocina independiente Plaza de aparcamiento incluida Suelo de mármol y paredes lisas Vivienda exterior: salón, cocina y dormitorio Ubicación a 5 minutos a pie del centro histórico Planta baja elevada, con privacidad Por mandato expreso de la propiedad ponemos a la venta este inmueble en EXCLUSIVA lo que le garantiza a usted como consumidor el acceso a toda la información, a un servicio de calidad, un trato fácil, sencillo y sin interferencias de terceros, por este motivo se ruega no molestar a los propietarios, a los ocupantes de la propiedad o a los vecinos. Muchas gracias por su comprensión.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4081.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Olletas - Sierra Blanquilla, Málaga",
+        "title": "Piso en calle Rojas, 61"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107007493",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/84/ef/13/1326906735.webp",
+      "externalReference": "PIS0648",
+      "numPhotos": 20,
+      "floor": "2",
+      "price": 489000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 489000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 109.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Ollerías",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "La Goleta - San Felipe Neri",
+      "latitude": 36.724779,
+      "longitude": -4.4205244,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107007493/",
+      "distance": "394",
+      "description": "Norando Homes presenta para sus clientes de MÁLAGA CAPITAL esta excelente oportunidad de inversión!  Precioso piso en pleno CASCO HITÓRICO de Málaga, RECIENTEMNTE REFORMADO Y AMUEBLADO distribuido en: 3 Amplios dormitorios 1 cuarto de baño completo con plato de ducha 1 Aseo Cocina americana amueblada y equipada Plaza de garaje INCLUIDA EN EL PRECIO Edificio CON ascensor! ¡Llámenos para más información! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4486.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Goleta - San Felipe Neri, Málaga",
+        "title": "Piso en calle Ollerías"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107930891",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0c/53/b3/1328673611.webp",
+      "externalReference": "250411",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 399950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 399950.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 92.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Emilio de la Cerda",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Huelin",
+      "latitude": 36.7008782,
+      "longitude": -4.4380716,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107930891/",
+      "distance": "2713",
+      "description": "FOCARIS ZONE le presenta esta estupenda oportunidad para invertir o entrar a vivir, en pleno corazón de Huelin, con la playa y el paseo marítimo bajando sólo una calle. Quédese, que le contamos más.  Huelin es, sin duda, un lugar fascinante que combina la modernidad con su rica herencia marinera. La fusión de casas y edificios, resultado de la creatividad de artistas, le otorga un carácter único y atractivo. Además, su oferta de sol, playa y chiringuitos, junto con la proximidad al centro de Málaga, lo convierte en un destino ideal tanto para residentes como para visitantes. La amabilidad y apertura de su comunidad hacen que todos se sientan bienvenidos, lo que sin duda enriquece la experiencia de vivir o pasar tiempo en este encantador barrio. Esta vivienda de 92 metros construidos ofrece un espacio ideal tanto para residir como para invertir. Con suelos de terrazo y puertas de madera, el ambiente es acogedor y elegante. Las tres amplias habitaciones garantizan comodidad, mientras que el gran salón, lleno de luz natural, se convierte en el corazón del hogar, complementado por una coqueta terraza perfecta para relajarse. La cocina independiente, equipada con muebles de madera a medida, no solo es funcional, sino que también es un lugar ideal para crear recuerdos familiares. Además, los dos baños completos, uno de ellos en suite, añaden un nivel extra de confort y conveniencia.  Esta propiedad no solo es atractiva para quienes buscan un hogar, sino que también representa una excelente oportunidad de inversión, especialmente en un mercado turístico donde la rentabilidad está asegurada. Sin duda, es un inmueble con cualidades que lo hacen destacar. Ubicada en un barrio de toda la vida, cercana a las tranquilas playas de la zona y a toda la oferta que ofrece la ciudad, pero con la distancia necesaria para proporcionarle tranquilidad, esta vivienda lo tiene todo para vivir en perfecta armonía y para que llegar a casa se convierta en su oasis particular donde olvidar el estrés del día a día. Además, dispone de aparcamiento privado. En un barrio tan lleno de vida como de vehículos, llegar a casa a cualquier hora sin preocuparse por aparca se agradece muchísimo. Y si el aparcamiento es amplio, cómodo y con todas las garantías, directamente se convierte en un lujo. Si le gusta esta vivienda, no lo dude, contacte con nosotros para agendar una visita y estar más cerca de cumplir su sueño de encontrar un hogar a su medida. Le invitamos a verlo, además de en las fotos, a través de nuestro tour virtual, donde podrá hacerse una idea perfecta de cómo es el piso sin moverse del sofá. Encontrará el link justo de debajo de las fotos. (Tour Virtual). “En cumplimiento del Decreto de la Junta de Andalucía 2182005 de 11 de octubre, se informa al cliente que los gastos notariales, registrales, ITP y otros gastos inherentes a la compra, NO están incluidos en el precio. Los gastos de intermediación inmobiliaria NO están incluidos en el precio. El consumidor tiene derecho a que se le entregue una copia del correspondiente documento informativo abreviado (DIA) de la vivienda”.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4347.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Huelin, Málaga",
+        "title": "Piso en calle Emilio de la Cerda"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107807170",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/13/9b/e8/1324348024.webp",
+      "externalReference": "MT046",
+      "numPhotos": 58,
+      "floor": "4",
+      "price": 1275000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1275000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 242.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle Lingüista Manuel Seco, 6",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Parque Clavero",
+      "latitude": 36.7292665,
+      "longitude": -4.3892295,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107807170/",
+      "distance": "3000",
+      "description": "ESPECTACULAR ÁTICO DUPLEX CON VISTAS AL MAR. Vivienda de alto standing en la zona de Parque Clavero, una de las más demandas de Málaga. La vivienda, es un ático dúplex con 2 plazas de aparcamiento y un amplio trastero, enclavada en una urbanización privada y cerrada con piscina, pista de pádel y amplias zonas verdes. La vivienda de 4 dormitorios y 3 cuartos de baño, 1 aseo y cuarto de servicio con baño y armario, se distribuye de la siguiente manera. En planta baja. - Amplio salón comedor con acceso a una gran terraza con vistas al mar y una zona ajardinada. - 3 luminosos dormitorios exteriores, todos ellos con armarios, el principal con vestido, baño en suite y acceso a la terraza. - Otro cuarto de baño completo y 1 aseo. - Gran cocina exterior con cuarto de servicio con armario y cuarto de baño incorporado. - Amplio Hall distribuidor con escalera que da acceso a la planta alta. En planta alta. - Gran salón abuhardillado con cocina para fiestas y eventos. - Dormitorio con armario y cuarto de baño. - Habitación con vistas al mar, utilizable como despacho o cuarto de juegos. - Gran terraza de 40 metros con pérgola y espectaculares vistas al mar. La vivienda se encuentra cerca de la playa, transportes públicos, colegios públicos y privados, zonas comerciales y a un paso del Centro Histórico y a 15 minutes de la estación del AVE y 20 del aeropuerto. No lo dude y contacte con nosotros. ** En cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de Octubre, el Impuesto de Transmisiones Patrimoniales y los gastos de Notaría y Registro no están incluidos en el precio. Si están incluidos los honorarios profesionales de Agencia**.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5269.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Parque Clavero, Málaga",
+        "title": "Dúplex en calle Lingüista Manuel Seco, 6"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104899992",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fb/60/28/1326603778.webp",
+      "externalReference": "PIS0429",
+      "numPhotos": 39,
+      "floor": "1",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Artes",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7304577,
+      "longitude": -4.4224675,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104899992/",
+      "distance": "1022",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad para invertir ó para vivir. Preciosa vivienda en un edificio moderno construido en el año 2003, en total seis vecinos, zona muy tranquila y buenos vecinos. Distribuido en: 3 Dormitorios completos con salida a patio interior Cocina totalmente amueblada y equipada. 1 Cuarto de baño completo con plato de ducha. 1 Aseo Salón INDEPENDIENTE, amplio y muy luminoso  Aire acondicionado central. Orientación SUR. 120m2 construidos Portal con 1 ascensor directo al parking. También dispone de un solárium de uso y disfrute privado.  AMPLIA PLAZA DE GARAJE OPCIONAL 30.000 € moto y coche, PUNTO DE CARGA VEHÍCULOS ELÉCTRICOS. TRASTERO OPCIONAL 17.000 € A tan solo cinco minutos andando del Centro Histórico de Málaga, zona de paradas de autobús, colegios e institutos, centro de salud, Farmacias, supermercados y todo tipo de comercios y locales de restauración. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos! EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2492.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Artes"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107522784",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f2/81/e2/1314962962.webp",
+      "externalReference": "M76_P72A_3D",
+      "numPhotos": 17,
+      "floor": "2",
+      "price": 642000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 642000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 155.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Profesor Jesus Marin, 7",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Limonar",
+      "latitude": 36.7366,
+      "longitude": -4.39412,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107522784/",
+      "distance": "2967",
+      "description": "¡Descubre el hogar de tus sueños en este exclusivo piso de lujo! Ubicado en una zona privilegiada, este magnífico inmueble de 96 m² útiles te ofrece tres amplios dormitorios y dos baños, todo diseñado con las mejores calidades. Disfruta de una terraza de 18 m² donde podrás relajarte al aire libre. Las zonas comunes son un auténtico oasis, con jardines, piscina y un parque infantil para los más pequeños. Además, contarás con un gimnasio totalmente equipado y una gastroteca para tus eventos. El piso incluye garaje y trastero, con la opción de adquirir una segunda plaza de garaje. La climatización por aerotermia y la pre-instalación para carga de coches eléctricos aseguran un hogar eficiente y moderno. La cocina está amueblada y lista para que des rienda suelta a tu creatividad culinaria. Con una excelente comunicación y servicios cercanos, este piso es perfecto para quienes buscan comodidad y lujo. ¡No dejes pasar esta oportunidad única por 642.000 €! Entrega prevista para el 4º trimestre de 2025.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4142.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limonar, Málaga",
+        "title": "Piso en calle Profesor Jesus Marin, 7"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107018548",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f7/50/68/1326970151.webp",
+      "externalReference": "PIS0650",
+      "numPhotos": 40,
+      "floor": "11",
+      "price": 255000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 255000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "avenida del Arroyo de los Ángeles",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Victoria Eugenia",
+      "latitude": 36.7299373,
+      "longitude": -4.4355856,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107018548/",
+      "distance": "1587",
+      "description": "Norando Homes presenta para sus clientes esta excelente oportunidad de inversión! Excelente piso en venta muy bien distribuido y con excelente ubicación! Que consta de: 3 Habitaciones 1 Cuarto de baño completo con plato de ducha Amplio salón con terraza incorporada Cocina independiente amueblada y equipada a la que se le ha sumado el lavadero EDIFICIO CON ASCENSOR ¡Llámenos para más información!  Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2865.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Victoria Eugenia, Málaga",
+        "title": "Piso en avenida del Arroyo de los Ángeles"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102521793",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/96/b6/60/1332202795.webp",
+      "externalReference": "CHA0015",
+      "numPhotos": 25,
+      "price": 300000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 300000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 175.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle María Tubau",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Ciudad Jardín",
+      "latitude": 36.740884,
+      "longitude": -4.4215669,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102521793/",
+      "distance": "2177",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad casa haciendo esquina con fachada de 20mts. y 11mts. Magnífica vivienda con muchas posibilidades. Esta casa cuenta con: 4 dormitorios completos. 2 cuartos de baño totalmente amueblados y reformados. Salón bien distribuido con chimenea Amplia Terraza con vistas despejadas. Puertas interiores en buen estado, puerta exterior blindada. LOCAL COMERCIAL Garaje. Todo distribuido en dos plantas. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1714.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Jardín, Málaga",
+        "title": "Casa independiente en calle María Tubau"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106500939",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/12/1a/1c/1284779053.webp",
+      "externalReference": "V6464J6",
+      "numPhotos": 48,
+      "floor": "3",
+      "price": 599000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 599000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 142.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Acacias de Guadalmar, 4",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Churriana",
+      "country": "es",
+      "neighborhood": "Guadalmar",
+      "latitude": 36.6642261,
+      "longitude": -4.4564773,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106500939/",
+      "distance": "7074",
+      "description": "Quiere vivir junto al mar, con vistas de infarto? Pues este dúplex le sorprenderá por su situación, rodeado de bonitas zonas comunes con jardines, piscina, campo de mini golf, pista de pádel, palmeras... Se distribuye en dos plantas mas buhardilla.  En la primera planta, nos sorprenderá su gran hall de entrada, un luminoso y espacioso salón (se le añadió una habitación), cocina con lavadero, cuarto de baño y una imponente terraza con vistas a la playa, ideal para pasar grandes veladas con familia y amigos. La segunda planta consta de tres grandes dormitorios, baño y otra bonita terraza. Preciosas vistas a los jardines y a la playa. Dispone de plaza de aparcamiento. Muy cerca de centros comerciales, farmacia, colegios... Ubicado en primera línea de playa, este conjunto residencial te ofrece un acceso privilegiado al mar y vistas impresionantes que harán de tu hogar un verdadero paraíso. Imagínate despertar cada mañana con el sonido de las olas y la brisa marina, disfrutando de la belleza del horizonte desde la comodidad de tu balcón. Además de su espectacular ubicación frente al mar, su entorno estratégico proporciona excelentes comunicaciones y servicios que facilitan tu día a día. A tan solo 5 minutos en coche del Aeropuerto de Málaga, este lugar es ideal para aquellos que valoran un acceso rápido a vuelos nacionales e internacionales, garantizando que viajes sin complicaciones. Para tus necesidades de compras y entretenimiento, a escasos minutos encontrarás el Centro Comercial Plaza Mayor. Este amplio espacio es perfecto para disfrutar de una variada oferta de tiendas, supermercados, restaurantes, cines y un gimnasio, además de diversas zonas de ocio para toda la familia. También a 5 minutos, el Carrefour Los Patios ofrece servicios similares, asegurándote que siempre tengas todo a tu alcance. En cuanto a la movilidad, la zona está excelentemente conectada. A solo 5 minutos en coche tienes una boca de metro y opciones de autobuses que te llevarán fácilmente al centro de Málaga y otras zonas de interés. La estación de tren de cercanías en Plaza Mayor también facilita el acceso a destinos variados, haciendo que explorar la región sea sencillo y rápido. La vida en este entorno costero no solo se trata de comodidad, sino también de calidad de vida. En los alrededores, encontrarás colegios, centros de salud y otros servicios esenciales que hacen de este lugar un destino perfecto para familias y profesionales por igual. Además, para los amantes de la naturaleza y el deporte, el Paraje Natural de la desembocadura del Guadalhorce te invita a disfrutar de paseos revitalizantes y actividades al aire libre. La playa se convierte en un lienzo para practicar deportes acuáticos, mientras que los campos de golf del Parador de Málaga Golf Club, situados a solo 5 minutos, ofrecen la oportunidad de disfrutar de un día de relax y diversión. Este entorno es verdaderamente perfecto para quienes buscan un estilo de vida costero sin renunciar a la proximidad a servicios y lugares de interés.  ¡Ven y descubre tu nuevo hogar junto al mar! *El PVP indicado no incluye impuestos ni gastos de Escritura. Las superficies expresadas en esta página tienen carácter descriptivo y son aproximadas. *.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4218.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Guadalmar, Málaga",
+        "title": "Dúplex en calle Acacias de Guadalmar, 4"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107181176",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/ce/1d/1305398319.webp",
+      "externalReference": "Q01520",
+      "numPhotos": 28,
+      "floor": "7",
+      "price": 1200000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 1250000.0,
+            "priceDropValue": 50000,
+            "priceDropPercentage": 4
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 185.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "paseo de la Farola, 8",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Malagueta - Monte Sancha",
+      "latitude": 36.7172863,
+      "longitude": -4.4123013,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107181176/",
+      "distance": "925",
+      "description": "Qube inmobiliaria vende majestuosa vivienda ubicada frente a Muelle Uno con vistas a la playa de La Malagueta, La Catedral y el museo Pompidou totalmente exterior y con garaje en el mismo edificio. La vivienda cuenta con video portero y conserje en la finca. Tres ascensores que llegan a la planta de la vivienda Entrada principal y antigua entrada de servicio. Gran salón comedor con salida a terraza y vistas despejadas al museo Pompidou, la Catedral y el Muelle Uno. Amplia cocina totalmente equipada y amueblada con lavadero acristalado con vistas al mar. Cuatro amplios dormitorios con vistas al mar, uno de ellos con terraza acristalada haciendo esquina. Tres baños completos. El precio incluye una plaza de garaje con acceso directo desde la vivienda con el ascensor. Según el cumplimiento del decreto de la Junta de Andalucía 208/2005 del 11 de octubre, se informa el cliente que los gastos notariales, gastos de registro, I. T. P, honorarios de intermediación y otros gastos inherentes a la compraventa no están incluidos en el precio.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6486.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Malagueta - Monte Sancha, Málaga",
+        "title": "Piso en paseo de la Farola, 8"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108050153",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6d/ac/c9/1332342048.webp",
+      "externalReference": "7272-00773",
+      "numPhotos": 48,
+      "floor": "2",
+      "price": 530000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 530000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 171.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Ferrándiz",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Gibralfaro",
+      "latitude": 36.7279312,
+      "longitude": -4.4095092,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108050153/",
+      "distance": "1290",
+      "description": "Magnifico piso situado en una zona privilegiada de Málaga, a tan solo 10 minutos a pie de la Plaza de la Merced y del centro histórico, en el corazón del barrio de la Victoria.  Esta elegante vivienda cuenta con amplio salón, cocina independiente totalmente equipada y actualmente reformada, 4 dormitorios con armarios empotrados y 2 baños completos. Incluida en el precio tenemos una plaza de garaje y trastero, con zonas comunes para disfrute de los vecinos. La propiedad está rodeada de una gran variedad de servicios y comodidades. En la zona hay tiendas, supermercados, centros de salud, colegios, bares y restaurantes, junto al colegio el Monte y Marista. Además, cuenta con excelentes conexiones de transporte público y un cómodo acceso a la autovía A7. Un paseo de 10 minutos hacia el centro histórico. En cumplimiento del artículo 10 del R. D. de la Junta de Andalucía 218/2005 de 11 de octubre por el que se aprueba el reglamento de información al consumidor en la compraventa y arrendamiento de viviendas en Andalucía, informamos al cliente que tiene a su disposición la Ficha Informativa en Segundas o Ulteriores Transmisiones De Viviendas. El precio de la vivienda no incluye los gastos de compraventa (notaría, registro e I. T. P. ). No existen honorarios de intermediación inmobiliaria adicionales al precio de venta. Este inmueble se comercializa mediante sistema de Multiexclusiva, lo que implica que, cualquier gestión realizada en relación con la compraventa del mismo, habrá de ser realizada a través de nuestra agencia. Por ese motivo, le rogamos que se ponga en contacto directo con nosotros sin importunar directamente a propietarios u ocupantes de la propiedad.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3099.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Gibralfaro, Málaga",
+        "title": "Piso en calle Ferrándiz"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107564296",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/81/68/95/1316309695.webp",
+      "externalReference": "ADO0057",
+      "numPhotos": 36,
+      "price": 240000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 240000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 134.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Caraballo",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Mangas Verdes - Las Flores",
+      "latitude": 36.7403162,
+      "longitude": -4.4154546,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107564296/",
+      "distance": "2179",
+      "description": "Norando Homes presenta para sus clientes de Mangas Verdes esta excelente oportunidad de inversión! Casa adosada con muchas posibilidades distribuida en: Planta baja: Porche  Salón comedor Cocina independiente ( actualmente no tiene cocina ni tomas de agua-luz ni mobiliario) 1 Cuarto de baño 1 Habitación Primera planta: 2 Habitaciones Terraza  ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos! EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1791.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mangas Verdes - Las Flores, Málaga",
+        "title": "Chalet adosado en calle Caraballo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108090835",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/6e/98/1333535999.webp",
+      "externalReference": "ECG13",
+      "numPhotos": 34,
+      "price": 520000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 520000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 125.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Barrio El Cortijuelo",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Puerto de la Torre",
+      "country": "es",
+      "neighborhood": "El Cortijuelo",
+      "latitude": 36.7583497,
+      "longitude": -4.4951962,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108090835/",
+      "distance": "7759",
+      "description": "Impresionante casa totalmente reformada en Puerto de la Torre, Málaga. Cuenta con 3 amplios y luminosos dormitorios, incluyendo una espectacular suite principal equipada con todo lujo de detalles para tu máximo confort. Disfruta de su piscina privada, una zona exterior con barbacoa ideal para reuniones y momentos inolvidables… y mucho más. Se vende TOTALMENTE AMUEBLADA. ¡Ven a visitarla y déjate sorprender!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4160.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Cortijuelo, Málaga",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105993478",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/63/0c/ae/1326735424.webp",
+      "externalReference": "PIS0552",
+      "numPhotos": 37,
+      "floor": "2",
+      "price": 479000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 479000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 165.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "pasaje Herrera Oria",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Cruz de Humilladero",
+      "country": "es",
+      "neighborhood": "Carranque - Haza Cuevas",
+      "latitude": 36.7173547,
+      "longitude": -4.4397024,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105993478/",
+      "distance": "1689",
+      "description": "Norando Homes presenta para sus clientes esta magnifica oportunidad! Gran piso en zona PUENTE DE LAS AMÉRICAS; Málaga Capital!  Piso exterior distribuido en: 4 Habitaciones 2 Cuartos de baño Amplio Salón Gran terraza a la que se accede desde el salón y dormitorio. Plaza de Garaje  Trastero Ascensor Recinto con pista de pádel, pista de baloncesto, zonas verdes y parque infantil. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos! EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2903.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Carranque - Haza Cuevas, Málaga",
+        "title": "Piso en pasaje Herrera Oria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107489022",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/70/80/33/1320215355.webp",
+      "numPhotos": 26,
+      "price": 995000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 995000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 1050000.0,
+            "priceDropValue": 55000,
+            "priceDropPercentage": 5
+          }
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 472.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "calle Reino de León s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "El Palo",
+      "latitude": 36.7267418,
+      "longitude": -4.3567694,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107489022/",
+      "distance": "5791",
+      "description": "En la exclusiva urbanización Miraflores del Palo, se encuentra esta luminosa vivienda con un gran potencial. Ubicada en una zona tranquila y bien conectada, la casa cuenta con un amplio jardín, piscina y vistas al mar, ideales para disfrutar del buen clima. En la planta baja, un espacioso salón unido a una acogedora cocina con despensa, además de un elegante salón señorial. En la planta superior, 5 dormitorios y  el dormitorio en suite brinda privacidad y comodidad con salida a terraza con vistas al mar.  La planta sótano nos ofrece una bodeguita, 1 dormitorio con ventana y 1 baño. Amplio garaje para varios vehículos Aunque necesita reforma, es una oportunidad única para diseñar el hogar a tu medida en una de las mejores zonas de la ciudad.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2108.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Palo, Málaga",
+        "title": "Casa independiente en calle Reino de León s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105049493",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/81/ca/79/1326603677.webp",
+      "externalReference": "PIS0448",
+      "numPhotos": 19,
+      "floor": "bj",
+      "price": 320000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 320000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Casas de Campos",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Ensanche Centro - Soho",
+      "latitude": 36.7173819,
+      "longitude": -4.4230013,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105049493/",
+      "distance": "458",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad para invertir. Vivienda con orientación SUR, TOTALMENTE REFORMADA y con excelente ubicación.  Distribuido en: 2 dormitorios. 1 cuarto de baño completo. Salón MUY luminoso de 35m2. Cocina totalmente amueblada y equipada. Con uso privativo de dos patios el principal de unos 30 metros cuadrados. Zonas comunes en buen estado. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:30 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3678.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ensanche Centro - Soho, Málaga",
+        "title": "Piso en calle Casas de Campos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107354822",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8d/b7/7a/1326983982.webp",
+      "externalReference": "PIS0686",
+      "numPhotos": 33,
+      "floor": "1",
+      "price": 480000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 480000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 140.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Héroe de Sostoa",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7094769,
+      "longitude": -4.4315033,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107354822/",
+      "distance": "1593",
+      "description": "Norando Homes presenta para sus clientes esta excelente oportunidad de inversión! Amplio piso con muchas posibilidades y con excelente ubicación distribuido en:  4 Habitaciones con armarios empotrados (actualmente uno de ellos unido a la cocina) 2 Cuartos de baño completos Amplio salón comedor Terraza  Recibidor Cocina independiente amueblada y equipada Patio privado interior Plaza de garaje incluida en el precio Zonas comunes privadas para el uso de los vecinos. Si lo prefiere puede contactarnos por WhatsApp! Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3429.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Piso en calle Héroe de Sostoa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105647920",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/25/96/80/1326708774.webp",
+      "externalReference": "PIS0510",
+      "numPhotos": 20,
+      "floor": "2",
+      "price": 949000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 949000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 128.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Tomás Heredia",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Ensanche Centro - Soho",
+      "latitude": 36.7144356,
+      "longitude": -4.423252,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105647920/",
+      "distance": "780",
+      "description": "Norando Homes presenta para sus clientes espaciosa vivienda en un edificio con protección especial histórica del Ayuntamiento de Málaga.  Excelente ubicación! Ideal inversión ya que cuenta con licencia para alquiler vacacional (media de ingresos actuales netos 3.500€ /mes) Se encuentra en muy buen estado de conservación. Listo para habitar o para empezar a alquilar.  Distribuido en: 3 Habitaciones  2 cuartos de baño Salón luminoso con grandes ventanales con balcones. Cocina independiente amueblada y equipada TOTALMENTE AMUEBLADO Y EQUIPADO. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 7414.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ensanche Centro - Soho, Málaga",
+        "title": "Piso en calle Tomás Heredia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104198187",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0c/43/89/1212698893.webp",
+      "externalReference": "01810",
+      "numPhotos": 30,
+      "price": 1900000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1900000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 498.0,
+      "rooms": 9,
+      "bathrooms": 7,
+      "address": "Hacienda Paredes, 1",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Cerrado de Calderón - Hacienda Paredes",
+      "latitude": 36.7300217,
+      "longitude": -4.3757853,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/104198187/",
+      "distance": "4179",
+      "description": "Oportunidad de inversión.  Gran propiedad en Hacienda Paredes con seis apartamentos alquilados y un magnífico ático con 120 metros de terraza, que rodea la vivienda, y  vistas al mar.   El ático tiene dos dormitorios y dos baños. El dormitorio principal es en suite con vestidor.   El amplio salón tiene salida a una gran terraza con vistas.   La amplia  y moderna cocina está totalmente amueblada, tiene office y acceso a otra gran terraza con vistas al mar.  La vivienda es muy soleada, tiene aire acondicionado centralizado y está construida con excelentes calidades en general.   Interesante ocasión de invertir en una vivienda de lujo que además ofrece una buena rentabilidad por los alquileres. Los gastos de Notaría, Registro e impuestos correspondientes no están incluidos en el precio anunciado.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3815.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerrado de Calderón - Hacienda Paredes, Málaga",
+        "title": "Casa independiente en Hacienda Paredes, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107967697",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/40/7e/65/1329747518.webp",
+      "externalReference": "PM-00295",
+      "numPhotos": 29,
+      "floor": "1",
+      "price": 825000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 825000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 111.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Pacífico, 49",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Carretera de Cádiz",
+      "country": "es",
+      "neighborhood": "Pacífico",
+      "latitude": 36.6918312,
+      "longitude": -4.4413107,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107967697/",
+      "distance": "3726",
+      "description": "Piso en Av. Pacífico, Málaga Piso en primera línea de playa en la zona de Pacífico – Málaga Pocas viviendas ofrecen una ubicación y vistas como esta. Situado en primera línea de playa, en una de las zonas más cómodas y valoradas de Málaga capital, este piso de 111 m² destaca por su luz natural, su distribución funcional y, sobre todo, por sus vistas totalmente frontales al mar desde todas las estancias. Distribución: •3 habitaciones (una de ellas adaptada como comedor independiente) •2 baños completos •Cocina reformada, práctica y moderna •Salón amplio con grandes ventanales y vistas directas al mar Incluye plaza de garaje y trastero, con posibilidad de adquirir una segunda plaza de aparcamiento y otro trastero adicional (consultar condiciones). El edificio no cuenta con locales comerciales en la planta baja, lo que aporta más tranquilidad y privacidad en el día a día. Además, la zona es muy agradable para vivir, con acceso directo al paseo marítimo, cerca de supermercados, colegios, transporte público y a pocos minutos del centro de Málaga. Una propiedad ideal tanto para residencia habitual como para inversión, difícil de encontrar por su orientación, ubicación y vistas. No pierdas la oportunidad de vivir en esta joya costera, donde cada detalle ha sido pensado para ofrecerte una experiencia de vida inigualable. ¡Contacta con nosotros hoy mismo y descubre tu nuevo hogar en Málaga!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7432.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Pacífico, Málaga",
+        "title": "Piso en calle Pacífico, 49"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105517369",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/36/01/1259438043.webp",
+      "externalReference": "trv-506-pv",
+      "numPhotos": 48,
+      "floor": "2",
+      "price": 1050000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1050000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 185.0,
+      "exterior": true,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "calle Luis Bono y Hernández Santaolalla s/n",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Parque Clavero",
+      "latitude": 36.7269525,
+      "longitude": -4.3914824,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/105517369/",
+      "distance": "2739",
+      "description": "TRAVERSO pone a la venta esta vivienda en una urbanización exclusiva en Parque Clavero, se encuentra rodeada de un entorno único, luminosa, con vistas despejadas orientadas al sur-este y con el mar de fondo. Se encuentra en la zona baja de la urbanización, a cinco minutos caminando llegamos al paseo marítimo Pablo Ruiz Picasso y sus extensas playas. Rodeada de los mejores colegios de la capital, el Limonar, Cerrado de Calderón, Las Esclavas, etc. La vivienda se distribuye en: Amplio hall de entrada con armario empotrado, a la derecha nos encontramos con la amplia y luminosa cocina con lavadero y dormitorio de servicio, a la izquierda el amplio salón comedor desde dónde se accede a la terraza. A continuación los cuatro dormitorios y tres cuartos de baño completos, uno de ellos en suite, en total dispone de ocho armarios empotrados. Los materiales son de primeras marcas y alta calidad, suelos de madera, aire acondicionado centralizado, persianas del salón eléctricas, ventanas de climalit, termo eléctrico de 190 litros, etc. La urbanización dispone de piscina, zona de baños-vestidor, pista de tenis y padel. En el precio está incluida dos plazas de garaje y un trastero. ¡Visítela sin compromiso! En cumplimiento del Decreto de la Junta de Andalucía 218-2005 del 11 de Octubre, se informa a los clientes que los gastos notariales, registrales, ITP, no están incluidos en el precio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5676.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Parque Clavero, Málaga",
+        "title": "Piso en calle Luis Bono y Hernández Santaolalla s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107609815",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/89/48/83/1317592661.webp",
+      "externalReference": "13269376",
+      "numPhotos": 23,
+      "floor": "1",
+      "price": 160000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 160000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 46.0,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Balbina Valverde, 8",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Ciudad Jardín",
+      "country": "es",
+      "neighborhood": "Ciudad Jardín",
+      "latitude": 36.7398652,
+      "longitude": -4.4217684,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107609815/",
+      "distance": "2064",
+      "description": "¡Descubre tu nuevo hogar en el corazón de Málaga! Este acogedor piso, situado en la primera planta de un edificio moderno con ascensor, te ofrece la comodidad y el encanto que buscas. Con 46 metros cuadrados construidos, el espacio está inteligentemente distribuido en un luminoso salón, una cocina funcional, un dormitorio con armarios empotrados y un baño completo. Además, podrás disfrutar de una encantadora terraza, perfecta para relajarte al final del día. Construido en 2003, este inmueble se encuentra en una zona consolidada que cuenta con todos los servicios necesarios a tu alcance. Su ubicación es ideal, ya que está bien comunicado y a tan solo 10 minutos en coche del vibrante centro de Málaga. Aunque es una propiedad de segunda mano y requiere algunas reformas, ofrece una excelente oportunidad para personalizarlo a tu gusto. No pierdas la oportunidad de vivir en una de las ciudades más atractivas de España. ¡Ven a visitarlo y enamórate de su potencial! En cumplimiento del Decreto 218/2005, de 11 de Octubre, por el que se aprueba el Reglamento de Información al Consumidor en la compraventa y arrendamiento de viviendas de Andalucía, se informa a los clientes que los gastos notariales, registrales e impuestos que le sean de aplicación (ITP o IVA + AJD) y otros gastos inherentes a la compraventa no están incluidos en el precio. Sin comisión de agencia.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3478.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Jardín, Málaga",
+        "title": "Piso en calle Balbina Valverde, 8"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107109787",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/91/24/1303255624.webp",
+      "externalReference": "SPCRM2371",
+      "numPhotos": 29,
+      "floor": "2",
+      "price": 795000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 795000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 840000.0,
+            "priceDropValue": 45000,
+            "priceDropPercentage": 5
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Casapalma",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Centro Histórico",
+      "latitude": 36.7220147,
+      "longitude": -4.4196267,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107109787/",
+      "distance": "176",
+      "description": "Un apartamento de época reformado con buen gusto de principios del siglo XX en el corazón de la ciudad en la calle Casapalma, cerca de la Plaza Uncibay La zona ofrece todo lo que necesita en términos de restaurantes, cafeterías y bares La popular zona comercial de la calle Larios y la Plaza de la Constitución está a solo 3 minutos a pie, así como el famoso Museo Picasso y la fortaleza de la Alcazaba  La propiedad se ha actualizado a los estándares modernos con 3 dormitorios dobles grandes, una sala de estar abierta y una cocina moderna más 1 baño y 1 aseo  La luminosa sala de estar y la cocina abierta se han modernizado a un alto nivel con una pared de ladrillos a la vista y nuevas ventanas insonorizadas que replican el original a la calle principal con 3 pequeños balcones El impresionante techo de 3,5 m da una sensación de amplitud en todo el apartamento  Un nuevo ascensor, instalado en 2024, se abre directamente al apartamento operado por una llave individual, lo que da una sensación de lujo y exclusividad  Este es el apartamento perfecto para disfrutar de lo mejor de la vida de la ciudad y sentirse parte de la historia de Málaga.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 7227.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro Histórico, Málaga",
+        "title": "Piso en calle Casapalma"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101665676",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/da/e0/26/1332189660.webp",
+      "externalReference": "PIS0003",
+      "numPhotos": 22,
+      "floor": "7",
+      "price": 560000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 560000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 133.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Decano Félix Navarrete",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7173709,
+      "longitude": -4.4290318,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101665676/",
+      "distance": "808",
+      "description": "Norando Homes presenta para sus clientes esta fantástica oportunidad para invertir. Magnífica vivienda ideal para entrar a vivir! vistas despejadas a solo 5 minutos de Larios. Este Gran piso consta de: 3, antes 4 dormitorios 2 cuarto de baño Salón bien distribuido y luminoso Aire acondicionado Cocina amueblada. Terraza independiente con vistas despejadas Trastero Plaza de garaje Portero Físico. ¡Llámenos y visítelo hoy mismo! Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga.  Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4211.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Piso en calle Decano Félix Navarrete"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107866408",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/ee/84/1326662983.webp",
+      "externalReference": "00788",
+      "numPhotos": 34,
+      "floor": "6",
+      "price": 359950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 359950.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 183.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "camino Suárez, 10",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Suárez",
+      "latitude": 36.7276952,
+      "longitude": -4.439355,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107866408/",
+      "distance": "1751",
+      "description": "Este impresionante ático, ubicado en Camino Suárez, se presenta como una oportunidad única para quienes buscan una propiedad exclusiva en una de las zonas más cotizadas y céntricas de la ciudad. A tan solo unos minutos caminando del Centro Histórico, esta vivienda combina la comodidad y la amplitud con unas vistas despejadas que no dejan indiferente a nadie. El ático, con una superficie construida de 183 metros cuadrados y 152 metros útiles, destaca por su luminosidad y distribución exterior. Al ser una sexta planta, la propiedad goza de una excelente orientación y una abundante entrada de luz natural a lo largo del día. Su ubicación privilegiada permite disfrutar de una sensación de amplitud y libertad, destacando el carácter luminoso y ventilado de todas sus estancias. Una de las características más destacadas de esta vivienda es su espectacular terraza de más de 100 metros cuadrados, el lugar ideal para disfrutar de momentos de relax y de vistas panorámicas sobre la ciudad, proporcionando un entorno inmejorable tanto para el día a día como para celebraciones al aire libre. Además, la vivienda cuenta con dos terrazas adicionales, una de ellas conectada directamente desde el salón y otra desde dos de los dormitorios, lo que permite disfrutar de diversos espacios exteriores en distintos momentos del día. La distribución interior de la vivienda es excelente, con una cocina independiente totalmente equipada, que cuenta también con acceso directo a una terraza y la posibilidad de acceder a otro dormitorio. El salón, amplio y acogedor, se comunica con una de las terrazas exteriores, lo que permite disfrutar del espacio al aire libre sin renunciar al confort interior. Además, la propiedad cuenta con cuatro dormitorios de gran tamaño, dos de ellos con acceso directo a las terrazas, lo que aumenta aún más la sensación de conexión con el exterior. Los dos baños, modernos y funcionales, están perfectamente ubicados para servir a las estancias de la vivienda. El edificio está dotado de ascensor, lo que facilita el acceso a esta privilegiada sexta planta. La propiedad también ofrece un alto nivel de privacidad y tranquilidad, al ser todo exterior y sin edificios que obstruyan las vistas o la luminosidad de la vivienda. En definitiva, este ático en Camino Suárez representa una ocasión única para vivir en el corazón de la ciudad, disfrutando de la comodidad, la amplitud y las vistas que ofrece una propiedad de estas características. Sin duda, es una vivienda excepcional, con una distribución funcional, espacios exteriores amplios y un entorno incomparable, Por mandato expreso de la propiedad ponemos a la venta este inmueble en EXCLUSIVA lo que le garantiza a usted como consumidor el acceso a toda la información, a un servicio de calidad, un trato fácil, sencillo y sin interferencias de terceros, por este motivo se ruega no molestar a los propietarios, a los ocupantes de la propiedad o a los vecinos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1967.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suárez, Málaga",
+        "title": "Ático en camino Suárez, 10"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108061668",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/35/54/57/1332670666.webp",
+      "externalReference": "007--16267",
+      "numPhotos": 7,
+      "price": 180000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 180000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Conde de Ureña",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Conde de Ureña",
+      "latitude": 36.7286128,
+      "longitude": -4.4125372,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108061668/",
+      "distance": "1133",
+      "description": "Desde el 09/04/2025 al 09/05/2025 este es un producto incluido en 'Ventas especiales'. Se comercializa mediante el sistema de subasta al mejor postor. Estos inmuebles admiten pujas hasta la finalización del plazo indicado al efecto. El precio de salida es el que se indica en el anuncio. Se escogerá la puja más alta para la venta del inmueble. Se deja expresa constancia que se deberá realizar un depósito previo en función del precio de salida. Dicho depósito será devuelto automáticamente sin coste alguno en caso de no ser el pujador elegido. OPORTUNIDAD. Ponemos a la venta este acogedor piso ubicado en el conocido distrito de Conde Ureña, una zona tranquila de Málaga caracterizada por su ambiente residencial y la presencia de espacios verdes ideales para el ocio al aire libre. La vivienda destaca por ser muy luminosa y soleada. Cuenta con una superficie construida de 83 m², distribuidos en salón-comedor, cocina independiente, tres dormitorios y un baño completo. La zona ofrece una actividad comercial basada principalmente en pequeños negocios, hoteles, restaurantes y supermercados, además de estar excelentemente comunicada con la carretera de Cádiz, líneas de autobuses y acceso rápido al centro de la ciudad. Se trata de una excelente opción tanto para quienes desean vivir en una zona tranquila y bien conectada, como para aquellos que buscan una inversión con alta rentabilidad en alquiler gracias a la demanda constante en la zona. No dejes pasar esta oportunidad. Contáctanos para más información o concertar una visita. ¡LLAME AHORA Y SOLICITE INFORMACIÓN SIN COMPROMISO! En cumplimiento del Decreto 218/ 2005, de 11 de octubre, por el que se aprueba el Reglamento de Información al Consumidor en la compraventa y arrendamiento de viviendas en Andalucía, se informa al cliente que los gastos notariales, registrales e impuestos que le sean de aplicación (ITP o IVA + AJD) y otros gastos inherentes a la compraventa no están incluidos en el precio. Validez de precios sujeto a disponibilidades y confirmación por propietarios. Se considera que la descripción y los precios indicados para las propiedades a la venta en este sitio web son correctos. No obstante, la información que contiene esta web puede ser sujeta a errores u omisiones. Las propiedades pueden ser sujetas a cambio de precio, venta o retirada del mercado. Para esta propiedad se encuentran incluidos en el precio de venta nuestros honorarios profesionales de agencia, por lo que no abonará ningún gasto extra por gestión o asesoramiento inmobiliario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2169.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Conde de Ureña, Málaga",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107675233",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/25/d9/4f/1319454842.webp",
+      "externalReference": "AVB37DA",
+      "numPhotos": 20,
+      "floor": "4",
+      "price": 268000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 268000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "avenida de Barcelona",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Los Castillejos - La Trinidad",
+      "latitude": 36.7249836,
+      "longitude": -4.4324794,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107675233/",
+      "distance": "1068",
+      "description": "Hermoso piso con un dormitorio, baño, aire acondicionado, persianas eléctricas, sistema de alarma, salón comedor, cocina integrada. Situado en uno de los mejores sitios de Málaga, cerca de todo lo necesario para disfrutar la ciudad, rodeado de comercios, buses, hospitales y todo lo necesario para hacer tu vida más cómoda o bien para invertirlo en alquiler, tanto vacacional como de larga temporada. Actualmente se encuentra alquilado hasta dentro de un año y medio. El edificio consta de 2 ascensores y un patio comunitario y la vivienda dispone de aire acondicionado, calefacción, 2 armarios, cocina americana amueblada y equipada con muebles altos y bajos, baño completo, suelos de parquet Quick-Step, video vigilancia 24 horas, termo eléctrico, doble acristalamiento tipo Climalit, pantalla de TV 55\". Garaje y trastero incluido en el precio. ¡No pierdas esta oportunidad! Vamos a visitarlo sin compromiso. Descubre tu nuevo hogar en el corazón de Málaga. ¡Contáctanos hoy mismo! En cumplimiento del Decreto de la Junta de Andalucía 218/2005 del 11 de Octubre se informa al cliente comprador que los gastos notariales, registrales, impuestos (ITP y AJD) y otros gastos inherentes o derivados de la compra no están incluidos en el precio de venta publicado, los honorarios de intermediación SI están incluidos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4467.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castillejos - La Trinidad, Málaga",
+        "title": "Piso en avenida de Barcelona"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107689843",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6c/03/0b/1327005324.webp",
+      "externalReference": "PIS0724",
+      "numPhotos": 18,
+      "floor": "4",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Miraflores de los Ángeles",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Bailén - Miraflores",
+      "country": "es",
+      "neighborhood": "Victoria Eugenia",
+      "latitude": 36.730423,
+      "longitude": -4.4422182,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107689843/",
+      "distance": "2114",
+      "description": "Norando Homes presenta para sus clientes esta excelente oportunidad de inversión! Piso en venta en MIRAFLORES distribuido en: 3 Habitaciones 2 Cuartos de baño completos y REFORMADOS Cocina independiente amueblada y equipada Salón comedor con TERRAZA INCORPORADA ¡Llámenos y visítelo hoy mismo!  Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2941.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Victoria Eugenia, Málaga",
+        "title": "Piso en avenida Miraflores de los Ángeles"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107153764",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/47/b4/1326971745.webp",
+      "externalReference": "PIS0661",
+      "numPhotos": 30,
+      "price": 535500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 535500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 107.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Vasco de Gama",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "El Molinillo - Capuchinos",
+      "latitude": 36.7337329,
+      "longitude": -4.4217574,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107153764/",
+      "distance": "1382",
+      "description": "Norando Homes presenta para sus clientes esta excelente oportunidad de inversión! Se trata de una vivienda ubicada en la primera planta de una casa mata con muy buena ubicación y distribuida en: Espacioso salón con un gran ventanal 3 Habitaciones, una de ellas con balcón y dos con armarios empotrados 1 Cuarto baño Amplia cocina independiente totalmente amueblada y equipada Terraza interior, a cielo abierto, con horno-barbacoa con salida de humos instalada ¡Llámenos para más información!  ¡Si lo prefiere puede contactarnos por WhatsApp! Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos. EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:30 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 5005.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Molinillo - Capuchinos, Málaga",
+        "title": "Piso en calle Vasco de Gama"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103868368",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/72/b6/1202677404.webp",
+      "externalReference": "Mal-Capitán_P7-1E",
+      "numPhotos": 41,
+      "floor": "1",
+      "price": 496000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 496000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 116.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Francisco Enríquez, 24",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Teatinos",
+      "country": "es",
+      "neighborhood": "El Tejar - Hacienda Bizcochero",
+      "latitude": 36.7229021,
+      "longitude": -4.4633513,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/103868368/",
+      "distance": "3743",
+      "description": "Piso a estrenar con 3 dormitorios, 2 baños, salón-comedor, cocina totalmente amueblada y equipada con electrodomésticos, terraza y amplio patio de 32 m2. Incluye plaza de garaje y trastero. Vivienda a la venta en Edificio Capitán en el Barrio de Teatinos.  Un entorno para vivirlo. Teatinos lo tiene todo. Todo lo que necesitas para sentir, para disfrutar, para vivir. Parques, amplios espacios, centros educativos, la Ciudad Universitaria, grandes superficies, supermercados, más parques, áreas deportivas, hospitales y centros de salud, la Ciudad de la Justicia, etc. Y además, los rápidos accesos por carretera, el Metro y las conexiones de autobús hacen que la comunicación con el centro de la ciudad sea inmejorable. ¿Qué más necesitas para empezar a coleccionar momentos de felicidad? Infórmate! *Ofertas sujetas a disponibilidad. IVA no incluido. Imágenes correspondientes a vivienda tipo del edificio.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4276.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Tejar - Hacienda Bizcochero, Málaga",
+        "title": "Piso en calle Francisco Enríquez, 24"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106228360",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/f1/ec/1326746768.webp",
+      "externalReference": "PIS0585",
+      "numPhotos": 37,
+      "floor": "7",
+      "price": 395000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 395000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Explanada de la Estación",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Centro",
+      "country": "es",
+      "neighborhood": "Perchel sur - El Bulto",
+      "latitude": 36.7124819,
+      "longitude": -4.4294895,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106228360/",
+      "distance": "1217",
+      "description": "Norando Homes presenta para sus clientes de Málaga capital esta fantástica oportunidad para invertir en la zona de EL PERCHEL! PRECIOSO PISO TOTALMENTE REFORMADO Y AMUEBLADO! Magnífica vivienda ideal para invertir o entrar a vivir distribuida en: Este piso cuenta con: 2 dormitorios (ANTES 3) con armarios empotrados Salón independiente con terraza incorporada 1 cuarto de baño con plato de ducha Cocina independiente, amplia totalmente equipada y amueblada. ¡Llámenos y visítelo hoy mismo!  Si lo prefiere puede contactarnos por WhatsApp. Somos una agencia especializada en la venta de inmuebles en Málaga. Si lo necesita también le podemos ayudar a conseguir financiación, no dude en consultarnos! EN CUMPLIMIENTO DEL DECRETO 218/2005 DE 11 DE OCTUBRE DE LA JUNTA DE ANDALUCIA, SE INFORMA QUE LOS GASTOS NOTARIALES, LOS DERECHOS REGISTRALES, EL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES Y LOS HONORARIOS DE LA AGENCIA INMOBILIARIA ASCENDENTES A UN 3% DEL PRECIO DE LA COMPRAVENTA MAS SUS IMPUESTOS, NO ESTÁN INCLUIDOS EN EL PRECIO DE ESTA PUBLICACIÓN. Estaremos encantados de atenderte personalmente en C/ Maestro Chapí, 7. Horario de atención al cliente: Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00 horas. Sábados de 10:00 a 14:00 horas (con cita previa). Si esta vivienda no es lo que esta buscando, contáctenos y uno de nuestros agentes se encargará de hacerle una búsqueda totalmente personalizada adaptándonos a sus necesidades sin compromiso. Servicios Integrales Remonta S. L. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4647.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Perchel sur - El Bulto, Málaga",
+        "title": "Piso en calle Explanada de la Estación"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107969627",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ea/5d/22/1333462765.webp",
+      "externalReference": "Q01577",
+      "numPhotos": 33,
+      "floor": "bj",
+      "price": 399000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 399000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Antares",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Puerto de la Torre",
+      "country": "es",
+      "neighborhood": "Puertosol - Santa Isabel",
+      "latitude": 36.7361194,
+      "longitude": -4.487137,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107969627/",
+      "distance": "6085",
+      "description": "Piso de reciente construcción en planta baja con jardín y todas las comodidades que buscas.  Esta vivienda de 2 habitaciones y 2 baños te ofrece un espacio moderno, cómodo y listo para entrar a vivir. Ideal para quienes desean tranquilidad sin renunciar a la cercanía de servicios.  Lo que hace especial a este hogar:  Planta baja con jardín privado.  2 habitaciones con armarios empotrados y 2 baños completos (uno en suite).  Salón luminoso y cocina independiente.  Terraza con pérgola bioclimática, perfecta para relajarte al aire libre.  Piscina comunitaria, ideal para los días de sol.  Parking y trastero incluidos.  Climatización central (frío/calor) y placas solares para mayor ahorro.  Persianas automáticas, rejas y mosquiteras en todas las ventanas.  Zona residencial tranquila, con supermercados, colegios y transporte público cerca.  Un piso de diseño, con acabados modernos y en una ubicación ideal.  Llámanos y seguro que llegamos a un acuerdo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2978.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puertosol - Santa Isabel, Málaga",
+        "title": "Piso en calle Antares"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107810677",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e6/3e/08/1324472907.webp",
+      "externalReference": "BHHS-MAR-0680",
+      "numPhotos": 40,
+      "price": 1868000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1868000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 505.0,
+      "rooms": 6,
+      "bathrooms": 5,
+      "address": "Barrio Cerrado de Calderón - Hacienda Paredes",
+      "province": "Málaga",
+      "municipality": "Málaga",
+      "district": "Este",
+      "country": "es",
+      "neighborhood": "Cerrado de Calderón - Hacienda Paredes",
+      "latitude": 36.7307271,
+      "longitude": -4.3792321,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107810677/",
+      "distance": "3901",
+      "description": "Esta increíble villa está situada en una de las zonas residenciales más deseadas de Málaga Este, a sólo cinco minutos en coche de la playa de Pedregalejo y a un corto paseo del Liceo Francés. Orientada al sur, la propiedad ofrece impresionantes vistas al mar, abundante luz natural y un ambiente tranquilo. Distribuida en tres niveles, la residencia combina a la perfección confort y elegancia. La planta baja cuenta con un acogedor hall de entrada que conduce a un amplio salón-comedor con acceso a un porche cubierto y acristalado. La gran cocina se abre a una terraza con vistas a la piscina y al mar y conecta con una habitación de servicio con cuarto de baño. Este nivel también incluye un despacho y un aseo de invitados. En la planta superior, cuatro luminosos dormitorios ofrecen impresionantes vistas, uno de ellos con acceso directo a una terraza privada. La suite principal cuenta con baño en suite y vestidor, mientras que un baño completo adicional da servicio a los demás dormitorios. El semisótano está dedicado al ocio, con una zona de estar multizona con sala de TV, billar, bar, cancha de baloncesto y gimnasio. Un dormitorio de invitados con baño completo también se encuentra en este nivel, junto con el acceso directo al garaje, con capacidad para dos coches y una motocicleta. Aparcamiento adicional al aire libre está disponible en la entrada principal. Otras características: suelos de mármol y parquet en el interior, hormigón impreso y tarima de madera en el exterior, carpintería de madera, cerramientos de aluminio blanco con doble acristalamiento y paneles solares para la eficiencia energética. Diseñada para la privacidad y el confort cotidiano, esta excepcional vivienda ofrece un entorno sereno para disfrutar de las impresionantes vistas al mar y de la vida familiar.  Idealmente situada entre los centros comerciales 'Next' y 'Multicentro', la propiedad ofrece fácil acceso a los servicios esenciales y a los mejores colegios de Cerrado de Calderón. La cercana autopista A7 garantiza una excelente conectividad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3699.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerrado de Calderón - Hacienda Paredes, Málaga",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "topPlus": false
+    }
+  ],
+  "total": 3693,
+  "totalPages": 74,
+  "actualPage": 12,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar",
+    "Casas y pisos",
+    "Centro Histórico",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en Centro Histórico",
+  "totalAppliedFilters": 0,
+  "lowerRangePosition": 550,
+  "upperRangePosition": 600,
+  "paginable": true
+}
