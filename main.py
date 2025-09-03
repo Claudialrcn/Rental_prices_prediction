@@ -4,7 +4,7 @@ import json
 from datetime import date
 import numpy as np
 
-from data_extraction.api_access import API_KEY, SECRET
+from utils.archive.api_access import API_KEY, SECRET
 
 def get_oauth2_token():
     """
