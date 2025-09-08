@@ -9,6 +9,8 @@ import pickle
 import plotly.express as px
 import os
 from dotenv import load_dotenv
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 from utils.app_utils import (
     get_size_options,
@@ -43,7 +45,7 @@ df_municipalities = pd.read_csv('data/working_data/municipalities.csv')
 PROPERTY_SIZE_LIMITS = get_size_options(df)
 
 DIC_MUNICIPALITIES, DIC_DISTRICTS, DIC_NEIGHBORHOODS = DIC_MUNICIPALITIES, DIC_DISTRICTS, DIC_NEIGHBORHOODS
-DIC_MUNICIPALITIES
+
 LOCATION_CENTROIDS = pd.read_pickle("data/working_data/datalocation_centroids.pkl")
 with open("data/app_data/detailed_to_property.json", "r") as f:
     DETAILED_TO_PROPERTY_DICT = json.load(f)
@@ -436,7 +438,7 @@ app.layout = dmc.MantineProvider(
                                 id="property_type_graph_dropdown",
                                 options=[{"label": pt, "value": pt} for pt in df['propertyType'].unique()],
                                 value=None,
-                                multi=True,
+                                multi=False,
                                 placeholder="Select Property Type",
                                 style={"width": "220px"}
                             ),
@@ -448,7 +450,7 @@ app.layout = dmc.MantineProvider(
                                 id="municipality_graph_dropdown",
                                 options=[{"label": m, "value": m} for m in df['municipality'].unique()],
                                 value=None,
-                                multi=True,
+                                multi=False,
                                 placeholder="Select Municipality",
                                 style={"width": "220px"}
                             ),
@@ -467,16 +469,66 @@ app.layout = dmc.MantineProvider(
                                 inline=True,
                                 style={"marginTop": "5px"}
                             ),
+                        ], style={"marginRight": "20px"}),
+
+                        html.Div([
+                            html.Label("Aggregation", style={"fontWeight": "bold", "marginRight": "5px"}),
+                            dcc.Dropdown(
+                                id="aggregation_selector",
+                                options=[
+                                    {"label": "Average", "value": "mean"},
+                                    {"label": "Maximum", "value": "max"},
+                                    {"label": "Minimum", "value": "min"},
+                                ],
+                                value="mean",
+                                clearable=False,
+                                style={"width": "180px"}
+                            ),
                         ]),
                     ],
-                    justify="space-between", 
-                    align="center",         
+                    justify="space-between",
+                    align="center",
                     gap="md",
-                    style={"marginBottom": "20px"}  
+                    style={"marginBottom": "20px"}
                 ),
 
                 dcc.Graph(id="price_by_area_graph", style={"marginTop": "20px"}),
+
+                html.Div([
+                    dcc.Dropdown(
+                        id="top_n_selector",
+                        options=[
+                            {"label": "Top 5", "value": 5},
+                            {"label": "Top 10", "value": 10},
+                            {"label": "Top 15", "value": 15}
+                        ],
+                        value=10,   # default
+                        clearable=False,
+                        style={"width": "150px"}
+                    ),
+                ], style={"marginRight": "20px"}),
+
                 dcc.Graph(id="total_price_graph", style={"marginTop": "20px"}),
+
+                dcc.Dropdown(
+                    id="features_selector",
+                    options=[
+                        {"label": "Size", "value": "size"},
+                        {"label": "Rooms", "value": "rooms"},
+                        {"label": "Bathrooms", "value": "bathrooms"},
+                        {"label": "Status", "value": "status"},
+                        {"label": "Floor", "value": "floor"},
+                        {"label": "Has Parking", "value": "hasParkingSpace"},
+                        {"label": "Has Lift", "value": "hasLift"},
+                    ],
+                    value=["size", "rooms"],  # default
+                    multi=True,
+                    placeholder="Select one or more features",
+                    style={"width": "300px"}
+                ),
+
+                dcc.Graph(id="feature_price_relation_graph", style={"marginTop": "20px"}),
+
             ], style={"padding": "20px", "marginLeft":"20px", "marginRight":"20px", })
 
         ]),
@@ -502,7 +554,7 @@ def update_detailed_options(selected_property):
 )
 def sync_property_with_detailed(selected_detailed):
     if not selected_detailed:
-        return no_update
+        return dash.no_update
     return DETAILED_TO_PROPERTY_DICT[selected_detailed]
 
 @app.callback(
@@ -810,78 +862,168 @@ def handle_prediction(n_clicks, property_type, operation, size, rooms, bathrooms
 
 @app.callback(
     Output("price_by_area_graph", "figure"),
-    Input("municipality_graph_dropdown", "value"),
-    Input("property_type_graph_dropdown", "value"),
-    Input("operation_selector", "value")
+    Input("municipality_graph_dropdown", "value"),     # Municipality
+    Input("property_type_graph_dropdown", "value"),    # Property type
+    Input("operation_selector", "value"),              # "rent", "sale", or "both"
+    Input("aggregation_selector", "value"),            # "mean", "max" or "min"
 )
-def update_price_by_area_graph(selected_municipalities, selected_property_type, operation_filter):
+def update_price_by_area_graph(selected_municipalities, selected_property_type, operation_filter, agg_method):
     df_filtered = df.copy()
 
+    # Filter by operation if not both
     if operation_filter in ["sale", "rent"]:
         df_filtered = df_filtered[df_filtered["operation"] == operation_filter]
 
+    # Filter by property type if selected
     if selected_property_type:
         df_filtered = df_filtered[df_filtered["propertyType"] == selected_property_type]
 
-    if selected_municipalities:
-        df_filtered = df_filtered[df_filtered["municipality"].isin(selected_municipalities)]
+    # Case 1: No municipality selected → group by municipality + operation
+    if not selected_municipalities:
+        df_grouped = (
+            df_filtered.groupby(["municipality", "operation"])["priceByArea"]
+            .agg(agg_method)
+            .reset_index()
+        )
+        x_col = "municipality"
+        title_scope = "all municipalities"
+    else:
+        # Case 2: Municipality selected → group by district + operation
+        df_filtered = df_filtered[df_filtered["municipality"] == selected_municipalities]
+        df_grouped = (
+            df_filtered.groupby(["district", "operation"])["priceByArea"]
+            .agg(agg_method)
+            .reset_index()
+        )
+        x_col = "district"
+        title_scope = f"municipality {selected_municipalities}"
 
-    df_grouped = (
-        df_filtered.groupby(["municipality", "operation"])["priceByArea"]
-        .mean()
-        .reset_index()
-    )
+    # Dynamic labels
+    stat_label = {"mean": "Average", "max": "Maximum", "min": "Minimum"}[agg_method]
+    property_label = selected_property_type if selected_property_type else "all property types"
 
+    title = f"{stat_label} price per area in {title_scope} for {property_label}"
+
+    # Create figure with operation as color → 1 bar (if filtered), 2 bars (if both)
     fig = px.bar(
         df_grouped,
-        x="municipality",
+        x=x_col,
         y="priceByArea",
         color="operation",
         barmode="group",
         text="priceByArea",
-        labels={"priceByArea": "Price per Area (€)", "municipality": "Municipality"},
-        title="Average Price per Area by Municipality and Operation"
+        labels={"priceByArea": "Price per Area (€)", x_col: x_col.capitalize(), "operation": "Operation"},
+        title=title,
     )
 
     fig.update_traces(texttemplate="%{text:.2f}")
     fig.update_layout(xaxis_tickangle=-45, height=500)
+
     return fig
+
+
 
 
 
 @app.callback(
     Output("total_price_graph", "figure"),
-    Input("property_type_graph_dropdown", "value"),
-    Input("operation_selector", "value")
+    Input("property_type_graph_dropdown", "value"),   # Property type
+    Input("operation_selector", "value"),             # rent / sale / both
+    Input("aggregation_selector", "value"),           # mean / max / min
+    Input("top_n_selector", "value"),                 # 5 / 10 / 15
 )
-def update_total_price_graph(property_type, operation_filter):
+def update_total_price_graph(property_type, operation_filter, agg_method, top_n):
     df_filtered = df.copy()
 
-    if operation_filter == "sale":
-        df_filtered = df_filtered[df_filtered["operation"] == "sale"]
-    elif operation_filter == "rent":
-        df_filtered = df_filtered[df_filtered["operation"] == "rent"]
+    # Filter by operation
+    if operation_filter in ["sale", "rent"]:
+        df_filtered = df_filtered[df_filtered["operation"] == operation_filter]
 
-
+    # Filter by property type
     if property_type:
         df_filtered = df_filtered[df_filtered["propertyType"] == property_type]
 
-    df_grouped = df_filtered.groupby("municipality")["price"].mean().reset_index()
-    df_top10 = df_grouped.sort_values("price", ascending=False).head(10)
+    # Group by municipality and apply chosen aggregation
+    df_grouped = (
+        df_filtered.groupby("municipality")["price"]
+        .agg(agg_method)
+        .reset_index()
+    )
 
+    # Take top N (default 10 if not provided)
+    top_n = top_n or 10
+    df_top = df_grouped.sort_values("price", ascending=False).head(top_n)
+
+    # Dynamic title parts
+    stat_label = {"mean": "Average", "max": "Maximum", "min": "Minimum"}[agg_method]
+    property_label = property_type if property_type else "all property types"
+    op_label = operation_filter if operation_filter != "both" else "rent & sale"
+
+    title = f"Top {top_n} municipalities by {stat_label} price ({op_label}, {property_label})"
+
+    # Build figure
     fig = px.bar(
-        df_top10,
+        df_top,
         x="municipality",
         y="price",
-        text=df_top10["price"].round(2),
-        labels={"price": "Average Price (€)"},
-        title=f"Top 10 Municipalities by Average Price{f' ({property_type})' if property_type else ''}"
+        text=df_top["price"].round(2),
+        labels={"price": f"{stat_label} Price (€)"},
+        title=title,
     )
+
+    fig.update_traces(texttemplate="%{text:.2f}")
     fig.update_layout(xaxis_tickangle=-45, height=500)
+
     return fig
 
+@app.callback(
+    Output("feature_price_relation_graph", "figure"),
+    Input("features_selector", "value"),
+    Input("property_type_graph_dropdown", "value"),
+    Input("operation_selector", "value")
+)
+def update_feature_price_graph(selected_features, selected_property_type, operation_filter):
+    if not selected_features:
+        return go.Figure()  # empty figure if no features selected
 
+    df_filtered = df.copy()
 
+    # Filter by operation
+    if operation_filter in ["sale", "rent"]:
+        df_filtered = df_filtered[df_filtered["operation"] == operation_filter]
+
+    # Filter by property type if selected
+    if selected_property_type:
+        df_filtered = df_filtered[df_filtered["propertyType"] == selected_property_type]
+
+    # Create subplots
+    fig = make_subplots(rows=len(selected_features), cols=1, shared_xaxes=False, vertical_spacing=0.1,
+                        subplot_titles=selected_features)
+
+    # Add scatter traces
+    for i, feature in enumerate(selected_features, 1):
+        for pt in df["propertyType"].unique():
+            df_pt = df_filtered[df_filtered["propertyType"] == pt]
+            if df_pt.empty:
+                continue
+            fig.add_trace(
+                go.Scatter(
+                    x=df_pt[feature],
+                    y=df_pt["price"],
+                    mode="markers",
+                    name=pt,
+                    text=df_pt["propertyType"],  # hover info
+                    showlegend=(i == 1)  # show legend only once
+                ),
+                row=i,
+                col=1
+            )
+
+    fig.update_yaxes(title_text="Price (€)")
+    fig.update_layout(height=300*len(selected_features), title="Feature vs Price Relation",
+                      hovermode="closest")
+
+    return fig
 
 #============================================== RUN SERVER ==============================================
 if __name__ == "__main__":

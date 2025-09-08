@@ -28,4 +28,5 @@ EXPOSE 8050
 ENV APP_ENV=prod
 
 # Ejecutamos directamente con python
-CMD ["uv","run", "dash_app/app.py"]
+ENV PORT=10000 
+CMD ["uv", "run", "dash_app/app.py", "--host", "0.0.0.0", "--port", "10000"]
