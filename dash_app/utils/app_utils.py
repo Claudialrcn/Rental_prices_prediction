@@ -6,23 +6,27 @@ import pandas as pd
 import numpy as np
 import joblib
 import json
+import pickle
 
 location_centroids = pd.read_pickle("data/working_data/datalocation_centroids.pkl")
 
-dataframe = pd.read_csv("data/working_data/idealista_data_total_20250805.csv")
+df = pd.read_csv("data/working_data/data_cleaned_20250827.csv")
 
 # Leemos nuestro modelo
-model = joblib.load("models/XGB_sales_model_20250802.pkl")
+rent_model = joblib.load("models/RandomForestRegressor_rent_production_202509011542.joblib")
+sale_model = joblib.load("models/RandomForestRegressor_sale_production_202509011610.joblib")
 
-with open("data/mapping_dict_20250802.json",'r', encoding='utf-8') as f:
-    mappings = json.load(f)
+
+with open("data/size_bins_by_detailedType.json", 'r') as f:
+    size_bins_by_detailedType = json.load(f)
 
 # Inicializa el geolocalizador globalmente
 geolocator = Nominatim(user_agent="malaga-app-geocoder")
 reverse = partial(geolocator.reverse, language="es", addressdetails=True)
 
-with open("../data/size_bins_by_detailedType.json", 'r') as f:
-    size_bins_dict = json.load(f)
+with open("data/app_data/encoders.pkl", 'rb') as f:
+    encoders = pickle.load(f)
+
 
 def get_size_options(df):
     df_grouped = df.groupby('detailedType')['size'].agg(['min', 'max']).reset_index()
@@ -89,45 +93,61 @@ def get_coords_from_location(municipality, district, neighborhood, location_cent
     else:
         return None, None
     
-def get_floor_options(property_type):
-    if property_type in ['chalet', 'countryHouse']:
-        return [{'label': '0', 'value': 0}]
+def get_floor_options(df):
+    df_grouped = df.groupby('propertyType')['floor'].agg(['min', 'max']).reset_index()
+    dic_min_max_floor = {
+        row['propertyType']: {"min": int(row['min']), "max": int(row['max'])}
+        for _, row in df_grouped.iterrows()
+    }
+    return dic_min_max_floor
     
-    elif property_type in ['duplex', 'flat', 'office', 'premise', 'studio']:
-        options = [{'label': str(i), 'value': i} for i in range(0, 31)]
-        options.append({'label': 'Mezzanine', 'value': 0.5}) 
-        return options
-    
+def assign_size_range(row):
+    detailed_type = row['detailedType']
+    size = row['size']
+    bins = size_bins_by_detailedType.get(detailed_type)
 
-    elif property_type == 'garage':
-        return [{'label': '-2', 'value': -2},
-                {'label': '-1', 'value': -1},
-                {'label': '0', 'value': 0}]
-    
-    else:
-        return []
-    
-def estimate_price_by_area(df, operation, property_type, size, municipality, neighborhood):
-    bins = size_bins_dict.get(property_type)
     if bins is None:
-        return None  # o usar una media general
+        return 'Unknown'
+
+    bins = sorted(set(bins))
+    
+    if bins[-1] != float('inf'):
+        bins = bins + [float('inf')]
+
+    labels = [
+        f"{int(bins[i])}-{int(bins[i+1])}" if bins[i+1] != float('inf')
+        else f"{int(bins[i])}+"
+        for i in range(len(bins)-1)
+    ]
+
+    cat = pd.cut([size], bins=bins, labels=labels, include_lowest=True)
+
+    return cat[0] if not pd.isna(cat[0]) else 'Unknown'
+    
+def estimate_price_by_area(df, operation, status, property_type, size, municipality, district, neighborhood):
+    df['size_range'] = df.apply(assign_size_range, axis=1)
+    bins = size_bins_by_detailedType.get(property_type)
+    if bins is None:
+        return None
 
     labels = [f"{int(bins[i])}-{int(bins[i+1])}" if bins[i+1] != float('inf') else f"{int(bins[i])}+" for i in range(len(bins)-1)]
     size_range = pd.cut([size], bins=bins, labels=labels)[0]
 
     filtered_df = df[
         (df['operation'] == operation) &
+        (df['status'] == status) &
         (df['propertyType'] == property_type) &
         (df['size_range'] == size_range) &
         (df['municipality'] == municipality) &
+        (df['district'] == district) &
         (df['neighborhood'] == neighborhood)
     ]
 
-    return filtered_df['avg_price_area_by_type_size_neigh'].mean()
+    return filtered_df['priceByArea'].mean()
     
-def get_price_prediction(propertyType, operation, size, rooms, bathrroms, municipality, district, neighborhood, latitude, longitude, status, lift, floor, parkingSpace):
+def get_price_prediction(propertyType, operation, size, rooms, bathrroms, municipality, district, neighborhood, latitude, longitude, status, detailedType, lift, floor, parkingSpace):
     """
-    Hace la prediccion del precio usando nuestro modelo
+    Makes the prediction using the appropiate model
     """
 
     new_Development = False
@@ -138,29 +158,29 @@ def get_price_prediction(propertyType, operation, size, rooms, bathrroms, munici
     if parkingSpace == True:          
         isParkingSpaceIncludedInPrice = True
 
-    priceByArea = estimate_price_by_area(dataframe, operation, propertyType, size, municipality, neighborhood)
+    priceByArea = estimate_price_by_area(df, operation, status, propertyType, size, municipality, district, neighborhood)
 
-    model_input_columns = [
-        'propertyType', 'operation', 'size', 'rooms', 'bathrooms', 'municipality', 'district', 'neighborhood',
-        'latitude', 'longitude', 'status', 'newDevelopment','priceByArea', 'floor', 'hasLift', 'hasParkingSpace', 'isParkingSpaceIncludedInPrice'] 
-
-    data = {'propertyType': propertyType, 'operation': operation, 'size': size, 'rooms':rooms, 'bathrooms':bathrroms, 'municipality':municipality, 'district':district, 'neighborhood': neighborhood,
-        'latitude':latitude, 'longitude':longitude, 'status': status, 'newDevelopment':new_Development,'priceByArea':priceByArea, 'floor':floor, 'hasLift':lift, 'hasParkingSpace':parkingSpace, 'isParkingSpaceIncludedInPrice':isParkingSpaceIncludedInPrice}
+    data = {'propertyType': propertyType, 'size': size, 'rooms':rooms, 'bathrooms':bathrroms, 'municipality':municipality, 'district':district, 'neighborhood': neighborhood,
+        'latitude':latitude, 'longitude':longitude, 'status': status, 'newDevelopment':new_Development,'priceByArea':priceByArea, 'detailedType':detailedType, 'floor':floor, 'hasLift':lift, 'hasParkingSpace':parkingSpace, 'isParkingSpaceIncludedInPrice':isParkingSpaceIncludedInPrice}
     
-    data_processed = {}
-    for col in model_input_columns:
-        value = data[col]
-        if col in mappings:
-            # Aplicar mapeo
-            data_processed[col] = mappings[col].get(value, -1)  # Usar -1 si no está en el mapeo
-        else:
-            # Dejar numéricos y booleanos como están
-            data_processed[col] = value
+    input_df = pd.DataFrame([data])
+    print("Columns in input_df:", input_df.columns.tolist())
+    print("Expecting columns:", list(encoders.keys()))
 
-    input_df = pd.DataFrame([data_processed])
+
+    if operation == 'rent':
+        model = rent_model
+    else:
+        model = sale_model
+
+    print("model input: ",data)
+
+    for col, le in encoders.items():
+        if col in input_df.columns:
+            input_df[col] = le.transform(input_df[col].astype(str))
 
     prediction = model.predict(input_df)[0]
-    print(f"Predicción de precio: {prediction}")
+    print(f"Price prediction: {prediction}")
     return prediction
     
 
