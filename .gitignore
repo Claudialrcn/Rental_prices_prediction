@@ -14,5 +14,5 @@ wheels/
 data_extraction/api_access.py
 
 # data
-data/
-data/
+data/extracted_data/
+

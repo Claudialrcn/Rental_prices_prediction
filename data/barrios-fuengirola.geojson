@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "barrio": "El Higuerón" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.645,36.545 ],[ -4.635,36.545 ],[ -4.635,36.538 ],[ -4.645,36.538 ],[ -4.645,36.545 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "Torreblanca" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.635,36.545 ],[ -4.620,36.545 ],[ -4.620,36.538 ],[ -4.635,36.538 ],[ -4.635,36.545 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "Las Gaviotas/Carvajal" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.635,36.538 ],[ -4.620,36.538 ],[ -4.620,36.533 ],[ -4.635,36.533 ],[ -4.635,36.538 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "Los Pacos" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.620,36.545 ],[ -4.610,36.545 ],[ -4.610,36.538 ],[ -4.620,36.538 ],[ -4.620,36.545 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "Los Boliches" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.620,36.538 ],[ -4.605,36.538 ],[ -4.605,36.533 ],[ -4.620,36.533 ],[ -4.620,36.538 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "El Boquetillo" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.615,36.533 ],[ -4.605,36.533 ],[ -4.605,36.528 ],[ -4.615,36.528 ],[ -4.615,36.533 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "Centro" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.615,36.533 ],[ -4.605,36.533 ],[ -4.605,36.528 ],[ -4.615,36.528 ],[ -4.615,36.533 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "Puerto Deportivo" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.605,36.538 ],[ -4.595,36.538 ],[ -4.595,36.533 ],[ -4.605,36.533 ],[ -4.605,36.538 ]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "barrio": "Sohail" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -4.645,36.538 ],[ -4.635,36.538 ],[ -4.635,36.533 ],[ -4.645,36.533 ],[ -4.645,36.538 ]]]
+      }
+    }
+  ]
+}
