@@ -1,6 +1,7 @@
 import json
 import dash
 from dash import html, dcc, callback, Input, Output, State, ctx
+from dash_iconify import DashIconify
 import dash_leaflet as dl
 import pandas as pd
 import dash_mantine_components as dmc
@@ -66,7 +67,61 @@ app.callback_map
 app.layout = dmc.MantineProvider(
     children =      
         html.Div([
-            html.H2("Price Prediction of Rent and Sale Properties in Málaga Province", style={"textAlign": "center", "marginTop": "20px"}),
+            html.Div(
+                [
+                    html.H2(
+                        "Price Prediction of Rent and Sale Properties in Málaga Province",
+                        style={"marginTop": "20px", "marginRight": "10px"},
+                    ),
+                    dmc.Tooltip(
+                        multiline=True,
+                        w=400,
+                        withArrow=True,
+                        position="bottom",
+                        color="gray",
+                        style={
+                            "backgroundColor": "rgba(255, 87, 34, 1)",
+                            "color": "white",
+                            "zIndex": 9999,
+                        },
+                        label=html.Div(
+                            [
+                                html.P(html.B("About this tool"), style={"margin": "0 0 8px 0"}),
+                                html.P(
+                                    [
+                                        "Obtain a ",
+                                        html.B("property price prediction"),
+                                        " (rent or sale) produced by a Random Forest model."
+                                    ],
+                                    style={"margin": "0 0 8px 0"}
+                                ),
+                                html.Ul(
+                                    [
+                                        html.Li([html.B("Complete ALL fields:"), " fill the form on the right from top to bottom."]),
+                                        html.Li([html.B("Location:"), " latitude and longitude are set automatically by selecting a valid point on the map or by filling municipality, district and neighborhood."]),
+                                        html.Li([html.B("Preview:"), " when property type and municipality are set, a box appears (if data exist) showing average price and price by area for rent and sale."]),
+                                    ],
+                                    style={"margin": "6px 0 6px 18px", "padding": "0"}
+                                ),
+                                html.P([html.B("Finally:"), " press the prediction button to obtain the estimate."], style={"margin": "6px 0 0 0"}),
+                            ],
+                            style={"lineHeight": "1.25", "fontSize": "13px"}
+                        ),
+                        children=DashIconify(
+                            icon="feather:info",
+                            color=dmc.DEFAULT_THEME["colors"]["gray"][5],
+                            width=20,
+                        ),
+                    ),
+                ],
+                style={
+                    "display": "flex",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "textAlign": "center",
+                    "marginTop": "20px",
+                },
+            ),
             html.Div(
                 [
                     html.Div(
@@ -343,7 +398,7 @@ app.layout = dmc.MantineProvider(
                                 center=[36.7, -4.4],  
                                 zoom=9,
                                 id='map',
-                                style={'width': '100%', 'height': '80vh'},
+                                style={'width': '100%', 'height': '80vh', 'zIndex':0},
                                 children=[
                                     dl.TileLayer(),  
                                     dl.LayerGroup(id="click_marker_layer"),  
@@ -428,8 +483,86 @@ app.layout = dmc.MantineProvider(
                 ),
             ]),
             html.Div([
-                html.H3("Interactive Property Graphs", style={"marginBottom": "15px"}),
+                html.Div(
+                    [
+                        html.H3(
+                            "Interactive Property Graphs",
+                            style={"marginBottom": "15px", "marginRight": "10px"},
+                        ),
+                        dmc.Tooltip(
+                            withinPortal=True,
+                            multiline=True,
+                            w=400,
+                            withArrow=True,
+                            position="bottom",
+                            color="gray",
+                            style={
+                                "backgroundColor": "rgba(255, 87, 34, 1)",
+                                "color": "white",
+                                "zIndex": 99999,
+                                "padding": "10px 12px",
+                                "borderRadius": "8px",
+                            },
+                            label=html.Div(
+                                [
+                                    html.P(html.B("About the charts"), style={"margin": "0 0 8px 0"}),
 
+                                    html.P(
+                                        [
+                                            "You will find ",
+                                            html.B("three interactive charts"),
+                                            " designed to explore property price patterns."
+                                        ],
+                                        style={"margin": "0 0 8px 0"}
+                                    ),
+
+                                    html.P(html.B("1. Price by Area (first chart):"), style={"margin": "6px 0 4px 0"}),
+                                    html.Ul(
+                                        [
+                                            html.Li("By default, shows rent and sale prices per area for all municipalities."),
+                                            html.Li("When a municipality is selected, the view focuses on its districts."),
+                                            html.Li("Selecting a property type filters the data accordingly."),
+                                            html.Li("You can also choose the aggregation method: mean, maximum, or minimum."),
+                                        ],
+                                        style={"margin": "0 0 8px 18px"}
+                                    ),
+
+                                    html.P(html.B("2. Top Municipalities (second chart):"), style={"margin": "6px 0 4px 0"}),
+                                    html.Ul(
+                                        [
+                                            html.Li("Displays the top 5, 10, or 15 municipalities."),
+                                            html.Li("Ranking is based on average, maximum, or minimum price."),
+                                            html.Li("Property type filtering is also applied if selected."),
+                                        ],
+                                        style={"margin": "0 0 8px 18px"}
+                                    ),
+
+                                    html.P(html.B("3. Feature Relationships (third chart):"), style={"margin": "6px 0 4px 0"}),
+                                    html.Ul(
+                                        [
+                                            html.Li("Shows the relationship between price and a chosen feature."),
+                                            html.Li("Multiple relationships can be visualized simultaneously."),
+                                            html.Li("Data can be filtered by property type and operation type."),
+                                        ],
+                                        style={"margin": "0 0 0 18px"}
+                                    ),
+                                ],
+                                style={"fontSize": "13px", "lineHeight": "1.25"}
+                            ),
+                            children=DashIconify(
+                                icon="feather:info",
+                                color=dmc.DEFAULT_THEME["colors"]["gray"][5],
+                                width=20,
+                            ),
+                        ),
+                    ],
+                    style={
+                        "display": "flex",
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "marginBottom": "15px",
+                    },
+                ),
                 dmc.Group(
                     [
                         html.Div([
@@ -529,7 +662,12 @@ app.layout = dmc.MantineProvider(
 
                 dcc.Graph(id="feature_price_relation_graph", style={"marginTop": "20px"}),
 
-            ], style={"padding": "20px", "marginLeft":"20px", "marginRight":"20px", })
+            ], style={"padding": "20px", "marginLeft":"20px", "marginRight":"20px", }),
+
+            html.Footer(
+                "Interactive Real Estate Price Prediction Dashboard — Developed by Claudia Alarcón Montesinos as part of the Master’s Thesis in Big Data, Artificial Intelligence and Data Engineering.",
+                style={"textAlign": "center", "padding": "10px", "fontSize": "12px", "color": "#666"}
+            )
 
         ]),
     
