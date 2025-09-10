@@ -5,12 +5,17 @@
 
 ## Project Overview
 
-The rental housing market is highly dynamic, making accurate price prediction essential for property owners, prospective tenants, and real estate analysts.  
+The rental and sales housing market is highly dynamic, making accurate price prediction essential for property owners, prospective tenants, and real estate analysts.  
 This project leverages real data from the province of Málaga to build predictive models for both rental and sales properties using machine learning techniques.  
 
-The solution includes data extraction from Idealista's API, feature selection and preprocessing, model training with Linear Regression, SVM, Random Forest, and XGBoost, and an interactive dashboard built with Dash to explore predictions and visual trends.
+The solution encompasses data extraction from Idealista's API, feature selection and preprocessing, model training with Linear Regression, SVM, Random Forest, and XGBoost, and an interactive dashboard built with Dash to explore predictions and visualize market trends.  
 
-This project was developed as part of a Master's Thesis for the program *Big Data, Artificial Intelligence, and Data Engineering*.
+This project was developed as part of a Master's Thesis for the program *Big Data, Artificial Intelligence, and Data Engineering*.  
+
+For convenience, the interactive dashboard is also deployed online and can be accessed without running the application locally at: [https://rental-prices-prediction.onrender.com/](https://rental-prices-prediction.onrender.com/)
+
+**Note:** The application may take a few seconds to load initially.
+
 
 ## Project Structure
 

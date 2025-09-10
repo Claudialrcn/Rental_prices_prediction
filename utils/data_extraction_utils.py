@@ -1,3 +1,23 @@
+"""
+────────────────────────────────────────────────────────────
+📄 data_extraction_utils.py
+────────────────────────────────────────────────────────────
+This file provides utility functions for extracting and 
+retrieving real estate data from the Idealista API.
+
+It includes:
+    - Functions to obtain OAuth tokens for API authentication.
+    - URL builders for different property types and operations.
+    - Functions to fetch data page by page, respecting API limits.
+    - Historical data management, including merging new results 
+      with previously fetched data.
+    - Helper functions to combine multiple JSON files into a 
+      single dataset for downstream processing.
+
+⚠️ Note: Executing these functions may consume API requests. 
+         Ensure you have a valid API key and monitor usage limits.
+"""
+
 import os
 from dotenv import load_dotenv
 import base64
@@ -20,7 +40,7 @@ MAX_ITEMS = 50 # Maximum number of items to retrieve in one request 50
 SORT = 'desc'
 
 # Data path
-DATA_PATH = "data/results"
+DATA_PATH = "data/extracted_data"
 
 def get_oauth_token():
     """
@@ -243,4 +263,36 @@ def get_complete_data_json(with_old_data=True):
             print(f"Historical data updated in {historical_path}")
 
     return results
+
+def merge_json_files(folder_path, output_folder):
+    final_data = []
+
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.json'):
+            file_path = os.path.join(folder_path, filename)
+            with open(file_path, 'r', encoding='utf-8') as file:
+                extracted_data = json.load(file)
+
+                # Case 1: Idealista API -> dict with "elementList"
+                if isinstance(extracted_data, dict) and "elementList" in extracted_data:
+                    final_data.extend(extracted_data["elementList"])
+
+                # Case 2: Already a list
+                elif isinstance(extracted_data, list):
+                    final_data.extend(extracted_data)
+
+                # Case strange: dict without "elementList"
+                else:
+                    print(f"⚠️ Warning: {filename} do not have 'elementList'. Ignored.")
+
+    os.makedirs(output_folder, exist_ok=True)
+
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+    output_file = os.path.join(output_folder, f"merged_data_{timestamp}.json")
+    with open(output_file, 'w', encoding='utf-8') as outfile:
+        json.dump(final_data, outfile, indent=4, ensure_ascii=False)
+
+    print(f"✅ Files combined in {output_file}. Total number of properties: {len(final_data)}")
+    return final_data
      

@@ -267,14 +267,12 @@ def preprocess_train_data(data):
 
     #Creating the new columns
     df["hasParkingSpace"] = df["parkingSpace"].apply(lambda x: x["hasParkingSpace"] if pd.notna(x) else None)
-    df["isParkingSpaceIncludedInPrice"] = df["parkingSpace"].apply(lambda x: x.get("isParkingSpaceIncludedInPrice") if pd.notna(x) else None)
 
     # Dropping the original column
     df = df.drop(columns=["parkingSpace"])
 
     # Filling NaN values with False
     df["hasParkingSpace"] = df["hasParkingSpace"].fillna(False).astype(bool)
-    df["isParkingSpaceIncludedInPrice"] = df["isParkingSpaceIncludedInPrice"].fillna(False).astype(bool)
 
     # Rewriting detailedType with the content of subTypology if exists, else with typology
     df["detailedType"] = df["detailedType"].apply(
@@ -310,8 +308,6 @@ def preprocess_train_data(data):
     # Fill missing size values for garages (all the na values are garages)
     df["size"] = df.apply(fill_garage_size, axis=1)
 
-    # Drop duplicate rows if any
-    df = df.drop_duplicates()
 
     # Fill missing districts and neighborhoods using geopy
     df = fill_missing_districts_neighborhoods_with_geopy(df)
@@ -346,6 +342,10 @@ def preprocess_train_data(data):
 
     #Fill nan values in priceByArea with the value in avg_price_area_by_type_size_neigh
     df['priceByArea'] = df['priceByArea'].fillna(df['avg_price_area_by_type_size_neigh'])
+
+    df = df.drop(columns=['avg_price_area_by_type_size_neigh', 'size_range'])  # Drop the helper column
+
+    df = df.drop_duplicates()
 
     # Null check
     missing_rows = df[df.isnull().any(axis=1)]

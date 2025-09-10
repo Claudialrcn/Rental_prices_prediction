@@ -1,3 +1,26 @@
+"""
+────────────────────────────────────────────────────────────
+📄 app_utils.py
+────────────────────────────────────────────────────────────
+This file provides utility functions to support the real estate 
+dashboard application.
+
+It includes:
+    - Geolocation helpers to convert coordinates to municipality, 
+      district, and neighborhood, with fallback to nearest centroids.
+    - Distance calculation functions (Haversine, geodesic).
+    - Functions to retrieve floor and size options from the dataset.
+    - Functions to assign size ranges based on property type.
+    - Estimation of average price per area based on historical data.
+    - Functions to make property price predictions using trained 
+      machine learning models (Random Forest for rent and sale).
+    - Encoding of categorical variables to match model requirements.
+
+⚠️ Note: Some functions require pre-trained models and encoded 
+         objects stored in the 'models/' and 'data/' directories.
+"""
+
+
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 from geopy.distance import geodesic
@@ -8,11 +31,12 @@ import joblib
 import json
 import pickle
 
+#============================================== DATA ==============================================
 location_centroids = pd.read_pickle("data/working_data/datalocation_centroids.pkl")
 
 df = pd.read_csv("data/working_data/data_cleaned_20250827.csv")
 
-# Leemos nuestro modelo
+# Load the model
 rent_model = joblib.load("models/RandomForestRegressor_rent_production_202509011542.joblib")
 sale_model = joblib.load("models/RandomForestRegressor_sale_production_202509011610.joblib")
 
@@ -20,13 +44,14 @@ sale_model = joblib.load("models/RandomForestRegressor_sale_production_202509011
 with open("data/size_bins_by_detailedType.json", 'r') as f:
     size_bins_by_detailedType = json.load(f)
 
-# Inicializa el geolocalizador globalmente
+# Initialize geolocator
 geolocator = Nominatim(user_agent="malaga-app-geocoder")
 reverse = partial(geolocator.reverse, language="es", addressdetails=True)
 
 with open("data/app_data/encoders.pkl", 'rb') as f:
     encoders = pickle.load(f)
 
+#============================================== FUNCTIONS ==============================================
 
 def get_size_options(df):
     df_grouped = df.groupby('detailedType')['size'].agg(['min', 'max']).reset_index()
